@@ -1,6 +1,6 @@
 # How our APIs work
 ## Base concept
-**The base concept is:**
+**The base concept is:[^1] [^2]**
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {
   "background": "#1f1f1f",
@@ -17,7 +17,7 @@
 
 flowchart LR
     A(["CLI App / Browser"]) -->|HTTP Request| B(["Cloudflare"])
-    B -->|Forward| C(["API"])
+    B -->|Forward| C(["API Code"])
     C -->|HTTP Response| B
     B -->|Return| A
 
@@ -31,7 +31,7 @@ flowchart LR
     linkStyle 3 stroke:#a0a0a0,stroke-width:2px,color:#ffffff
 ```
 ## Error handling
-Common HTTP status codes returned by our APIs[^1]:
+Common HTTP status codes returned by our APIs[^3]:
 
 | Status | Meaning                                    |
 |:------:|:-------------------------------------------|
@@ -61,4 +61,6 @@ flowchart LR
     style G fill:#9b2020,stroke:#ff5555,color:#fff
 ```
 
-[^1]: These are not all possible response codes. This list may be expanded in the future.
+[^1]: These APIs use a serverless architecture.
+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+[^3]: These are not all possible response codes. This list may be expanded in the future.
