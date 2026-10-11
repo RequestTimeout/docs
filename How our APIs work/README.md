@@ -62,5 +62,5 @@ flowchart LR
 ```
 
 [^1]: These APIs use a serverless architecture.
-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
 [^3]: These are not all possible response codes. This list may be expanded in the future.
