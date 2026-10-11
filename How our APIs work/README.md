@@ -61,4 +61,4 @@ flowchart LR
     style G fill:#9b2020,stroke:#ff5555,color:#fff
 ```
 
-[^1]: These are not all the response codes and might get added to later.
+[^1]: These are not all possible response codes. This list may be expanded in the future.
