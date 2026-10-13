@@ -164,4957 +164,8026 @@ index 9a7f5e6..212a2c8 100644
 # docs
 ```diff
 diff --git a/repos.md b/repos.md
-index 8ffbb65..59d9184 100644
+index 59d9184..f8fc4e2 100644
 --- a/repos.md
 +++ b/repos.md
-@@ -164,1886 +164,3084 @@ index 9a7f5e6..212a2c8 100644
+@@ -164,3085 +164,4957 @@ index 9a7f5e6..212a2c8 100644
  # docs
  ```diff
  diff --git a/repos.md b/repos.md
--index 25170c2..67a36a9 100644
-+index 67a36a9..8ffbb65 100644
+-index 67a36a9..8ffbb65 100644
++index 8ffbb65..59d9184 100644
  --- a/repos.md
  +++ b/repos.md
--@@ -160,716 +160,1179 @@ index d2fe92c..857a8ac 100644
-+@@ -145,1194 +145,1906 @@ index d2fe92c..857a8ac 100644
-+ ```
-+ # requesttimeout.github.io
-+ ```diff
-+-diff --git a/LICENSE.md b/LICENSE.md
-+-index d2fe92c..857a8ac 100644
-+---- a/LICENSE.md
-+-+++ b/LICENSE.md
-+-@@ -1,6 +1,6 @@
-+- # All Rights Reserved
-+- 
-+--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+- 
-+- All rights reserved.
-++diff --git a/services/index.html b/services/index.html
-++index 9a7f5e6..212a2c8 100644
-++--- a/services/index.html
-+++++ b/services/index.html
-++@@ -8,10 +8,6 @@
-++     name="description"
-++     content="RequestTimeout Services — developer services, APIs, and useful things made by RequestTimeout."
-++ >
-++-  <link rel="icon" href="/assets/images/icon%2032x32.svg" sizes="32x32">
-++-  <link rel="icon" href="/assets/images/icon%20512x512.svg" sizes="512x512">
-++-  <link rel="apple-touch-icon" href="/assets/images/icon%20512x512.svg">
-++-
-++   <style>
-++     :root {
-++       --bg: #0b0d11;
-+ ```
+-@@ -145,1194 +145,1906 @@ index d2fe92c..857a8ac 100644
+- ```
+- # requesttimeout.github.io
+- ```diff
+--diff --git a/LICENSE.md b/LICENSE.md
+--index d2fe92c..857a8ac 100644
+----- a/LICENSE.md
+--+++ b/LICENSE.md
+--@@ -1,6 +1,6 @@
+-- # All Rights Reserved
+-- 
+---Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-- 
+-- All rights reserved.
+-+diff --git a/services/index.html b/services/index.html
+-+index 9a7f5e6..212a2c8 100644
+-+--- a/services/index.html
+-++++ b/services/index.html
+-+@@ -8,10 +8,6 @@
+-+     name="description"
+-+     content="RequestTimeout Services — developer services, APIs, and useful things made by RequestTimeout."
+-+ >
+-+-  <link rel="icon" href="/assets/images/icon%2032x32.svg" sizes="32x32">
+-+-  <link rel="icon" href="/assets/images/icon%20512x512.svg" sizes="512x512">
+-+-  <link rel="apple-touch-icon" href="/assets/images/icon%20512x512.svg">
+-+-
+-+   <style>
+-+     :root {
+-+       --bg: #0b0d11;
+- ```
++@@ -164,1886 +164,3084 @@ index 9a7f5e6..212a2c8 100644
   # docs
   ```diff
   diff --git a/repos.md b/repos.md
---index ce4ae9e..0462e4b 100644
--+index 0462e4b..25170c2 100644
-+-index 0462e4b..25170c2 100644
-++index 25170c2..67a36a9 100644
+--index 0462e4b..25170c2 100644
+-+index 25170c2..67a36a9 100644
++-index 25170c2..67a36a9 100644
+++index 67a36a9..8ffbb65 100644
   --- a/repos.md
   +++ b/repos.md
---@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
--+@@ -160,468 +160,716 @@ index d2fe92c..857a8ac 100644
-+-@@ -160,468 +160,716 @@ index d2fe92c..857a8ac 100644
-++@@ -160,716 +160,1179 @@ index d2fe92c..857a8ac 100644
+--@@ -160,468 +160,716 @@ index d2fe92c..857a8ac 100644
+-+@@ -160,716 +160,1179 @@ index d2fe92c..857a8ac 100644
++-@@ -160,716 +160,1179 @@ index d2fe92c..857a8ac 100644
+++@@ -145,1194 +145,1906 @@ index d2fe92c..857a8ac 100644
+++ ```
+++ # requesttimeout.github.io
+++ ```diff
+++-diff --git a/LICENSE.md b/LICENSE.md
+++-index d2fe92c..857a8ac 100644
+++---- a/LICENSE.md
+++-+++ b/LICENSE.md
+++-@@ -1,6 +1,6 @@
+++- # All Rights Reserved
+++- 
+++--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++- 
+++- All rights reserved.
++++diff --git a/services/index.html b/services/index.html
++++index 9a7f5e6..212a2c8 100644
++++--- a/services/index.html
+++++++ b/services/index.html
++++@@ -8,10 +8,6 @@
++++     name="description"
++++     content="RequestTimeout Services — developer services, APIs, and useful things made by RequestTimeout."
++++ >
++++-  <link rel="icon" href="/assets/images/icon%2032x32.svg" sizes="32x32">
++++-  <link rel="icon" href="/assets/images/icon%20512x512.svg" sizes="512x512">
++++-  <link rel="apple-touch-icon" href="/assets/images/icon%20512x512.svg">
++++-
++++   <style>
++++     :root {
++++       --bg: #0b0d11;
+++ ```
    # docs
    ```diff
    diff --git a/repos.md b/repos.md
----index 32d2b60..cd59e87 100644
---+index cd59e87..ce4ae9e 100644
--+-index cd59e87..ce4ae9e 100644
--++index ce4ae9e..0462e4b 100644
-+--index cd59e87..ce4ae9e 100644
-+-+index ce4ae9e..0462e4b 100644
-++-index ce4ae9e..0462e4b 100644
-+++index 0462e4b..25170c2 100644
+---index cd59e87..ce4ae9e 100644
+--+index ce4ae9e..0462e4b 100644
+-+-index ce4ae9e..0462e4b 100644
+-++index 0462e4b..25170c2 100644
++--index ce4ae9e..0462e4b 100644
++-+index 0462e4b..25170c2 100644
+++-index 0462e4b..25170c2 100644
++++index 25170c2..67a36a9 100644
    --- a/repos.md
    +++ b/repos.md
----@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
---- ```
---- # .github
---- ```diff
-----diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-----index c853676..ee71c7a 100644
-------- a/.github/workflows/action.yml
-----+++ b/.github/workflows/action.yml
-----@@ -26,5 +26,8 @@ jobs:
-----           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-----         run: |
-----           python scripts/check_repo.py
-----+          echo "$(printf '=%.0s' {1..100})"
-----           python scripts/repo_count.py
-----+          echo "$(printf '=%.0s' {1..100})"
-----           python scripts/diff.py
-----+          echo "$(printf '=%.0s' {1..100})"
----+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
----+index 1294a5e..fd47ea9 100644
----+--- a/scripts/repo_count.py
----++++ b/scripts/repo_count.py
----+@@ -7,7 +7,7 @@
----+     "Accept": "application/vnd.github+json",
----+     "X-GitHub-Api-Version": "2022-11-28",
----+ }
----+-public, public = 0, 0
----++public, private = 0, 0
----+ page = 1
----+ 
----+ while True:
---- ```
---- # localS
---- ```diff
----@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
---- ```
---+@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
---+ @@ -1,6 +1,6 @@
---+  # All Rights Reserved
---+  
---+--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+- 
---+- All rights reserved.
---+-```
---+-# hosting
---+-```diff
---+-diff --git a/LICENSE.md b/LICENSE.md
---+-index d2fe92c..857a8ac 100644
---+---- a/LICENSE.md
---+-+++ b/LICENSE.md
---+-@@ -1,6 +1,6 @@
---+- # All Rights Reserved
---+- 
---+ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+  
---+@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
--+-@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
--+- @@ -1,6 +1,6 @@
--+-  # All Rights Reserved
--+-  
--+---Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-- 
--+-- All rights reserved.
--+--```
--+--# hosting
--+--```diff
--+--diff --git a/LICENSE.md b/LICENSE.md
--+--index d2fe92c..857a8ac 100644
--+----- a/LICENSE.md
--+--+++ b/LICENSE.md
--+--@@ -1,6 +1,6 @@
--+-- # All Rights Reserved
--+-- 
--+- -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+- +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-  
--+-@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
--++@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
-+--@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
-+-- @@ -1,6 +1,6 @@
-+--  # All Rights Reserved
-+--  
-+----Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--- 
-+--- All rights reserved.
-+---```
-+---# hosting
-+---```diff
-+---diff --git a/LICENSE.md b/LICENSE.md
-+---index d2fe92c..857a8ac 100644
-+------ a/LICENSE.md
-+---+++ b/LICENSE.md
-+---@@ -1,6 +1,6 @@
-+--- # All Rights Reserved
-+--- 
-+-- -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-- +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--  
-+--@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
-+-+@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
-++-@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
-+++@@ -160,468 +160,716 @@ index d2fe92c..857a8ac 100644
+---@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
+--- @@ -1,6 +1,6 @@
+---  # All Rights Reserved
+---  
+-----Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---- 
+---- All rights reserved.
+----```
+----# hosting
+----```diff
+----diff --git a/LICENSE.md b/LICENSE.md
+----index d2fe92c..857a8ac 100644
+------- a/LICENSE.md
+----+++ b/LICENSE.md
+----@@ -1,6 +1,6 @@
+---- # All Rights Reserved
+---- 
+--- -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--- +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---  
+---@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
+--+@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
+-+-@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
+-++@@ -160,468 +160,716 @@ index d2fe92c..857a8ac 100644
++--@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
++-+@@ -160,468 +160,716 @@ index d2fe92c..857a8ac 100644
+++-@@ -160,468 +160,716 @@ index d2fe92c..857a8ac 100644
++++@@ -160,716 +160,1179 @@ index d2fe92c..857a8ac 100644
     # docs
     ```diff
-----diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-----index b19448e..642d169 100644
-------- a/How our APIs work/README.md	
-----+++ b/How our APIs work/README.md	
-----@@ -62,5 +62,5 @@ flowchart LR
----- ```
----- 
----- [^1]: These APIs use a serverless architecture.
------[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-----+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
----- [^3]: These are not all possible response codes. This list may be expanded in the future.
----+diff --git a/repos.md b/repos.md
----+new file mode 100644
----+index 0000000..32d2b60
----+--- /dev/null
----++++ b/repos.md
----+@@ -0,0 +1,187 @@
----++# modID
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# .github
----++```diff
----++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
----++index c853676..ee71c7a 100644
----++--- a/.github/workflows/action.yml
----+++++ b/.github/workflows/action.yml
----++@@ -26,5 +26,8 @@ jobs:
----++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
----++         run: |
----++           python scripts/check_repo.py
----+++          echo "$(printf '=%.0s' {1..100})"
----++           python scripts/repo_count.py
----+++          echo "$(printf '=%.0s' {1..100})"
----++           python scripts/diff.py
----+++          echo "$(printf '=%.0s' {1..100})"
----++```
----++# localS
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# CurlS
----++```diff
----++diff --git a/HowTo.md b/HowTo.md
----++index 27cd68d..415ce8c 100644
----++--- a/HowTo.md
----+++++ b/HowTo.md
----++@@ -5,8 +5,7 @@
----++ > Some Features Might Not Work On MacOS or Linux.
----++ 
----++ ### Installation
----++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
----++-and download the file.
----+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
----++ 
----++ ---
----++ Then drop the .py file somewhere accessible, like:
----++```
----++# RandG
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# Jsonify
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# FibF
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# RegexIt
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# Refs
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# RElog
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# requesttimeout.github.io
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# hosting
----++```diff
----++diff --git a/LICENSE.md b/LICENSE.md
----++index d2fe92c..857a8ac 100644
----++--- a/LICENSE.md
----+++++ b/LICENSE.md
----++@@ -1,6 +1,6 @@
----++ # All Rights Reserved
----++ 
----++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
----+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
----++ 
----++ All rights reserved.
----++```
----++# docs
----++```diff
----++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
----++index b19448e..642d169 100644
----++--- a/How our APIs work/README.md	
----+++++ b/How our APIs work/README.md	
----++@@ -62,5 +62,5 @@ flowchart LR
----++ ```
----++ 
----++ [^1]: These APIs use a serverless architecture.
----++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
----+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
----++ [^3]: These are not all possible response codes. This list may be expanded in the future.
----++```
---+ diff --git a/repos.md b/repos.md
---+-new file mode 100644
---+-index 0000000..32d2b60
---+---- /dev/null
---++index 32d2b60..cd59e87 100644
---++--- a/repos.md
---+ +++ b/repos.md
---+-@@ -0,0 +1,187 @@
---+-+# modID
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# .github
---+-+```diff
---+-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
---+-+index c853676..ee71c7a 100644
---+-+--- a/.github/workflows/action.yml
---+-++++ b/.github/workflows/action.yml
---+-+@@ -26,5 +26,8 @@ jobs:
---+-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
---+-+         run: |
---+-+           python scripts/check_repo.py
---+-++          echo "$(printf '=%.0s' {1..100})"
---+-+           python scripts/repo_count.py
---+-++          echo "$(printf '=%.0s' {1..100})"
---+-+           python scripts/diff.py
---+-++          echo "$(printf '=%.0s' {1..100})"
---+-+```
---+-+# localS
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# CurlS
---+-+```diff
---+-+diff --git a/HowTo.md b/HowTo.md
---+-+index 27cd68d..415ce8c 100644
---+-+--- a/HowTo.md
---+-++++ b/HowTo.md
---+-+@@ -5,8 +5,7 @@
---+-+ > Some Features Might Not Work On MacOS or Linux.
---+-+ 
---+-+ ### Installation
---+-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
---+-+-and download the file.
---+-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
---+-+ 
---+-+ ---
---+-+ Then drop the .py file somewhere accessible, like:
---+-+```
---+-+# RandG
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# Jsonify
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# FibF
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# RegexIt
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# Refs
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# RElog
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# requesttimeout.github.io
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# hosting
---+-+```diff
---+-+diff --git a/LICENSE.md b/LICENSE.md
---+-+index d2fe92c..857a8ac 100644
---+-+--- a/LICENSE.md
---+-++++ b/LICENSE.md
---+-+@@ -1,6 +1,6 @@
---+-+ # All Rights Reserved
---+-+ 
---+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---+-+ 
---+-+ All rights reserved.
---+-+```
---+-+# docs
---+-+```diff
---+-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
---+-+index b19448e..642d169 100644
---+-+--- a/How our APIs work/README.md	
---+-++++ b/How our APIs work/README.md	
---+-+@@ -62,5 +62,5 @@ flowchart LR
---+-+ ```
---++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
---++ ```
---++ # .github
---++ ```diff
---++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
---++-index c853676..ee71c7a 100644
---++---- a/.github/workflows/action.yml
---++-+++ b/.github/workflows/action.yml
---++-@@ -26,5 +26,8 @@ jobs:
---++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
---++-         run: |
---++-           python scripts/check_repo.py
---++-+          echo "$(printf '=%.0s' {1..100})"
---++-           python scripts/repo_count.py
---++-+          echo "$(printf '=%.0s' {1..100})"
---++-           python scripts/diff.py
---++-+          echo "$(printf '=%.0s' {1..100})"
---+++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
---+++index 1294a5e..fd47ea9 100644
---+++--- a/scripts/repo_count.py
---++++++ b/scripts/repo_count.py
---+++@@ -7,7 +7,7 @@
---+++     "Accept": "application/vnd.github+json",
---+++     "X-GitHub-Api-Version": "2022-11-28",
---+++ }
---+++-public, public = 0, 0
---++++public, private = 0, 0
---+++ page = 1
---+ + 
---+-+ [^1]: These APIs use a serverless architecture.
---+-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
---+-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
---+-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
---+-+```
---+++ while True:
---++ ```
---++ # localS
---++ ```diff
---++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
---++ ```
---++ # docs
---++ ```diff
---++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
---++-index b19448e..642d169 100644
---++---- a/How our APIs work/README.md	
---++-+++ b/How our APIs work/README.md	
---++-@@ -62,5 +62,5 @@ flowchart LR
---++- ```
--+  diff --git a/repos.md b/repos.md
--+--new file mode 100644
--+--index 0000000..32d2b60
--+----- /dev/null
--+-+index 32d2b60..cd59e87 100644
--+-+--- a/repos.md
--++-index 32d2b60..cd59e87 100644
--+++index cd59e87..ce4ae9e 100644
--++ --- a/repos.md
--+  +++ b/repos.md
--+--@@ -0,0 +1,187 @@
--+--+# modID
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--++-@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
--++- ```
--++- # .github
--++- ```diff
--++--diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
--++--index c853676..ee71c7a 100644
--++----- a/.github/workflows/action.yml
--++--+++ b/.github/workflows/action.yml
--++--@@ -26,5 +26,8 @@ jobs:
--++--           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
--++--         run: |
--++--           python scripts/check_repo.py
--++--+          echo "$(printf '=%.0s' {1..100})"
--++--           python scripts/repo_count.py
--++--+          echo "$(printf '=%.0s' {1..100})"
--++--           python scripts/diff.py
--++--+          echo "$(printf '=%.0s' {1..100})"
--++-+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
--++-+index 1294a5e..fd47ea9 100644
--++-+--- a/scripts/repo_count.py
--++-++++ b/scripts/repo_count.py
--++-+@@ -7,7 +7,7 @@
--++-+     "Accept": "application/vnd.github+json",
--++-+     "X-GitHub-Api-Version": "2022-11-28",
--++-+ }
--++-+-public, public = 0, 0
--++-++public, private = 0, 0
--++-+ page = 1
--+ -+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# .github
--+--+```diff
--+--+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
--+--+index c853676..ee71c7a 100644
--+--+--- a/.github/workflows/action.yml
--+--++++ b/.github/workflows/action.yml
--+--+@@ -26,5 +26,8 @@ jobs:
--+--+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
--+--+         run: |
--+--+           python scripts/check_repo.py
--+--++          echo "$(printf '=%.0s' {1..100})"
--+--+           python scripts/repo_count.py
--+--++          echo "$(printf '=%.0s' {1..100})"
--+--+           python scripts/diff.py
--+--++          echo "$(printf '=%.0s' {1..100})"
--+--+```
--+--+# localS
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--+--+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# CurlS
--+--+```diff
--+--+diff --git a/HowTo.md b/HowTo.md
--+--+index 27cd68d..415ce8c 100644
--+--+--- a/HowTo.md
--+--++++ b/HowTo.md
--+--+@@ -5,8 +5,7 @@
--+--+ > Some Features Might Not Work On MacOS or Linux.
--+--+ 
--+--+ ### Installation
--+--+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
--+--+-and download the file.
--+--++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
--+--+ 
--+--+ ---
--+--+ Then drop the .py file somewhere accessible, like:
--+--+```
--+--+# RandG
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--+--+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# Jsonify
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--+--+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# FibF
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--+--+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# RegexIt
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--+--+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# Refs
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--+--+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# RElog
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--+--+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# requesttimeout.github.io
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--+--+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# hosting
--+--+```diff
--+--+diff --git a/LICENSE.md b/LICENSE.md
--+--+index d2fe92c..857a8ac 100644
--+--+--- a/LICENSE.md
--+--++++ b/LICENSE.md
--+--+@@ -1,6 +1,6 @@
--+--+ # All Rights Reserved
--+--+ 
--+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+--+ 
--+--+ All rights reserved.
--+--+```
--+--+# docs
--+--+```diff
--+--+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
--+--+index b19448e..642d169 100644
--+--+--- a/How our APIs work/README.md	
--+--++++ b/How our APIs work/README.md	
--+--+@@ -62,5 +62,5 @@ flowchart LR
--+--+ ```
--+-+@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
--+-+ ```
--+-+ # .github
--+-+ ```diff
--+-+-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
--+-+-index c853676..ee71c7a 100644
--+-+---- a/.github/workflows/action.yml
--+-+-+++ b/.github/workflows/action.yml
--+-+-@@ -26,5 +26,8 @@ jobs:
--+-+-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
--+-+-         run: |
--+-+-           python scripts/check_repo.py
--+-+-+          echo "$(printf '=%.0s' {1..100})"
--+-+-           python scripts/repo_count.py
--+-+-+          echo "$(printf '=%.0s' {1..100})"
--+-+-           python scripts/diff.py
--+-+-+          echo "$(printf '=%.0s' {1..100})"
--+-++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
--+-++index 1294a5e..fd47ea9 100644
--+-++--- a/scripts/repo_count.py
--+-+++++ b/scripts/repo_count.py
--+-++@@ -7,7 +7,7 @@
--+-++     "Accept": "application/vnd.github+json",
--+-++     "X-GitHub-Api-Version": "2022-11-28",
--+-++ }
--+-++-public, public = 0, 0
--+-+++public, private = 0, 0
--+-++ page = 1
--+- + 
--+--+ [^1]: These APIs use a serverless architecture.
--+--+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
--+--++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
--+--+ [^3]: These are not all possible response codes. This list may be expanded in the future.
--+--+```
--+-++ while True:
--+-+ ```
--+-+ # localS
--+-+ ```diff
--+-+@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
--+-+ ```
--+-+ # docs
--+-+ ```diff
--+-+-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
--+-+-index b19448e..642d169 100644
--+-+---- a/How our APIs work/README.md	
--+-+-+++ b/How our APIs work/README.md	
--+-+-@@ -62,5 +62,5 @@ flowchart LR
--+-+- ```
--++-+ while True:
--++- ```
--++- # localS
--++- ```diff
--++-@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
--++- ```
--+++@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
--+++ @@ -1,6 +1,6 @@
--+++  # All Rights Reserved
--+++  
--+++--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-- ++- 
---++- [^1]: These APIs use a serverless architecture.
---++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
---++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
---++- [^3]: These are not all possible response codes. This list may be expanded in the future.
---+++diff --git a/repos.md b/repos.md
---+++new file mode 100644
---+++index 0000000..32d2b60
---+++--- /dev/null
---++++++ b/repos.md
---+++@@ -0,0 +1,187 @@
---++++# modID
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# .github
---++++```diff
---++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
---++++index c853676..ee71c7a 100644
---++++--- a/.github/workflows/action.yml
---+++++++ b/.github/workflows/action.yml
---++++@@ -26,5 +26,8 @@ jobs:
---++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
---++++         run: |
---++++           python scripts/check_repo.py
---+++++          echo "$(printf '=%.0s' {1..100})"
---++++           python scripts/repo_count.py
---+++++          echo "$(printf '=%.0s' {1..100})"
---++++           python scripts/diff.py
---+++++          echo "$(printf '=%.0s' {1..100})"
---++++```
---++++# localS
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# CurlS
---++++```diff
---++++diff --git a/HowTo.md b/HowTo.md
---++++index 27cd68d..415ce8c 100644
---++++--- a/HowTo.md
---+++++++ b/HowTo.md
---++++@@ -5,8 +5,7 @@
---++++ > Some Features Might Not Work On MacOS or Linux.
---++++ 
---++++ ### Installation
---++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
---++++-and download the file.
---+++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
---++++ 
---++++ ---
---++++ Then drop the .py file somewhere accessible, like:
---++++```
---++++# RandG
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# Jsonify
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# FibF
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# RegexIt
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# Refs
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# RElog
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# requesttimeout.github.io
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# hosting
---++++```diff
---++++diff --git a/LICENSE.md b/LICENSE.md
---++++index d2fe92c..857a8ac 100644
---++++--- a/LICENSE.md
---+++++++ b/LICENSE.md
---++++@@ -1,6 +1,6 @@
---++++ # All Rights Reserved
---++++ 
---++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
---+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
---++++ 
---++++ All rights reserved.
---++++```
---++++# docs
---++++```diff
---++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
---++++index b19448e..642d169 100644
---++++--- a/How our APIs work/README.md	
---+++++++ b/How our APIs work/README.md	
---++++@@ -62,5 +62,5 @@ flowchart LR
---++++ ```
---++++ 
---++++ [^1]: These APIs use a serverless architecture.
---++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
---+++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
---++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
---++++```
---++ ```
--+++- All rights reserved.
--+++-```
--+++-# hosting
--+++-```diff
--+++-diff --git a/LICENSE.md b/LICENSE.md
--+++-index d2fe92c..857a8ac 100644
--+++---- a/LICENSE.md
--+++-+++ b/LICENSE.md
--+++-@@ -1,6 +1,6 @@
--+++- # All Rights Reserved
--+ +- 
--+-+- [^1]: These APIs use a serverless architecture.
--+-+--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
--+-+-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
--+-+- [^3]: These are not all possible response codes. This list may be expanded in the future.
--+-++diff --git a/repos.md b/repos.md
--+-++new file mode 100644
--+-++index 0000000..32d2b60
--+-++--- /dev/null
--+-+++++ b/repos.md
--+-++@@ -0,0 +1,187 @@
--+-+++# modID
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# .github
--+-+++```diff
--+-+++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
--+-+++index c853676..ee71c7a 100644
--+-+++--- a/.github/workflows/action.yml
--+-++++++ b/.github/workflows/action.yml
--+-+++@@ -26,5 +26,8 @@ jobs:
--+-+++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
--+-+++         run: |
--+-+++           python scripts/check_repo.py
--+-++++          echo "$(printf '=%.0s' {1..100})"
--+-+++           python scripts/repo_count.py
--+-++++          echo "$(printf '=%.0s' {1..100})"
--+-+++           python scripts/diff.py
--+-++++          echo "$(printf '=%.0s' {1..100})"
--+-+++```
--+-+++# localS
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# CurlS
--+-+++```diff
--+-+++diff --git a/HowTo.md b/HowTo.md
--+-+++index 27cd68d..415ce8c 100644
--+-+++--- a/HowTo.md
--+-++++++ b/HowTo.md
--+-+++@@ -5,8 +5,7 @@
--+-+++ > Some Features Might Not Work On MacOS or Linux.
--+-+++ 
--+-+++ ### Installation
--+-+++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
--+-+++-and download the file.
--+-++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
--+-+++ 
--+-+++ ---
--+-+++ Then drop the .py file somewhere accessible, like:
--+-+++```
--+-+++# RandG
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# Jsonify
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# FibF
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# RegexIt
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# Refs
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# RElog
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# requesttimeout.github.io
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# hosting
--+-+++```diff
--+-+++diff --git a/LICENSE.md b/LICENSE.md
--+-+++index d2fe92c..857a8ac 100644
--+-+++--- a/LICENSE.md
--+-++++++ b/LICENSE.md
--+-+++@@ -1,6 +1,6 @@
--+-+++ # All Rights Reserved
--+-+++ 
--+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+-+++ 
--+-+++ All rights reserved.
--+-+++```
--+-+++# docs
--+-+++```diff
--+-+++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
--+-+++index b19448e..642d169 100644
--+-+++--- a/How our APIs work/README.md	
--+-++++++ b/How our APIs work/README.md	
--+-+++@@ -62,5 +62,5 @@ flowchart LR
--+-+++ ```
--+-+++ 
--+-+++ [^1]: These APIs use a serverless architecture.
--+-+++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
--+-++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
--+-+++ [^3]: These are not all possible response codes. This list may be expanded in the future.
--+-+++```
--+-+ ```
--+++ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++  
--+++@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
--++  # docs
--++  ```diff
--++--diff --git a/How our APIs work/README.md b/How our APIs work/README.md
--++--index b19448e..642d169 100644
--++----- a/How our APIs work/README.md	
--++--+++ b/How our APIs work/README.md	
--++--@@ -62,5 +62,5 @@ flowchart LR
--++-- ```
-+   diff --git a/repos.md b/repos.md
-+---new file mode 100644
-+---index 0000000..32d2b60
-+------ /dev/null
-+--+index 32d2b60..cd59e87 100644
-+--+--- a/repos.md
-+-+-index 32d2b60..cd59e87 100644
-+-++index cd59e87..ce4ae9e 100644
-+-+ --- a/repos.md
-++--index 32d2b60..cd59e87 100644
-++-+index cd59e87..ce4ae9e 100644
-+++-index cd59e87..ce4ae9e 100644
-++++index ce4ae9e..0462e4b 100644
-++  --- a/repos.md
-+   +++ b/repos.md
-+---@@ -0,0 +1,187 @@
-+---+# modID
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-+-+-@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
-+-+- ```
-+-+- # .github
-+-+- ```diff
-+-+--diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+-+--index c853676..ee71c7a 100644
-+-+----- a/.github/workflows/action.yml
-+-+--+++ b/.github/workflows/action.yml
-+-+--@@ -26,5 +26,8 @@ jobs:
-+-+--           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+-+--         run: |
-+-+--           python scripts/check_repo.py
-+-+--+          echo "$(printf '=%.0s' {1..100})"
-+-+--           python scripts/repo_count.py
-+-+--+          echo "$(printf '=%.0s' {1..100})"
-+-+--           python scripts/diff.py
-+-+--+          echo "$(printf '=%.0s' {1..100})"
-+-+-+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
-+-+-+index 1294a5e..fd47ea9 100644
-+-+-+--- a/scripts/repo_count.py
-+-+-++++ b/scripts/repo_count.py
-+-+-+@@ -7,7 +7,7 @@
-+-+-+     "Accept": "application/vnd.github+json",
-+-+-+     "X-GitHub-Api-Version": "2022-11-28",
-+-+-+ }
-+-+-+-public, public = 0, 0
-+-+-++public, private = 0, 0
-+-+-+ page = 1
-+- -+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# .github
-+---+```diff
-+---+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+---+index c853676..ee71c7a 100644
-+---+--- a/.github/workflows/action.yml
-+---++++ b/.github/workflows/action.yml
-+---+@@ -26,5 +26,8 @@ jobs:
-+---+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+---+         run: |
-+---+           python scripts/check_repo.py
-+---++          echo "$(printf '=%.0s' {1..100})"
-+---+           python scripts/repo_count.py
-+---++          echo "$(printf '=%.0s' {1..100})"
-+---+           python scripts/diff.py
-+---++          echo "$(printf '=%.0s' {1..100})"
-+---+```
-+---+# localS
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-+---+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# CurlS
-+---+```diff
-+---+diff --git a/HowTo.md b/HowTo.md
-+---+index 27cd68d..415ce8c 100644
-+---+--- a/HowTo.md
-+---++++ b/HowTo.md
-+---+@@ -5,8 +5,7 @@
-+---+ > Some Features Might Not Work On MacOS or Linux.
-+---+ 
-+---+ ### Installation
-+---+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-+---+-and download the file.
-+---++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-+---+ 
-+---+ ---
-+---+ Then drop the .py file somewhere accessible, like:
-+---+```
-+---+# RandG
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-++--@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
-++-- ```
-++-- # .github
-++-- ```diff
-++---diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-++---index c853676..ee71c7a 100644
-++------ a/.github/workflows/action.yml
-++---+++ b/.github/workflows/action.yml
-++---@@ -26,5 +26,8 @@ jobs:
-++---           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-++---         run: |
-++---           python scripts/check_repo.py
-++---+          echo "$(printf '=%.0s' {1..100})"
-++---           python scripts/repo_count.py
-++---+          echo "$(printf '=%.0s' {1..100})"
-++---           python scripts/diff.py
-++---+          echo "$(printf '=%.0s' {1..100})"
-++--+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
-++--+index 1294a5e..fd47ea9 100644
-++--+--- a/scripts/repo_count.py
-++--++++ b/scripts/repo_count.py
-++--+@@ -7,7 +7,7 @@
-++--+     "Accept": "application/vnd.github+json",
-++--+     "X-GitHub-Api-Version": "2022-11-28",
-++--+ }
-++--+-public, public = 0, 0
-++--++public, private = 0, 0
-++--+ page = 1
-+ --+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# Jsonify
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-+---+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# FibF
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-+---+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# RegexIt
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-+---+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# Refs
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-+---+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# RElog
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-+---+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# requesttimeout.github.io
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-+---+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# hosting
-+---+```diff
-+---+diff --git a/LICENSE.md b/LICENSE.md
-+---+index d2fe92c..857a8ac 100644
-+---+--- a/LICENSE.md
-+---++++ b/LICENSE.md
-+---+@@ -1,6 +1,6 @@
-+---+ # All Rights Reserved
-+---+ 
-+---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+---+ 
-+---+ All rights reserved.
-+---+```
-+---+# docs
-+---+```diff
-+---+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+---+index b19448e..642d169 100644
-+---+--- a/How our APIs work/README.md	
-+---++++ b/How our APIs work/README.md	
-+---+@@ -62,5 +62,5 @@ flowchart LR
-+---+ ```
-+--+@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
-+--+ ```
-+--+ # .github
-+--+ ```diff
-+--+-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+--+-index c853676..ee71c7a 100644
-+--+---- a/.github/workflows/action.yml
-+--+-+++ b/.github/workflows/action.yml
-+--+-@@ -26,5 +26,8 @@ jobs:
-+--+-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+--+-         run: |
-+--+-           python scripts/check_repo.py
-+--+-+          echo "$(printf '=%.0s' {1..100})"
-+--+-           python scripts/repo_count.py
-+--+-+          echo "$(printf '=%.0s' {1..100})"
-+--+-           python scripts/diff.py
-+--+-+          echo "$(printf '=%.0s' {1..100})"
-+--++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
-+--++index 1294a5e..fd47ea9 100644
-+--++--- a/scripts/repo_count.py
-+--+++++ b/scripts/repo_count.py
-+--++@@ -7,7 +7,7 @@
-+--++     "Accept": "application/vnd.github+json",
-+--++     "X-GitHub-Api-Version": "2022-11-28",
-+--++ }
-+--++-public, public = 0, 0
-+--+++public, private = 0, 0
-+--++ page = 1
-+-- + 
-+---+ [^1]: These APIs use a serverless architecture.
-+---+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+---++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+---+ [^3]: These are not all possible response codes. This list may be expanded in the future.
-+---+```
-+--++ while True:
-+--+ ```
-+--+ # localS
-+--+ ```diff
-+--+@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
-+--+ ```
-+--+ # docs
-+--+ ```diff
-+--+-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+--+-index b19448e..642d169 100644
-+--+---- a/How our APIs work/README.md	
-+--+-+++ b/How our APIs work/README.md	
-+--+-@@ -62,5 +62,5 @@ flowchart LR
-+--+- ```
-+-+-+ while True:
-+-+- ```
-+-+- # localS
-+-+- ```diff
-+-+-@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
-+-+- ```
-+-++@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
-+-++ @@ -1,6 +1,6 @@
-+-++  # All Rights Reserved
-+-++  
-+-++--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++- 
-+-++- All rights reserved.
-+-++-```
-+-++-# hosting
-+-++-```diff
-+-++-diff --git a/LICENSE.md b/LICENSE.md
-+-++-index d2fe92c..857a8ac 100644
-+-++---- a/LICENSE.md
-+-++-+++ b/LICENSE.md
-+-++-@@ -1,6 +1,6 @@
-+-++- # All Rights Reserved
-+- +- 
-+--+- [^1]: These APIs use a serverless architecture.
-+--+--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+--+-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+--+- [^3]: These are not all possible response codes. This list may be expanded in the future.
-+--++diff --git a/repos.md b/repos.md
-+--++new file mode 100644
-+--++index 0000000..32d2b60
-+--++--- /dev/null
-+--+++++ b/repos.md
-+--++@@ -0,0 +1,187 @@
-+--+++# modID
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# .github
-+--+++```diff
-+--+++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+--+++index c853676..ee71c7a 100644
-+--+++--- a/.github/workflows/action.yml
-+--++++++ b/.github/workflows/action.yml
-+--+++@@ -26,5 +26,8 @@ jobs:
-+--+++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+--+++         run: |
-+--+++           python scripts/check_repo.py
-+--++++          echo "$(printf '=%.0s' {1..100})"
-+--+++           python scripts/repo_count.py
-+--++++          echo "$(printf '=%.0s' {1..100})"
-+--+++           python scripts/diff.py
-+--++++          echo "$(printf '=%.0s' {1..100})"
-+--+++```
-+--+++# localS
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# CurlS
-+--+++```diff
-+--+++diff --git a/HowTo.md b/HowTo.md
-+--+++index 27cd68d..415ce8c 100644
-+--+++--- a/HowTo.md
-+--++++++ b/HowTo.md
-+--+++@@ -5,8 +5,7 @@
-+--+++ > Some Features Might Not Work On MacOS or Linux.
-+--+++ 
-+--+++ ### Installation
-+--+++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-+--+++-and download the file.
-+--++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-+--+++ 
-+--+++ ---
-+--+++ Then drop the .py file somewhere accessible, like:
-+--+++```
-+--+++# RandG
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# Jsonify
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# FibF
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# RegexIt
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# Refs
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# RElog
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# requesttimeout.github.io
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# hosting
-+--+++```diff
-+--+++diff --git a/LICENSE.md b/LICENSE.md
-+--+++index d2fe92c..857a8ac 100644
-+--+++--- a/LICENSE.md
-+--++++++ b/LICENSE.md
-+--+++@@ -1,6 +1,6 @@
-+--+++ # All Rights Reserved
-+--+++ 
-+--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+--+++ 
-+--+++ All rights reserved.
-+--+++```
-+--+++# docs
-+--+++```diff
-+--+++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+--+++index b19448e..642d169 100644
-+--+++--- a/How our APIs work/README.md	
-+--++++++ b/How our APIs work/README.md	
-+--+++@@ -62,5 +62,5 @@ flowchart LR
-+--+++ ```
-+--+++ 
-+--+++ [^1]: These APIs use a serverless architecture.
-+--+++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+--++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+--+++ [^3]: These are not all possible response codes. This list may be expanded in the future.
-+--+++```
-+--+ ```
-+-++ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++  
-+-++@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
-+-+  # docs
-+-+  ```diff
-+-+--diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+-+--index b19448e..642d169 100644
-+-+----- a/How our APIs work/README.md	
-+-+--+++ b/How our APIs work/README.md	
-+-+--@@ -62,5 +62,5 @@ flowchart LR
-+-+-- ```
-++--+ while True:
-++-- ```
-++-- # localS
-++-- ```diff
-++--@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
-++-- ```
-++-+@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
-++-+ @@ -1,6 +1,6 @@
-++-+  # All Rights Reserved
-++-+  
-++-+--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+- 
-++-+- All rights reserved.
-++-+-```
-++-+-# hosting
-++-+-```diff
-++-+-diff --git a/LICENSE.md b/LICENSE.md
-++-+-index d2fe92c..857a8ac 100644
-++-+---- a/LICENSE.md
-++-+-+++ b/LICENSE.md
-++-+-@@ -1,6 +1,6 @@
-++-+- # All Rights Reserved
-++-+- 
-++-+ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+  
-++-+@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
-+++-@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
-+++- @@ -1,6 +1,6 @@
-+++-  # All Rights Reserved
-+++-  
-+++---Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
- ++-- 
--++-- [^1]: These APIs use a serverless architecture.
--++---[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
--++--+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
--++-- [^3]: These are not all possible response codes. This list may be expanded in the future.
--++-+diff --git a/repos.md b/repos.md
--++-+new file mode 100644
--++-+index 0000000..32d2b60
--++-+--- /dev/null
--++-++++ b/repos.md
--++-+@@ -0,0 +1,187 @@
--++-++# modID
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# .github
--++-++```diff
--++-++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
--++-++index c853676..ee71c7a 100644
--++-++--- a/.github/workflows/action.yml
--++-+++++ b/.github/workflows/action.yml
--++-++@@ -26,5 +26,8 @@ jobs:
--++-++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
--++-++         run: |
--++-++           python scripts/check_repo.py
--++-+++          echo "$(printf '=%.0s' {1..100})"
--++-++           python scripts/repo_count.py
--++-+++          echo "$(printf '=%.0s' {1..100})"
--++-++           python scripts/diff.py
--++-+++          echo "$(printf '=%.0s' {1..100})"
--++-++```
--++-++# localS
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# CurlS
--++-++```diff
--++-++diff --git a/HowTo.md b/HowTo.md
--++-++index 27cd68d..415ce8c 100644
--++-++--- a/HowTo.md
--++-+++++ b/HowTo.md
--++-++@@ -5,8 +5,7 @@
--++-++ > Some Features Might Not Work On MacOS or Linux.
--++-++ 
--++-++ ### Installation
--++-++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
--++-++-and download the file.
--++-+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
--++-++ 
--++-++ ---
--++-++ Then drop the .py file somewhere accessible, like:
--++-++```
--++-++# RandG
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# Jsonify
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# FibF
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# RegexIt
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# Refs
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# RElog
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# requesttimeout.github.io
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# hosting
--++-++```diff
--++-++diff --git a/LICENSE.md b/LICENSE.md
--++-++index d2fe92c..857a8ac 100644
--++-++--- a/LICENSE.md
--++-+++++ b/LICENSE.md
--++-++@@ -1,6 +1,6 @@
--++-++ # All Rights Reserved
--++-++ 
--++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++-++ 
--++-++ All rights reserved.
--++-++```
--++-++# docs
--++-++```diff
--++-++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
--++-++index b19448e..642d169 100644
--++-++--- a/How our APIs work/README.md	
--++-+++++ b/How our APIs work/README.md	
--++-++@@ -62,5 +62,5 @@ flowchart LR
--++-++ ```
--++-++ 
--++-++ [^1]: These APIs use a serverless architecture.
--++-++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
--++-+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
--++-++ [^3]: These are not all possible response codes. This list may be expanded in the future.
--++-++```
--+++ diff --git a/repos.md b/repos.md
--+++-new file mode 100644
--+++-index 0000000..32d2b60
--+++---- /dev/null
--++++index 32d2b60..cd59e87 100644
--++++--- a/repos.md
--+++ +++ b/repos.md
--+++-@@ -0,0 +1,187 @@
--+++-+# modID
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# .github
--+++-+```diff
--+++-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
--+++-+index c853676..ee71c7a 100644
--+++-+--- a/.github/workflows/action.yml
--+++-++++ b/.github/workflows/action.yml
--+++-+@@ -26,5 +26,8 @@ jobs:
--+++-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
--+++-+         run: |
--+++-+           python scripts/check_repo.py
--+++-++          echo "$(printf '=%.0s' {1..100})"
--+++-+           python scripts/repo_count.py
--+++-++          echo "$(printf '=%.0s' {1..100})"
--+++-+           python scripts/diff.py
--+++-++          echo "$(printf '=%.0s' {1..100})"
--+++-+```
--+++-+# localS
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# CurlS
--+++-+```diff
--+++-+diff --git a/HowTo.md b/HowTo.md
--+++-+index 27cd68d..415ce8c 100644
--+++-+--- a/HowTo.md
--+++-++++ b/HowTo.md
--+++-+@@ -5,8 +5,7 @@
--+++-+ > Some Features Might Not Work On MacOS or Linux.
--+++-+ 
--+++-+ ### Installation
--+++-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
--+++-+-and download the file.
--+++-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
--+++-+ 
--+++-+ ---
--+++-+ Then drop the .py file somewhere accessible, like:
--+++-+```
--+++-+# RandG
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# Jsonify
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# FibF
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# RegexIt
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# Refs
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# RElog
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# requesttimeout.github.io
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# hosting
--+++-+```diff
--+++-+diff --git a/LICENSE.md b/LICENSE.md
--+++-+index d2fe92c..857a8ac 100644
--+++-+--- a/LICENSE.md
--+++-++++ b/LICENSE.md
--+++-+@@ -1,6 +1,6 @@
--+++-+ # All Rights Reserved
--+++-+ 
--+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--+++-+ 
--+++-+ All rights reserved.
--+++-+```
--+++-+# docs
--+++-+```diff
--+++-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
--+++-+index b19448e..642d169 100644
--+++-+--- a/How our APIs work/README.md	
--+++-++++ b/How our APIs work/README.md	
--+++-+@@ -62,5 +62,5 @@ flowchart LR
--+++-+ ```
--++++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
--++++ ```
--++++ # .github
--++++ ```diff
--++++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
--++++-index c853676..ee71c7a 100644
--++++---- a/.github/workflows/action.yml
--++++-+++ b/.github/workflows/action.yml
--++++-@@ -26,5 +26,8 @@ jobs:
--++++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
--++++-         run: |
--++++-           python scripts/check_repo.py
--++++-+          echo "$(printf '=%.0s' {1..100})"
--++++-           python scripts/repo_count.py
--++++-+          echo "$(printf '=%.0s' {1..100})"
--++++-           python scripts/diff.py
--++++-+          echo "$(printf '=%.0s' {1..100})"
--+++++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
--+++++index 1294a5e..fd47ea9 100644
--+++++--- a/scripts/repo_count.py
--++++++++ b/scripts/repo_count.py
--+++++@@ -7,7 +7,7 @@
--+++++     "Accept": "application/vnd.github+json",
--+++++     "X-GitHub-Api-Version": "2022-11-28",
--+++++ }
--+++++-public, public = 0, 0
--++++++public, private = 0, 0
--+++++ page = 1
--+++ + 
--+++-+ [^1]: These APIs use a serverless architecture.
--+++-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
--+++-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
--+++-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
--+++-+```
--+++++ while True:
--++++ ```
--++++ # localS
--++++ ```diff
--++++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
--++++ ```
--++++ # docs
--++++ ```diff
--++++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
--++++-index b19448e..642d169 100644
--++++---- a/How our APIs work/README.md	
--++++-+++ b/How our APIs work/README.md	
--++++-@@ -62,5 +62,5 @@ flowchart LR
--++++- ```
--++++- 
--++++- [^1]: These APIs use a serverless architecture.
--++++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
--++++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
--++++- [^3]: These are not all possible response codes. This list may be expanded in the future.
--+++++diff --git a/repos.md b/repos.md
--+++++new file mode 100644
--+++++index 0000000..32d2b60
--+++++--- /dev/null
--++++++++ b/repos.md
--+++++@@ -0,0 +1,187 @@
--++++++# modID
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# .github
--++++++```diff
--++++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
--++++++index c853676..ee71c7a 100644
--++++++--- a/.github/workflows/action.yml
--+++++++++ b/.github/workflows/action.yml
--++++++@@ -26,5 +26,8 @@ jobs:
--++++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
--++++++         run: |
--++++++           python scripts/check_repo.py
--+++++++          echo "$(printf '=%.0s' {1..100})"
--++++++           python scripts/repo_count.py
--+++++++          echo "$(printf '=%.0s' {1..100})"
--++++++           python scripts/diff.py
--+++++++          echo "$(printf '=%.0s' {1..100})"
--++++++```
--++++++# localS
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# CurlS
--++++++```diff
--++++++diff --git a/HowTo.md b/HowTo.md
--++++++index 27cd68d..415ce8c 100644
--++++++--- a/HowTo.md
--+++++++++ b/HowTo.md
--++++++@@ -5,8 +5,7 @@
--++++++ > Some Features Might Not Work On MacOS or Linux.
--++++++ 
--++++++ ### Installation
--++++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
--++++++-and download the file.
--+++++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
--++++++ 
--++++++ ---
--++++++ Then drop the .py file somewhere accessible, like:
--++++++```
--++++++# RandG
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# Jsonify
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# FibF
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# RegexIt
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# Refs
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# RElog
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# requesttimeout.github.io
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# hosting
--++++++```diff
--++++++diff --git a/LICENSE.md b/LICENSE.md
--++++++index d2fe92c..857a8ac 100644
--++++++--- a/LICENSE.md
--+++++++++ b/LICENSE.md
--++++++@@ -1,6 +1,6 @@
--++++++ # All Rights Reserved
--++++++ 
--++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
--+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
--++++++ 
--++++++ All rights reserved.
--++++++```
--++++++# docs
--++++++```diff
--++++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
--++++++index b19448e..642d169 100644
--++++++--- a/How our APIs work/README.md	
--+++++++++ b/How our APIs work/README.md	
--++++++@@ -62,5 +62,5 @@ flowchart LR
--++++++ ```
--++++++ 
--++++++ [^1]: These APIs use a serverless architecture.
--++++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
--+++++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
--++++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
--++++++```
--++++ ```
--++  ```
-+++-- All rights reserved.
-+++--```
-+++--# hosting
-+++--```diff
-+++--diff --git a/LICENSE.md b/LICENSE.md
-+++--index d2fe92c..857a8ac 100644
-+++----- a/LICENSE.md
-+++--+++ b/LICENSE.md
-+++--@@ -1,6 +1,6 @@
-+++-- # All Rights Reserved
-+ +-- 
-+-+-- [^1]: These APIs use a serverless architecture.
-+-+---[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+-+--+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+-+-- [^3]: These are not all possible response codes. This list may be expanded in the future.
-+-+-+diff --git a/repos.md b/repos.md
-+-+-+new file mode 100644
-+-+-+index 0000000..32d2b60
-+-+-+--- /dev/null
-+-+-++++ b/repos.md
-+-+-+@@ -0,0 +1,187 @@
-+-+-++# modID
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# .github
-+-+-++```diff
-+-+-++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+-+-++index c853676..ee71c7a 100644
-+-+-++--- a/.github/workflows/action.yml
-+-+-+++++ b/.github/workflows/action.yml
-+-+-++@@ -26,5 +26,8 @@ jobs:
-+-+-++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+-+-++         run: |
-+-+-++           python scripts/check_repo.py
-+-+-+++          echo "$(printf '=%.0s' {1..100})"
-+-+-++           python scripts/repo_count.py
-+-+-+++          echo "$(printf '=%.0s' {1..100})"
-+-+-++           python scripts/diff.py
-+-+-+++          echo "$(printf '=%.0s' {1..100})"
-+-+-++```
-+-+-++# localS
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# CurlS
-+-+-++```diff
-+-+-++diff --git a/HowTo.md b/HowTo.md
-+-+-++index 27cd68d..415ce8c 100644
-+-+-++--- a/HowTo.md
-+-+-+++++ b/HowTo.md
-+-+-++@@ -5,8 +5,7 @@
-+-+-++ > Some Features Might Not Work On MacOS or Linux.
-+-+-++ 
-+-+-++ ### Installation
-+-+-++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-+-+-++-and download the file.
-+-+-+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-+-+-++ 
-+-+-++ ---
-+-+-++ Then drop the .py file somewhere accessible, like:
-+-+-++```
-+-+-++# RandG
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# Jsonify
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# FibF
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# RegexIt
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# Refs
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# RElog
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# requesttimeout.github.io
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# hosting
-+-+-++```diff
-+-+-++diff --git a/LICENSE.md b/LICENSE.md
-+-+-++index d2fe92c..857a8ac 100644
-+-+-++--- a/LICENSE.md
-+-+-+++++ b/LICENSE.md
-+-+-++@@ -1,6 +1,6 @@
-+-+-++ # All Rights Reserved
-+-+-++ 
-+-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+-++ 
-+-+-++ All rights reserved.
-+-+-++```
-+-+-++# docs
-+-+-++```diff
-+-+-++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+-+-++index b19448e..642d169 100644
-+-+-++--- a/How our APIs work/README.md	
-+-+-+++++ b/How our APIs work/README.md	
-+-+-++@@ -62,5 +62,5 @@ flowchart LR
-+-+-++ ```
-+-+-++ 
-+-+-++ [^1]: These APIs use a serverless architecture.
-+-+-++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+-+-+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+-+-++ [^3]: These are not all possible response codes. This list may be expanded in the future.
-+-+-++```
-+-++ diff --git a/repos.md b/repos.md
-+-++-new file mode 100644
-+-++-index 0000000..32d2b60
-+-++---- /dev/null
-+-+++index 32d2b60..cd59e87 100644
-+-+++--- a/repos.md
-+-++ +++ b/repos.md
-+-++-@@ -0,0 +1,187 @@
-+-++-+# modID
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# .github
-+-++-+```diff
-+-++-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+-++-+index c853676..ee71c7a 100644
-+-++-+--- a/.github/workflows/action.yml
-+-++-++++ b/.github/workflows/action.yml
-+-++-+@@ -26,5 +26,8 @@ jobs:
-+-++-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+-++-+         run: |
-+-++-+           python scripts/check_repo.py
-+-++-++          echo "$(printf '=%.0s' {1..100})"
-+-++-+           python scripts/repo_count.py
-+-++-++          echo "$(printf '=%.0s' {1..100})"
-+-++-+           python scripts/diff.py
-+-++-++          echo "$(printf '=%.0s' {1..100})"
-+-++-+```
-+-++-+# localS
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# CurlS
-+-++-+```diff
-+-++-+diff --git a/HowTo.md b/HowTo.md
-+-++-+index 27cd68d..415ce8c 100644
-+-++-+--- a/HowTo.md
-+-++-++++ b/HowTo.md
-+-++-+@@ -5,8 +5,7 @@
-+-++-+ > Some Features Might Not Work On MacOS or Linux.
-+-++-+ 
-+-++-+ ### Installation
-+-++-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-+-++-+-and download the file.
-+-++-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-+-++-+ 
-+-++-+ ---
-+-++-+ Then drop the .py file somewhere accessible, like:
-+-++-+```
-+-++-+# RandG
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# Jsonify
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# FibF
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# RegexIt
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# Refs
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# RElog
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# requesttimeout.github.io
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# hosting
-+-++-+```diff
-+-++-+diff --git a/LICENSE.md b/LICENSE.md
-+-++-+index d2fe92c..857a8ac 100644
-+-++-+--- a/LICENSE.md
-+-++-++++ b/LICENSE.md
-+-++-+@@ -1,6 +1,6 @@
-+-++-+ # All Rights Reserved
-+-++-+ 
-+-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-++-+ 
-+-++-+ All rights reserved.
-+-++-+```
-+-++-+# docs
-+-++-+```diff
-+-++-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+-++-+index b19448e..642d169 100644
-+-++-+--- a/How our APIs work/README.md	
-+-++-++++ b/How our APIs work/README.md	
-+-++-+@@ -62,5 +62,5 @@ flowchart LR
-+-++-+ ```
-+-+++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
-+-+++ ```
-+-+++ # .github
-+-+++ ```diff
-+-+++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+-+++-index c853676..ee71c7a 100644
-+-+++---- a/.github/workflows/action.yml
-+-+++-+++ b/.github/workflows/action.yml
-+-+++-@@ -26,5 +26,8 @@ jobs:
-+-+++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+-+++-         run: |
-+-+++-           python scripts/check_repo.py
-+-+++-+          echo "$(printf '=%.0s' {1..100})"
-+-+++-           python scripts/repo_count.py
-+-+++-+          echo "$(printf '=%.0s' {1..100})"
-+-+++-           python scripts/diff.py
-+-+++-+          echo "$(printf '=%.0s' {1..100})"
-+-++++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
-+-++++index 1294a5e..fd47ea9 100644
-+-++++--- a/scripts/repo_count.py
-+-+++++++ b/scripts/repo_count.py
-+-++++@@ -7,7 +7,7 @@
-+-++++     "Accept": "application/vnd.github+json",
-+-++++     "X-GitHub-Api-Version": "2022-11-28",
-+-++++ }
-+-++++-public, public = 0, 0
-+-+++++public, private = 0, 0
-+-++++ page = 1
-+-++ + 
-+-++-+ [^1]: These APIs use a serverless architecture.
-+-++-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+-++-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+-++-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
-+-++-+```
-+-++++ while True:
-+-+++ ```
-+-+++ # localS
-+-+++ ```diff
-+-+++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
-+-+++ ```
-+-+++ # docs
-+-+++ ```diff
-+-+++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+-+++-index b19448e..642d169 100644
-+-+++---- a/How our APIs work/README.md	
-+-+++-+++ b/How our APIs work/README.md	
-+-+++-@@ -62,5 +62,5 @@ flowchart LR
-+-+++- ```
-+-+++- 
-+-+++- [^1]: These APIs use a serverless architecture.
-+-+++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+-+++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+-+++- [^3]: These are not all possible response codes. This list may be expanded in the future.
-+-++++diff --git a/repos.md b/repos.md
-+-++++new file mode 100644
-+-++++index 0000000..32d2b60
-+-++++--- /dev/null
-+-+++++++ b/repos.md
-+-++++@@ -0,0 +1,187 @@
-+-+++++# modID
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# .github
-+-+++++```diff
-+-+++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+-+++++index c853676..ee71c7a 100644
-+-+++++--- a/.github/workflows/action.yml
-+-++++++++ b/.github/workflows/action.yml
-+-+++++@@ -26,5 +26,8 @@ jobs:
-+-+++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+-+++++         run: |
-+-+++++           python scripts/check_repo.py
-+-++++++          echo "$(printf '=%.0s' {1..100})"
-+-+++++           python scripts/repo_count.py
-+-++++++          echo "$(printf '=%.0s' {1..100})"
-+-+++++           python scripts/diff.py
-+-++++++          echo "$(printf '=%.0s' {1..100})"
-+-+++++```
-+-+++++# localS
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# CurlS
-+-+++++```diff
-+-+++++diff --git a/HowTo.md b/HowTo.md
-+-+++++index 27cd68d..415ce8c 100644
-+-+++++--- a/HowTo.md
-+-++++++++ b/HowTo.md
-+-+++++@@ -5,8 +5,7 @@
-+-+++++ > Some Features Might Not Work On MacOS or Linux.
-+-+++++ 
-+-+++++ ### Installation
-+-+++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-+-+++++-and download the file.
-+-++++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-+-+++++ 
-+-+++++ ---
-+-+++++ Then drop the .py file somewhere accessible, like:
-+-+++++```
-+-+++++# RandG
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# Jsonify
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# FibF
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# RegexIt
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# Refs
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# RElog
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# requesttimeout.github.io
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# hosting
-+-+++++```diff
-+-+++++diff --git a/LICENSE.md b/LICENSE.md
-+-+++++index d2fe92c..857a8ac 100644
-+-+++++--- a/LICENSE.md
-+-++++++++ b/LICENSE.md
-+-+++++@@ -1,6 +1,6 @@
-+-+++++ # All Rights Reserved
-+-+++++ 
-+-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+-+++++ 
-+-+++++ All rights reserved.
-+-+++++```
-+-+++++# docs
-+-+++++```diff
-+-+++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+-+++++index b19448e..642d169 100644
-+-+++++--- a/How our APIs work/README.md	
-+-++++++++ b/How our APIs work/README.md	
-+-+++++@@ -62,5 +62,5 @@ flowchart LR
-+-+++++ ```
-+-+++++ 
-+-+++++ [^1]: These APIs use a serverless architecture.
-+-+++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+-++++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+-+++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
-+-+++++```
-+-+++ ```
-+-+  ```
-+++- -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++- +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-  
-+++-@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
-++++@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
-++   # docs
-++   ```diff
-++---diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-++---index b19448e..642d169 100644
-++------ a/How our APIs work/README.md	
-++---+++ b/How our APIs work/README.md	
-++---@@ -62,5 +62,5 @@ flowchart LR
-++--- ```
+    diff --git a/repos.md b/repos.md
+----new file mode 100644
+----index 0000000..32d2b60
+------- /dev/null
+---+index 32d2b60..cd59e87 100644
+---+--- a/repos.md
+--+-index 32d2b60..cd59e87 100644
+--++index cd59e87..ce4ae9e 100644
+--+ --- a/repos.md
+-+--index 32d2b60..cd59e87 100644
+-+-+index cd59e87..ce4ae9e 100644
+-++-index cd59e87..ce4ae9e 100644
+-+++index ce4ae9e..0462e4b 100644
+-+  --- a/repos.md
++---index 32d2b60..cd59e87 100644
++--+index cd59e87..ce4ae9e 100644
++-+-index cd59e87..ce4ae9e 100644
++-++index ce4ae9e..0462e4b 100644
+++--index cd59e87..ce4ae9e 100644
+++-+index ce4ae9e..0462e4b 100644
++++-index ce4ae9e..0462e4b 100644
+++++index 0462e4b..25170c2 100644
++   --- a/repos.md
+    +++ b/repos.md
+----@@ -0,0 +1,187 @@
+----+# modID
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
+--+-@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+--+- ```
+--+- # .github
+--+- ```diff
+--+--diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+--+--index c853676..ee71c7a 100644
+--+----- a/.github/workflows/action.yml
+--+--+++ b/.github/workflows/action.yml
+--+--@@ -26,5 +26,8 @@ jobs:
+--+--           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+--+--         run: |
+--+--           python scripts/check_repo.py
+--+--+          echo "$(printf '=%.0s' {1..100})"
+--+--           python scripts/repo_count.py
+--+--+          echo "$(printf '=%.0s' {1..100})"
+--+--           python scripts/diff.py
+--+--+          echo "$(printf '=%.0s' {1..100})"
+--+-+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+--+-+index 1294a5e..fd47ea9 100644
+--+-+--- a/scripts/repo_count.py
+--+-++++ b/scripts/repo_count.py
+--+-+@@ -7,7 +7,7 @@
+--+-+     "Accept": "application/vnd.github+json",
+--+-+     "X-GitHub-Api-Version": "2022-11-28",
+--+-+ }
+--+-+-public, public = 0, 0
+--+-++public, private = 0, 0
+--+-+ page = 1
+-- -+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# .github
+----+```diff
+----+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+----+index c853676..ee71c7a 100644
+----+--- a/.github/workflows/action.yml
+----++++ b/.github/workflows/action.yml
+----+@@ -26,5 +26,8 @@ jobs:
+----+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+----+         run: |
+----+           python scripts/check_repo.py
+----++          echo "$(printf '=%.0s' {1..100})"
+----+           python scripts/repo_count.py
+----++          echo "$(printf '=%.0s' {1..100})"
+----+           python scripts/diff.py
+----++          echo "$(printf '=%.0s' {1..100})"
+----+```
+----+# localS
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
+----+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# CurlS
+----+```diff
+----+diff --git a/HowTo.md b/HowTo.md
+----+index 27cd68d..415ce8c 100644
+----+--- a/HowTo.md
+----++++ b/HowTo.md
+----+@@ -5,8 +5,7 @@
+----+ > Some Features Might Not Work On MacOS or Linux.
+----+ 
+----+ ### Installation
+----+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+----+-and download the file.
+----++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+----+ 
+----+ ---
+----+ Then drop the .py file somewhere accessible, like:
+----+```
+----+# RandG
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
+-+--@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+-+-- ```
+-+-- # .github
+-+-- ```diff
+-+---diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-+---index c853676..ee71c7a 100644
+-+------ a/.github/workflows/action.yml
+-+---+++ b/.github/workflows/action.yml
+-+---@@ -26,5 +26,8 @@ jobs:
+-+---           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-+---         run: |
+-+---           python scripts/check_repo.py
+-+---+          echo "$(printf '=%.0s' {1..100})"
+-+---           python scripts/repo_count.py
+-+---+          echo "$(printf '=%.0s' {1..100})"
+-+---           python scripts/diff.py
+-+---+          echo "$(printf '=%.0s' {1..100})"
+-+--+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+-+--+index 1294a5e..fd47ea9 100644
+-+--+--- a/scripts/repo_count.py
+-+--++++ b/scripts/repo_count.py
+-+--+@@ -7,7 +7,7 @@
+-+--+     "Accept": "application/vnd.github+json",
+-+--+     "X-GitHub-Api-Version": "2022-11-28",
+-+--+ }
+-+--+-public, public = 0, 0
+-+--++public, private = 0, 0
+-+--+ page = 1
+- --+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# Jsonify
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
+----+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# FibF
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
+----+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# RegexIt
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
++---@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
++--- ```
++--- # .github
++--- ```diff
++----diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++----index c853676..ee71c7a 100644
++------- a/.github/workflows/action.yml
++----+++ b/.github/workflows/action.yml
++----@@ -26,5 +26,8 @@ jobs:
++----           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++----         run: |
++----           python scripts/check_repo.py
++----+          echo "$(printf '=%.0s' {1..100})"
++----           python scripts/repo_count.py
++----+          echo "$(printf '=%.0s' {1..100})"
++----           python scripts/diff.py
++----+          echo "$(printf '=%.0s' {1..100})"
++---+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
++---+index 1294a5e..fd47ea9 100644
++---+--- a/scripts/repo_count.py
++---++++ b/scripts/repo_count.py
++---+@@ -7,7 +7,7 @@
++---+     "Accept": "application/vnd.github+json",
++---+     "X-GitHub-Api-Version": "2022-11-28",
++---+ }
++---+-public, public = 0, 0
++---++public, private = 0, 0
++---+ page = 1
+ ---+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# Refs
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
+----+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# RElog
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
+----+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# requesttimeout.github.io
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
+----+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# hosting
+----+```diff
+----+diff --git a/LICENSE.md b/LICENSE.md
+----+index d2fe92c..857a8ac 100644
+----+--- a/LICENSE.md
+----++++ b/LICENSE.md
+----+@@ -1,6 +1,6 @@
+----+ # All Rights Reserved
+----+ 
+----+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+----++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+----+ 
+----+ All rights reserved.
+----+```
+----+# docs
+----+```diff
+----+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+----+index b19448e..642d169 100644
+----+--- a/How our APIs work/README.md	
+----++++ b/How our APIs work/README.md	
+----+@@ -62,5 +62,5 @@ flowchart LR
+----+ ```
+---+@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+---+ ```
+---+ # .github
+---+ ```diff
+---+-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+---+-index c853676..ee71c7a 100644
+---+---- a/.github/workflows/action.yml
+---+-+++ b/.github/workflows/action.yml
+---+-@@ -26,5 +26,8 @@ jobs:
+---+-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+---+-         run: |
+---+-           python scripts/check_repo.py
+---+-+          echo "$(printf '=%.0s' {1..100})"
+---+-           python scripts/repo_count.py
+---+-+          echo "$(printf '=%.0s' {1..100})"
+---+-           python scripts/diff.py
+---+-+          echo "$(printf '=%.0s' {1..100})"
+---++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+---++index 1294a5e..fd47ea9 100644
+---++--- a/scripts/repo_count.py
+---+++++ b/scripts/repo_count.py
+---++@@ -7,7 +7,7 @@
+---++     "Accept": "application/vnd.github+json",
+---++     "X-GitHub-Api-Version": "2022-11-28",
+---++ }
+---++-public, public = 0, 0
+---+++public, private = 0, 0
+---++ page = 1
+--- + 
+----+ [^1]: These APIs use a serverless architecture.
+----+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+----++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+----+ [^3]: These are not all possible response codes. This list may be expanded in the future.
+----+```
+---++ while True:
+---+ ```
+---+ # localS
+---+ ```diff
+---+@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+---+ ```
+---+ # docs
+---+ ```diff
+---+-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+---+-index b19448e..642d169 100644
+---+---- a/How our APIs work/README.md	
+---+-+++ b/How our APIs work/README.md	
+---+-@@ -62,5 +62,5 @@ flowchart LR
+---+- ```
+--+-+ while True:
+--+- ```
+--+- # localS
+--+- ```diff
+--+-@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+--+- ```
+--++@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
+--++ @@ -1,6 +1,6 @@
+--++  # All Rights Reserved
+--++  
+--++--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++- 
+--++- All rights reserved.
+--++-```
+--++-# hosting
+--++-```diff
+--++-diff --git a/LICENSE.md b/LICENSE.md
+--++-index d2fe92c..857a8ac 100644
+--++---- a/LICENSE.md
+--++-+++ b/LICENSE.md
+--++-@@ -1,6 +1,6 @@
+--++- # All Rights Reserved
+-- +- 
+---+- [^1]: These APIs use a serverless architecture.
+---+--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+---+-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+---+- [^3]: These are not all possible response codes. This list may be expanded in the future.
+---++diff --git a/repos.md b/repos.md
+---++new file mode 100644
+---++index 0000000..32d2b60
+---++--- /dev/null
+---+++++ b/repos.md
+---++@@ -0,0 +1,187 @@
+---+++# modID
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# .github
+---+++```diff
+---+++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+---+++index c853676..ee71c7a 100644
+---+++--- a/.github/workflows/action.yml
+---++++++ b/.github/workflows/action.yml
+---+++@@ -26,5 +26,8 @@ jobs:
+---+++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+---+++         run: |
+---+++           python scripts/check_repo.py
+---++++          echo "$(printf '=%.0s' {1..100})"
+---+++           python scripts/repo_count.py
+---++++          echo "$(printf '=%.0s' {1..100})"
+---+++           python scripts/diff.py
+---++++          echo "$(printf '=%.0s' {1..100})"
+---+++```
+---+++# localS
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# CurlS
+---+++```diff
+---+++diff --git a/HowTo.md b/HowTo.md
+---+++index 27cd68d..415ce8c 100644
+---+++--- a/HowTo.md
+---++++++ b/HowTo.md
+---+++@@ -5,8 +5,7 @@
+---+++ > Some Features Might Not Work On MacOS or Linux.
+---+++ 
+---+++ ### Installation
+---+++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+---+++-and download the file.
+---++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+---+++ 
+---+++ ---
+---+++ Then drop the .py file somewhere accessible, like:
+---+++```
+---+++# RandG
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# Jsonify
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# FibF
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# RegexIt
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# Refs
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# RElog
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# requesttimeout.github.io
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# hosting
+---+++```diff
+---+++diff --git a/LICENSE.md b/LICENSE.md
+---+++index d2fe92c..857a8ac 100644
+---+++--- a/LICENSE.md
+---++++++ b/LICENSE.md
+---+++@@ -1,6 +1,6 @@
+---+++ # All Rights Reserved
+---+++ 
+---+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+---++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+---+++ 
+---+++ All rights reserved.
+---+++```
+---+++# docs
+---+++```diff
+---+++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+---+++index b19448e..642d169 100644
+---+++--- a/How our APIs work/README.md	
+---++++++ b/How our APIs work/README.md	
+---+++@@ -62,5 +62,5 @@ flowchart LR
+---+++ ```
+---+++ 
+---+++ [^1]: These APIs use a serverless architecture.
+---+++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+---++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+---+++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+---+++```
+---+ ```
+--++ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++  
+--++@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
+--+  # docs
+--+  ```diff
+--+--diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+--+--index b19448e..642d169 100644
+--+----- a/How our APIs work/README.md	
+--+--+++ b/How our APIs work/README.md	
+--+--@@ -62,5 +62,5 @@ flowchart LR
+--+-- ```
+-+--+ while True:
+-+-- ```
+-+-- # localS
+-+-- ```diff
+-+--@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+-+-- ```
+-+-+@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
+-+-+ @@ -1,6 +1,6 @@
+-+-+  # All Rights Reserved
+-+-+  
+-+-+--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+- 
+-+-+- All rights reserved.
+-+-+-```
+-+-+-# hosting
+-+-+-```diff
+-+-+-diff --git a/LICENSE.md b/LICENSE.md
+-+-+-index d2fe92c..857a8ac 100644
+-+-+---- a/LICENSE.md
+-+-+-+++ b/LICENSE.md
+-+-+-@@ -1,6 +1,6 @@
+-+-+- # All Rights Reserved
+-+-+- 
+-+-+ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+  
+-+-+@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
+-++-@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
+-++- @@ -1,6 +1,6 @@
+-++-  # All Rights Reserved
+-++-  
+-++---Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-- 
+-++-- All rights reserved.
+-++--```
+-++--# hosting
+-++--```diff
+-++--diff --git a/LICENSE.md b/LICENSE.md
+-++--index d2fe92c..857a8ac 100644
+-++----- a/LICENSE.md
+-++--+++ b/LICENSE.md
+-++--@@ -1,6 +1,6 @@
+-++-- # All Rights Reserved
+- +-- 
+--+-- [^1]: These APIs use a serverless architecture.
+--+---[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+--+--+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+--+-- [^3]: These are not all possible response codes. This list may be expanded in the future.
+--+-+diff --git a/repos.md b/repos.md
+--+-+new file mode 100644
+--+-+index 0000000..32d2b60
+--+-+--- /dev/null
+--+-++++ b/repos.md
+--+-+@@ -0,0 +1,187 @@
+--+-++# modID
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# .github
+--+-++```diff
+--+-++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+--+-++index c853676..ee71c7a 100644
+--+-++--- a/.github/workflows/action.yml
+--+-+++++ b/.github/workflows/action.yml
+--+-++@@ -26,5 +26,8 @@ jobs:
+--+-++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+--+-++         run: |
+--+-++           python scripts/check_repo.py
+--+-+++          echo "$(printf '=%.0s' {1..100})"
+--+-++           python scripts/repo_count.py
+--+-+++          echo "$(printf '=%.0s' {1..100})"
+--+-++           python scripts/diff.py
+--+-+++          echo "$(printf '=%.0s' {1..100})"
+--+-++```
+--+-++# localS
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# CurlS
+--+-++```diff
+--+-++diff --git a/HowTo.md b/HowTo.md
+--+-++index 27cd68d..415ce8c 100644
+--+-++--- a/HowTo.md
+--+-+++++ b/HowTo.md
+--+-++@@ -5,8 +5,7 @@
+--+-++ > Some Features Might Not Work On MacOS or Linux.
+--+-++ 
+--+-++ ### Installation
+--+-++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+--+-++-and download the file.
+--+-+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+--+-++ 
+--+-++ ---
+--+-++ Then drop the .py file somewhere accessible, like:
+--+-++```
+--+-++# RandG
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# Jsonify
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# FibF
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# RegexIt
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# Refs
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# RElog
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# requesttimeout.github.io
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# hosting
+--+-++```diff
+--+-++diff --git a/LICENSE.md b/LICENSE.md
+--+-++index d2fe92c..857a8ac 100644
+--+-++--- a/LICENSE.md
+--+-+++++ b/LICENSE.md
+--+-++@@ -1,6 +1,6 @@
+--+-++ # All Rights Reserved
+--+-++ 
+--+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+-++ 
+--+-++ All rights reserved.
+--+-++```
+--+-++# docs
+--+-++```diff
+--+-++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+--+-++index b19448e..642d169 100644
+--+-++--- a/How our APIs work/README.md	
+--+-+++++ b/How our APIs work/README.md	
+--+-++@@ -62,5 +62,5 @@ flowchart LR
+--+-++ ```
+--+-++ 
+--+-++ [^1]: These APIs use a serverless architecture.
+--+-++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+--+-+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+--+-++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+--+-++```
+--++ diff --git a/repos.md b/repos.md
+--++-new file mode 100644
+--++-index 0000000..32d2b60
+--++---- /dev/null
+--+++index 32d2b60..cd59e87 100644
+--+++--- a/repos.md
+--++ +++ b/repos.md
+--++-@@ -0,0 +1,187 @@
+--++-+# modID
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# .github
+--++-+```diff
+--++-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+--++-+index c853676..ee71c7a 100644
+--++-+--- a/.github/workflows/action.yml
+--++-++++ b/.github/workflows/action.yml
+--++-+@@ -26,5 +26,8 @@ jobs:
+--++-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+--++-+         run: |
+--++-+           python scripts/check_repo.py
+--++-++          echo "$(printf '=%.0s' {1..100})"
+--++-+           python scripts/repo_count.py
+--++-++          echo "$(printf '=%.0s' {1..100})"
+--++-+           python scripts/diff.py
+--++-++          echo "$(printf '=%.0s' {1..100})"
+--++-+```
+--++-+# localS
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# CurlS
+--++-+```diff
+--++-+diff --git a/HowTo.md b/HowTo.md
+--++-+index 27cd68d..415ce8c 100644
+--++-+--- a/HowTo.md
+--++-++++ b/HowTo.md
+--++-+@@ -5,8 +5,7 @@
+--++-+ > Some Features Might Not Work On MacOS or Linux.
+--++-+ 
+--++-+ ### Installation
+--++-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+--++-+-and download the file.
+--++-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+--++-+ 
+--++-+ ---
+--++-+ Then drop the .py file somewhere accessible, like:
+--++-+```
+--++-+# RandG
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# Jsonify
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# FibF
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# RegexIt
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# Refs
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# RElog
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# requesttimeout.github.io
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# hosting
+--++-+```diff
+--++-+diff --git a/LICENSE.md b/LICENSE.md
+--++-+index d2fe92c..857a8ac 100644
+--++-+--- a/LICENSE.md
+--++-++++ b/LICENSE.md
+--++-+@@ -1,6 +1,6 @@
+--++-+ # All Rights Reserved
+--++-+ 
+--++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--++-+ 
+--++-+ All rights reserved.
+--++-+```
+--++-+# docs
+--++-+```diff
+--++-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+--++-+index b19448e..642d169 100644
+--++-+--- a/How our APIs work/README.md	
+--++-++++ b/How our APIs work/README.md	
+--++-+@@ -62,5 +62,5 @@ flowchart LR
+--++-+ ```
+--+++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+--+++ ```
+--+++ # .github
+--+++ ```diff
+--+++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+--+++-index c853676..ee71c7a 100644
+--+++---- a/.github/workflows/action.yml
+--+++-+++ b/.github/workflows/action.yml
+--+++-@@ -26,5 +26,8 @@ jobs:
+--+++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+--+++-         run: |
+--+++-           python scripts/check_repo.py
+--+++-+          echo "$(printf '=%.0s' {1..100})"
+--+++-           python scripts/repo_count.py
+--+++-+          echo "$(printf '=%.0s' {1..100})"
+--+++-           python scripts/diff.py
+--+++-+          echo "$(printf '=%.0s' {1..100})"
+--++++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+--++++index 1294a5e..fd47ea9 100644
+--++++--- a/scripts/repo_count.py
+--+++++++ b/scripts/repo_count.py
+--++++@@ -7,7 +7,7 @@
+--++++     "Accept": "application/vnd.github+json",
+--++++     "X-GitHub-Api-Version": "2022-11-28",
+--++++ }
+--++++-public, public = 0, 0
+--+++++public, private = 0, 0
+--++++ page = 1
+--++ + 
+--++-+ [^1]: These APIs use a serverless architecture.
+--++-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+--++-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+--++-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
+--++-+```
+--++++ while True:
+--+++ ```
+--+++ # localS
+--+++ ```diff
+--+++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+--+++ ```
+--+++ # docs
+--+++ ```diff
+--+++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+--+++-index b19448e..642d169 100644
+--+++---- a/How our APIs work/README.md	
+--+++-+++ b/How our APIs work/README.md	
+--+++-@@ -62,5 +62,5 @@ flowchart LR
+--+++- ```
+--+++- 
+--+++- [^1]: These APIs use a serverless architecture.
+--+++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+--+++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+--+++- [^3]: These are not all possible response codes. This list may be expanded in the future.
+--++++diff --git a/repos.md b/repos.md
+--++++new file mode 100644
+--++++index 0000000..32d2b60
+--++++--- /dev/null
+--+++++++ b/repos.md
+--++++@@ -0,0 +1,187 @@
+--+++++# modID
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# .github
+--+++++```diff
+--+++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+--+++++index c853676..ee71c7a 100644
+--+++++--- a/.github/workflows/action.yml
+--++++++++ b/.github/workflows/action.yml
+--+++++@@ -26,5 +26,8 @@ jobs:
+--+++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+--+++++         run: |
+--+++++           python scripts/check_repo.py
+--++++++          echo "$(printf '=%.0s' {1..100})"
+--+++++           python scripts/repo_count.py
+--++++++          echo "$(printf '=%.0s' {1..100})"
+--+++++           python scripts/diff.py
+--++++++          echo "$(printf '=%.0s' {1..100})"
+--+++++```
+--+++++# localS
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# CurlS
+--+++++```diff
+--+++++diff --git a/HowTo.md b/HowTo.md
+--+++++index 27cd68d..415ce8c 100644
+--+++++--- a/HowTo.md
+--++++++++ b/HowTo.md
+--+++++@@ -5,8 +5,7 @@
+--+++++ > Some Features Might Not Work On MacOS or Linux.
+--+++++ 
+--+++++ ### Installation
+--+++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+--+++++-and download the file.
+--++++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+--+++++ 
+--+++++ ---
+--+++++ Then drop the .py file somewhere accessible, like:
+--+++++```
+--+++++# RandG
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# Jsonify
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# FibF
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# RegexIt
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# Refs
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# RElog
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# requesttimeout.github.io
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# hosting
+--+++++```diff
+--+++++diff --git a/LICENSE.md b/LICENSE.md
+--+++++index d2fe92c..857a8ac 100644
+--+++++--- a/LICENSE.md
+--++++++++ b/LICENSE.md
+--+++++@@ -1,6 +1,6 @@
+--+++++ # All Rights Reserved
+--+++++ 
+--+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+--++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+--+++++ 
+--+++++ All rights reserved.
+--+++++```
+--+++++# docs
+--+++++```diff
+--+++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+--+++++index b19448e..642d169 100644
+--+++++--- a/How our APIs work/README.md	
+--++++++++ b/How our APIs work/README.md	
+--+++++@@ -62,5 +62,5 @@ flowchart LR
+--+++++ ```
+--+++++ 
+--+++++ [^1]: These APIs use a serverless architecture.
+--+++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+--++++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+--+++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+--+++++```
+--+++ ```
+--+  ```
+-++- -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++- +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-  
+-++-@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
+-+++@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
+-+   # docs
+-+   ```diff
+-+---diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-+---index b19448e..642d169 100644
+-+------ a/How our APIs work/README.md	
+-+---+++ b/How our APIs work/README.md	
+-+---@@ -62,5 +62,5 @@ flowchart LR
+-+--- ```
++---+ while True:
++--- ```
++--- # localS
++--- ```diff
++---@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
++--- ```
++--+@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
++--+ @@ -1,6 +1,6 @@
++--+  # All Rights Reserved
++--+  
++--+--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+- 
++--+- All rights reserved.
++--+-```
++--+-# hosting
++--+-```diff
++--+-diff --git a/LICENSE.md b/LICENSE.md
++--+-index d2fe92c..857a8ac 100644
++--+---- a/LICENSE.md
++--+-+++ b/LICENSE.md
++--+-@@ -1,6 +1,6 @@
++--+- # All Rights Reserved
++--+- 
++--+ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+  
++--+@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
++-+-@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
++-+- @@ -1,6 +1,6 @@
++-+-  # All Rights Reserved
++-+-  
++-+---Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-- 
++-+-- All rights reserved.
++-+--```
++-+--# hosting
++-+--```diff
++-+--diff --git a/LICENSE.md b/LICENSE.md
++-+--index d2fe92c..857a8ac 100644
++-+----- a/LICENSE.md
++-+--+++ b/LICENSE.md
++-+--@@ -1,6 +1,6 @@
++-+-- # All Rights Reserved
++-+-- 
++-+- -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+- +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-  
++-+-@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
++-++@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
+++--@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
+++-- @@ -1,6 +1,6 @@
+++--  # All Rights Reserved
+++--  
+++----Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
 ++--- 
-++--- [^1]: These APIs use a serverless architecture.
-++----[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-++---+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-++--- [^3]: These are not all possible response codes. This list may be expanded in the future.
-++--+diff --git a/repos.md b/repos.md
-++--+new file mode 100644
-++--+index 0000000..32d2b60
-++--+--- /dev/null
-++--++++ b/repos.md
-++--+@@ -0,0 +1,187 @@
-++--++# modID
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# .github
-++--++```diff
-++--++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-++--++index c853676..ee71c7a 100644
-++--++--- a/.github/workflows/action.yml
-++--+++++ b/.github/workflows/action.yml
-++--++@@ -26,5 +26,8 @@ jobs:
-++--++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-++--++         run: |
-++--++           python scripts/check_repo.py
-++--+++          echo "$(printf '=%.0s' {1..100})"
-++--++           python scripts/repo_count.py
-++--+++          echo "$(printf '=%.0s' {1..100})"
-++--++           python scripts/diff.py
-++--+++          echo "$(printf '=%.0s' {1..100})"
-++--++```
-++--++# localS
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# CurlS
-++--++```diff
-++--++diff --git a/HowTo.md b/HowTo.md
-++--++index 27cd68d..415ce8c 100644
-++--++--- a/HowTo.md
-++--+++++ b/HowTo.md
-++--++@@ -5,8 +5,7 @@
-++--++ > Some Features Might Not Work On MacOS or Linux.
-++--++ 
-++--++ ### Installation
-++--++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-++--++-and download the file.
-++--+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-++--++ 
-++--++ ---
-++--++ Then drop the .py file somewhere accessible, like:
-++--++```
-++--++# RandG
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# Jsonify
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# FibF
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# RegexIt
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# Refs
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# RElog
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# requesttimeout.github.io
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# hosting
-++--++```diff
-++--++diff --git a/LICENSE.md b/LICENSE.md
-++--++index d2fe92c..857a8ac 100644
-++--++--- a/LICENSE.md
-++--+++++ b/LICENSE.md
-++--++@@ -1,6 +1,6 @@
-++--++ # All Rights Reserved
-++--++ 
-++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++--++ 
-++--++ All rights reserved.
-++--++```
-++--++# docs
-++--++```diff
-++--++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-++--++index b19448e..642d169 100644
-++--++--- a/How our APIs work/README.md	
-++--+++++ b/How our APIs work/README.md	
-++--++@@ -62,5 +62,5 @@ flowchart LR
-++--++ ```
-++--++ 
-++--++ [^1]: These APIs use a serverless architecture.
-++--++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-++--+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-++--++ [^3]: These are not all possible response codes. This list may be expanded in the future.
-++--++```
-++-+ diff --git a/repos.md b/repos.md
-++-+-new file mode 100644
-++-+-index 0000000..32d2b60
-++-+---- /dev/null
-++-++index 32d2b60..cd59e87 100644
-++-++--- a/repos.md
-++-+ +++ b/repos.md
-++-+-@@ -0,0 +1,187 @@
-++-+-+# modID
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# .github
-++-+-+```diff
-++-+-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-++-+-+index c853676..ee71c7a 100644
-++-+-+--- a/.github/workflows/action.yml
-++-+-++++ b/.github/workflows/action.yml
-++-+-+@@ -26,5 +26,8 @@ jobs:
-++-+-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-++-+-+         run: |
-++-+-+           python scripts/check_repo.py
-++-+-++          echo "$(printf '=%.0s' {1..100})"
-++-+-+           python scripts/repo_count.py
-++-+-++          echo "$(printf '=%.0s' {1..100})"
-++-+-+           python scripts/diff.py
-++-+-++          echo "$(printf '=%.0s' {1..100})"
-++-+-+```
-++-+-+# localS
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# CurlS
-++-+-+```diff
-++-+-+diff --git a/HowTo.md b/HowTo.md
-++-+-+index 27cd68d..415ce8c 100644
-++-+-+--- a/HowTo.md
-++-+-++++ b/HowTo.md
-++-+-+@@ -5,8 +5,7 @@
-++-+-+ > Some Features Might Not Work On MacOS or Linux.
-++-+-+ 
-++-+-+ ### Installation
-++-+-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-++-+-+-and download the file.
-++-+-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-++-+-+ 
-++-+-+ ---
-++-+-+ Then drop the .py file somewhere accessible, like:
-++-+-+```
-++-+-+# RandG
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# Jsonify
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# FibF
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# RegexIt
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# Refs
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# RElog
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# requesttimeout.github.io
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# hosting
-++-+-+```diff
-++-+-+diff --git a/LICENSE.md b/LICENSE.md
-++-+-+index d2fe92c..857a8ac 100644
-++-+-+--- a/LICENSE.md
-++-+-++++ b/LICENSE.md
-++-+-+@@ -1,6 +1,6 @@
-++-+-+ # All Rights Reserved
-++-+-+ 
-++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-+-+ 
-++-+-+ All rights reserved.
-++-+-+```
-++-+-+# docs
-++-+-+```diff
-++-+-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-++-+-+index b19448e..642d169 100644
-++-+-+--- a/How our APIs work/README.md	
-++-+-++++ b/How our APIs work/README.md	
-++-+-+@@ -62,5 +62,5 @@ flowchart LR
-++-+-+ ```
-++-++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
-++-++ ```
-++-++ # .github
-++-++ ```diff
-++-++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-++-++-index c853676..ee71c7a 100644
-++-++---- a/.github/workflows/action.yml
-++-++-+++ b/.github/workflows/action.yml
-++-++-@@ -26,5 +26,8 @@ jobs:
-++-++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-++-++-         run: |
-++-++-           python scripts/check_repo.py
-++-++-+          echo "$(printf '=%.0s' {1..100})"
-++-++-           python scripts/repo_count.py
-++-++-+          echo "$(printf '=%.0s' {1..100})"
-++-++-           python scripts/diff.py
-++-++-+          echo "$(printf '=%.0s' {1..100})"
-++-+++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
-++-+++index 1294a5e..fd47ea9 100644
-++-+++--- a/scripts/repo_count.py
-++-++++++ b/scripts/repo_count.py
-++-+++@@ -7,7 +7,7 @@
-++-+++     "Accept": "application/vnd.github+json",
-++-+++     "X-GitHub-Api-Version": "2022-11-28",
-++-+++ }
-++-+++-public, public = 0, 0
-++-++++public, private = 0, 0
-++-+++ page = 1
-++-+ + 
-++-+-+ [^1]: These APIs use a serverless architecture.
-++-+-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-++-+-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-++-+-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
-++-+-+```
-++-+++ while True:
-++-++ ```
-++-++ # localS
-++-++ ```diff
-++-++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
-++-++ ```
-++-++ # docs
-++-++ ```diff
-++-++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-++-++-index b19448e..642d169 100644
-++-++---- a/How our APIs work/README.md	
-++-++-+++ b/How our APIs work/README.md	
-++-++-@@ -62,5 +62,5 @@ flowchart LR
-++-++- ```
-+++  diff --git a/repos.md b/repos.md
-+++--new file mode 100644
-+++--index 0000000..32d2b60
-+++----- /dev/null
-+++-+index 32d2b60..cd59e87 100644
-+++-+--- a/repos.md
-++++-index 32d2b60..cd59e87 100644
-+++++index cd59e87..ce4ae9e 100644
-++++ --- a/repos.md
-+++  +++ b/repos.md
-+++--@@ -0,0 +1,187 @@
-+++--+# modID
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-++++-@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
-++++- ```
-++++- # .github
-++++- ```diff
-++++--diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-++++--index c853676..ee71c7a 100644
-++++----- a/.github/workflows/action.yml
-++++--+++ b/.github/workflows/action.yml
-++++--@@ -26,5 +26,8 @@ jobs:
-++++--           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-++++--         run: |
-++++--           python scripts/check_repo.py
-++++--+          echo "$(printf '=%.0s' {1..100})"
-++++--           python scripts/repo_count.py
-++++--+          echo "$(printf '=%.0s' {1..100})"
-++++--           python scripts/diff.py
-++++--+          echo "$(printf '=%.0s' {1..100})"
-++++-+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
-++++-+index 1294a5e..fd47ea9 100644
-++++-+--- a/scripts/repo_count.py
-++++-++++ b/scripts/repo_count.py
-++++-+@@ -7,7 +7,7 @@
-++++-+     "Accept": "application/vnd.github+json",
-++++-+     "X-GitHub-Api-Version": "2022-11-28",
-++++-+ }
-++++-+-public, public = 0, 0
-++++-++public, private = 0, 0
-++++-+ page = 1
-+++ -+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# .github
-+++--+```diff
-+++--+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+++--+index c853676..ee71c7a 100644
-+++--+--- a/.github/workflows/action.yml
-+++--++++ b/.github/workflows/action.yml
-+++--+@@ -26,5 +26,8 @@ jobs:
-+++--+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+++--+         run: |
-+++--+           python scripts/check_repo.py
-+++--++          echo "$(printf '=%.0s' {1..100})"
-+++--+           python scripts/repo_count.py
-+++--++          echo "$(printf '=%.0s' {1..100})"
-+++--+           python scripts/diff.py
-+++--++          echo "$(printf '=%.0s' {1..100})"
-+++--+```
-+++--+# localS
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-+++--+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# CurlS
-+++--+```diff
-+++--+diff --git a/HowTo.md b/HowTo.md
-+++--+index 27cd68d..415ce8c 100644
-+++--+--- a/HowTo.md
-+++--++++ b/HowTo.md
-+++--+@@ -5,8 +5,7 @@
-+++--+ > Some Features Might Not Work On MacOS or Linux.
-+++--+ 
-+++--+ ### Installation
-+++--+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-+++--+-and download the file.
-+++--++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-+++--+ 
-+++--+ ---
-+++--+ Then drop the .py file somewhere accessible, like:
-+++--+```
-+++--+# RandG
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-+++--+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# Jsonify
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-+++--+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# FibF
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-+++--+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# RegexIt
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-+++--+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# Refs
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-+++--+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# RElog
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-+++--+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# requesttimeout.github.io
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-+++--+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# hosting
-+++--+```diff
-+++--+diff --git a/LICENSE.md b/LICENSE.md
-+++--+index d2fe92c..857a8ac 100644
-+++--+--- a/LICENSE.md
-+++--++++ b/LICENSE.md
-+++--+@@ -1,6 +1,6 @@
-+++--+ # All Rights Reserved
-+++--+ 
-+++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++--+ 
-+++--+ All rights reserved.
-+++--+```
-+++--+# docs
-+++--+```diff
-+++--+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+++--+index b19448e..642d169 100644
-+++--+--- a/How our APIs work/README.md	
-+++--++++ b/How our APIs work/README.md	
-+++--+@@ -62,5 +62,5 @@ flowchart LR
-+++--+ ```
-+++-+@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
-+++-+ ```
-+++-+ # .github
-+++-+ ```diff
-+++-+-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+++-+-index c853676..ee71c7a 100644
-+++-+---- a/.github/workflows/action.yml
-+++-+-+++ b/.github/workflows/action.yml
-+++-+-@@ -26,5 +26,8 @@ jobs:
-+++-+-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+++-+-         run: |
-+++-+-           python scripts/check_repo.py
-+++-+-+          echo "$(printf '=%.0s' {1..100})"
-+++-+-           python scripts/repo_count.py
-+++-+-+          echo "$(printf '=%.0s' {1..100})"
-+++-+-           python scripts/diff.py
-+++-+-+          echo "$(printf '=%.0s' {1..100})"
-+++-++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
-+++-++index 1294a5e..fd47ea9 100644
-+++-++--- a/scripts/repo_count.py
-+++-+++++ b/scripts/repo_count.py
-+++-++@@ -7,7 +7,7 @@
-+++-++     "Accept": "application/vnd.github+json",
-+++-++     "X-GitHub-Api-Version": "2022-11-28",
-+++-++ }
-+++-++-public, public = 0, 0
-+++-+++public, private = 0, 0
-+++-++ page = 1
-+++- + 
-+++--+ [^1]: These APIs use a serverless architecture.
-+++--+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+++--++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+++--+ [^3]: These are not all possible response codes. This list may be expanded in the future.
-+++--+```
-+++-++ while True:
-+++-+ ```
-+++-+ # localS
-+++-+ ```diff
-+++-+@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
-+++-+ ```
-+++-+ # docs
-+++-+ ```diff
-+++-+-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+++-+-index b19448e..642d169 100644
-+++-+---- a/How our APIs work/README.md	
-+++-+-+++ b/How our APIs work/README.md	
-+++-+-@@ -62,5 +62,5 @@ flowchart LR
-+++-+- ```
-++++-+ while True:
-++++- ```
-++++- # localS
-++++- ```diff
-++++-@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
-++++- ```
-+++++@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
-+++++ @@ -1,6 +1,6 @@
-+++++  # All Rights Reserved
-+++++  
-+++++--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++ ++- 
-++-++- [^1]: These APIs use a serverless architecture.
-++-++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-++-++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-++-++- [^3]: These are not all possible response codes. This list may be expanded in the future.
-++-+++diff --git a/repos.md b/repos.md
-++-+++new file mode 100644
-++-+++index 0000000..32d2b60
-++-+++--- /dev/null
-++-++++++ b/repos.md
-++-+++@@ -0,0 +1,187 @@
-++-++++# modID
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# .github
-++-++++```diff
-++-++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-++-++++index c853676..ee71c7a 100644
-++-++++--- a/.github/workflows/action.yml
-++-+++++++ b/.github/workflows/action.yml
-++-++++@@ -26,5 +26,8 @@ jobs:
-++-++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-++-++++         run: |
-++-++++           python scripts/check_repo.py
-++-+++++          echo "$(printf '=%.0s' {1..100})"
-++-++++           python scripts/repo_count.py
-++-+++++          echo "$(printf '=%.0s' {1..100})"
-++-++++           python scripts/diff.py
-++-+++++          echo "$(printf '=%.0s' {1..100})"
-++-++++```
-++-++++# localS
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# CurlS
-++-++++```diff
-++-++++diff --git a/HowTo.md b/HowTo.md
-++-++++index 27cd68d..415ce8c 100644
-++-++++--- a/HowTo.md
-++-+++++++ b/HowTo.md
-++-++++@@ -5,8 +5,7 @@
-++-++++ > Some Features Might Not Work On MacOS or Linux.
-++-++++ 
-++-++++ ### Installation
-++-++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-++-++++-and download the file.
-++-+++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-++-++++ 
-++-++++ ---
-++-++++ Then drop the .py file somewhere accessible, like:
-++-++++```
-++-++++# RandG
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# Jsonify
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# FibF
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# RegexIt
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# Refs
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# RElog
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# requesttimeout.github.io
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# hosting
-++-++++```diff
-++-++++diff --git a/LICENSE.md b/LICENSE.md
-++-++++index d2fe92c..857a8ac 100644
-++-++++--- a/LICENSE.md
-++-+++++++ b/LICENSE.md
-++-++++@@ -1,6 +1,6 @@
-++-++++ # All Rights Reserved
-++-++++ 
-++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++-++++ 
-++-++++ All rights reserved.
-++-++++```
-++-++++# docs
-++-++++```diff
-++-++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-++-++++index b19448e..642d169 100644
-++-++++--- a/How our APIs work/README.md	
-++-+++++++ b/How our APIs work/README.md	
-++-++++@@ -62,5 +62,5 @@ flowchart LR
-++-++++ ```
-++-++++ 
-++-++++ [^1]: These APIs use a serverless architecture.
-++-++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-++-+++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-++-++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
-++-++++```
-++-++ ```
-+++++- All rights reserved.
-+++++-```
-+++++-# hosting
-+++++-```diff
-+++++-diff --git a/LICENSE.md b/LICENSE.md
-+++++-index d2fe92c..857a8ac 100644
-+++++---- a/LICENSE.md
-+++++-+++ b/LICENSE.md
-+++++-@@ -1,6 +1,6 @@
-+++++- # All Rights Reserved
-+++ +- 
-+++-+- [^1]: These APIs use a serverless architecture.
-+++-+--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+++-+-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+++-+- [^3]: These are not all possible response codes. This list may be expanded in the future.
-+++-++diff --git a/repos.md b/repos.md
-+++-++new file mode 100644
-+++-++index 0000000..32d2b60
-+++-++--- /dev/null
-+++-+++++ b/repos.md
-+++-++@@ -0,0 +1,187 @@
-+++-+++# modID
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# .github
-+++-+++```diff
-+++-+++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+++-+++index c853676..ee71c7a 100644
-+++-+++--- a/.github/workflows/action.yml
-+++-++++++ b/.github/workflows/action.yml
-+++-+++@@ -26,5 +26,8 @@ jobs:
-+++-+++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+++-+++         run: |
-+++-+++           python scripts/check_repo.py
-+++-++++          echo "$(printf '=%.0s' {1..100})"
-+++-+++           python scripts/repo_count.py
-+++-++++          echo "$(printf '=%.0s' {1..100})"
-+++-+++           python scripts/diff.py
-+++-++++          echo "$(printf '=%.0s' {1..100})"
-+++-+++```
-+++-+++# localS
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# CurlS
-+++-+++```diff
-+++-+++diff --git a/HowTo.md b/HowTo.md
-+++-+++index 27cd68d..415ce8c 100644
-+++-+++--- a/HowTo.md
-+++-++++++ b/HowTo.md
-+++-+++@@ -5,8 +5,7 @@
-+++-+++ > Some Features Might Not Work On MacOS or Linux.
-+++-+++ 
-+++-+++ ### Installation
-+++-+++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-+++-+++-and download the file.
-+++-++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-+++-+++ 
-+++-+++ ---
-+++-+++ Then drop the .py file somewhere accessible, like:
-+++-+++```
-+++-+++# RandG
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# Jsonify
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# FibF
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# RegexIt
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# Refs
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# RElog
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# requesttimeout.github.io
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# hosting
-+++-+++```diff
-+++-+++diff --git a/LICENSE.md b/LICENSE.md
-+++-+++index d2fe92c..857a8ac 100644
-+++-+++--- a/LICENSE.md
-+++-++++++ b/LICENSE.md
-+++-+++@@ -1,6 +1,6 @@
-+++-+++ # All Rights Reserved
-+++-+++ 
-+++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++-+++ 
-+++-+++ All rights reserved.
-+++-+++```
-+++-+++# docs
-+++-+++```diff
-+++-+++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+++-+++index b19448e..642d169 100644
-+++-+++--- a/How our APIs work/README.md	
-+++-++++++ b/How our APIs work/README.md	
-+++-+++@@ -62,5 +62,5 @@ flowchart LR
-+++-+++ ```
-+++-+++ 
-+++-+++ [^1]: These APIs use a serverless architecture.
-+++-+++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+++-++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+++-+++ [^3]: These are not all possible response codes. This list may be expanded in the future.
-+++-+++```
-+++-+ ```
-+++++ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++  
-+++++@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
-++++  # docs
-++++  ```diff
-++++--diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-++++--index b19448e..642d169 100644
-++++----- a/How our APIs work/README.md	
-++++--+++ b/How our APIs work/README.md	
-++++--@@ -62,5 +62,5 @@ flowchart LR
-++++-- ```
-++++-- 
-++++-- [^1]: These APIs use a serverless architecture.
-++++---[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-++++--+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-++++-- [^3]: These are not all possible response codes. This list may be expanded in the future.
-++++-+diff --git a/repos.md b/repos.md
-++++-+new file mode 100644
-++++-+index 0000000..32d2b60
-++++-+--- /dev/null
-++++-++++ b/repos.md
-++++-+@@ -0,0 +1,187 @@
-++++-++# modID
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# .github
-++++-++```diff
-++++-++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-++++-++index c853676..ee71c7a 100644
-++++-++--- a/.github/workflows/action.yml
-++++-+++++ b/.github/workflows/action.yml
-++++-++@@ -26,5 +26,8 @@ jobs:
-++++-++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-++++-++         run: |
-++++-++           python scripts/check_repo.py
-++++-+++          echo "$(printf '=%.0s' {1..100})"
-++++-++           python scripts/repo_count.py
-++++-+++          echo "$(printf '=%.0s' {1..100})"
-++++-++           python scripts/diff.py
-++++-+++          echo "$(printf '=%.0s' {1..100})"
-++++-++```
-++++-++# localS
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# CurlS
-++++-++```diff
-++++-++diff --git a/HowTo.md b/HowTo.md
-++++-++index 27cd68d..415ce8c 100644
-++++-++--- a/HowTo.md
-++++-+++++ b/HowTo.md
-++++-++@@ -5,8 +5,7 @@
-++++-++ > Some Features Might Not Work On MacOS or Linux.
-++++-++ 
-++++-++ ### Installation
-++++-++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-++++-++-and download the file.
-++++-+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-++++-++ 
-++++-++ ---
-++++-++ Then drop the .py file somewhere accessible, like:
-++++-++```
-++++-++# RandG
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# Jsonify
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# FibF
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# RegexIt
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# Refs
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# RElog
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# requesttimeout.github.io
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# hosting
-++++-++```diff
-++++-++diff --git a/LICENSE.md b/LICENSE.md
-++++-++index d2fe92c..857a8ac 100644
-++++-++--- a/LICENSE.md
-++++-+++++ b/LICENSE.md
-++++-++@@ -1,6 +1,6 @@
-++++-++ # All Rights Reserved
-++++-++ 
-++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++-++ 
-++++-++ All rights reserved.
-++++-++```
-++++-++# docs
-++++-++```diff
-++++-++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-++++-++index b19448e..642d169 100644
-++++-++--- a/How our APIs work/README.md	
-++++-+++++ b/How our APIs work/README.md	
-++++-++@@ -62,5 +62,5 @@ flowchart LR
-++++-++ ```
-++++-++ 
-++++-++ [^1]: These APIs use a serverless architecture.
-++++-++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-++++-+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-++++-++ [^3]: These are not all possible response codes. This list may be expanded in the future.
-++++-++```
-+++++ diff --git a/repos.md b/repos.md
-+++++-new file mode 100644
-+++++-index 0000000..32d2b60
-+++++---- /dev/null
-++++++index 32d2b60..cd59e87 100644
-++++++--- a/repos.md
-+++++ +++ b/repos.md
-+++++-@@ -0,0 +1,187 @@
-+++++-+# modID
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# .github
-+++++-+```diff
-+++++-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-+++++-+index c853676..ee71c7a 100644
-+++++-+--- a/.github/workflows/action.yml
-+++++-++++ b/.github/workflows/action.yml
-+++++-+@@ -26,5 +26,8 @@ jobs:
-+++++-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-+++++-+         run: |
-+++++-+           python scripts/check_repo.py
-+++++-++          echo "$(printf '=%.0s' {1..100})"
-+++++-+           python scripts/repo_count.py
-+++++-++          echo "$(printf '=%.0s' {1..100})"
-+++++-+           python scripts/diff.py
-+++++-++          echo "$(printf '=%.0s' {1..100})"
-+++++-+```
-+++++-+# localS
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# CurlS
-+++++-+```diff
-+++++-+diff --git a/HowTo.md b/HowTo.md
-+++++-+index 27cd68d..415ce8c 100644
-+++++-+--- a/HowTo.md
-+++++-++++ b/HowTo.md
-+++++-+@@ -5,8 +5,7 @@
-+++++-+ > Some Features Might Not Work On MacOS or Linux.
-+++++-+ 
-+++++-+ ### Installation
-+++++-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-+++++-+-and download the file.
-+++++-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-+++++-+ 
-+++++-+ ---
-+++++-+ Then drop the .py file somewhere accessible, like:
-+++++-+```
-+++++-+# RandG
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# Jsonify
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# FibF
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# RegexIt
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# Refs
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# RElog
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# requesttimeout.github.io
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# hosting
-+++++-+```diff
-+++++-+diff --git a/LICENSE.md b/LICENSE.md
-+++++-+index d2fe92c..857a8ac 100644
-+++++-+--- a/LICENSE.md
-+++++-++++ b/LICENSE.md
-+++++-+@@ -1,6 +1,6 @@
-+++++-+ # All Rights Reserved
-+++++-+ 
-+++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-+++++-+ 
-+++++-+ All rights reserved.
-+++++-+```
-+++++-+# docs
-+++++-+```diff
-+++++-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-+++++-+index b19448e..642d169 100644
-+++++-+--- a/How our APIs work/README.md	
-+++++-++++ b/How our APIs work/README.md	
-+++++-+@@ -62,5 +62,5 @@ flowchart LR
-+++++-+ ```
-++++++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
-++++++ ```
-++++++ # .github
-++++++ ```diff
-++++++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-++++++-index c853676..ee71c7a 100644
-++++++---- a/.github/workflows/action.yml
-++++++-+++ b/.github/workflows/action.yml
-++++++-@@ -26,5 +26,8 @@ jobs:
-++++++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-++++++-         run: |
-++++++-           python scripts/check_repo.py
-++++++-+          echo "$(printf '=%.0s' {1..100})"
-++++++-           python scripts/repo_count.py
-++++++-+          echo "$(printf '=%.0s' {1..100})"
-++++++-           python scripts/diff.py
-++++++-+          echo "$(printf '=%.0s' {1..100})"
-+++++++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
-+++++++index 1294a5e..fd47ea9 100644
-+++++++--- a/scripts/repo_count.py
-++++++++++ b/scripts/repo_count.py
-+++++++@@ -7,7 +7,7 @@
-+++++++     "Accept": "application/vnd.github+json",
-+++++++     "X-GitHub-Api-Version": "2022-11-28",
-+++++++ }
-+++++++-public, public = 0, 0
-++++++++public, private = 0, 0
-+++++++ page = 1
-+++++ + 
-+++++-+ [^1]: These APIs use a serverless architecture.
-+++++-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+++++-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-+++++-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
-+++++-+```
-+++++++ while True:
-++++++ ```
-++++++ # localS
-++++++ ```diff
-++++++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
-++++++ ```
-++++++ # docs
-++++++ ```diff
-++++++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-++++++-index b19448e..642d169 100644
-++++++---- a/How our APIs work/README.md	
-++++++-+++ b/How our APIs work/README.md	
-++++++-@@ -62,5 +62,5 @@ flowchart LR
-++++++- ```
-++++++- 
-++++++- [^1]: These APIs use a serverless architecture.
-++++++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-++++++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-++++++- [^3]: These are not all possible response codes. This list may be expanded in the future.
-+++++++diff --git a/repos.md b/repos.md
-+++++++new file mode 100644
-+++++++index 0000000..32d2b60
-+++++++--- /dev/null
-++++++++++ b/repos.md
-+++++++@@ -0,0 +1,187 @@
-++++++++# modID
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# .github
-++++++++```diff
-++++++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-++++++++index c853676..ee71c7a 100644
-++++++++--- a/.github/workflows/action.yml
-+++++++++++ b/.github/workflows/action.yml
-++++++++@@ -26,5 +26,8 @@ jobs:
-++++++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-++++++++         run: |
-++++++++           python scripts/check_repo.py
-+++++++++          echo "$(printf '=%.0s' {1..100})"
-++++++++           python scripts/repo_count.py
-+++++++++          echo "$(printf '=%.0s' {1..100})"
-++++++++           python scripts/diff.py
-+++++++++          echo "$(printf '=%.0s' {1..100})"
-++++++++```
-++++++++# localS
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# CurlS
-++++++++```diff
-++++++++diff --git a/HowTo.md b/HowTo.md
-++++++++index 27cd68d..415ce8c 100644
-++++++++--- a/HowTo.md
-+++++++++++ b/HowTo.md
-++++++++@@ -5,8 +5,7 @@
-++++++++ > Some Features Might Not Work On MacOS or Linux.
-++++++++ 
-++++++++ ### Installation
-++++++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
-++++++++-and download the file.
-+++++++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
-++++++++ 
-++++++++ ---
-++++++++ Then drop the .py file somewhere accessible, like:
-++++++++```
-++++++++# RandG
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# Jsonify
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# FibF
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# RegexIt
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# Refs
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# RElog
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# requesttimeout.github.io
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# hosting
-++++++++```diff
-++++++++diff --git a/LICENSE.md b/LICENSE.md
-++++++++index d2fe92c..857a8ac 100644
-++++++++--- a/LICENSE.md
-+++++++++++ b/LICENSE.md
-++++++++@@ -1,6 +1,6 @@
-++++++++ # All Rights Reserved
-++++++++ 
-++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
-+++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
-++++++++ 
-++++++++ All rights reserved.
-++++++++```
-++++++++# docs
-++++++++```diff
-++++++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
-++++++++index b19448e..642d169 100644
-++++++++--- a/How our APIs work/README.md	
-+++++++++++ b/How our APIs work/README.md	
-++++++++@@ -62,5 +62,5 @@ flowchart LR
-++++++++ ```
-++++++++ 
-++++++++ [^1]: These APIs use a serverless architecture.
-++++++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
-+++++++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
-++++++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
-++++++++```
-++++++ ```
-++++  ```
-++   ```
+++--- All rights reserved.
+++---```
+++---# hosting
+++---```diff
+++---diff --git a/LICENSE.md b/LICENSE.md
+++---index d2fe92c..857a8ac 100644
+++------ a/LICENSE.md
+++---+++ b/LICENSE.md
+++---@@ -1,6 +1,6 @@
+++--- # All Rights Reserved
+ +--- 
+-+--- [^1]: These APIs use a serverless architecture.
+-+----[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-+---+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-+--- [^3]: These are not all possible response codes. This list may be expanded in the future.
+-+--+diff --git a/repos.md b/repos.md
+-+--+new file mode 100644
+-+--+index 0000000..32d2b60
+-+--+--- /dev/null
+-+--++++ b/repos.md
+-+--+@@ -0,0 +1,187 @@
+-+--++# modID
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# .github
+-+--++```diff
+-+--++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-+--++index c853676..ee71c7a 100644
+-+--++--- a/.github/workflows/action.yml
+-+--+++++ b/.github/workflows/action.yml
+-+--++@@ -26,5 +26,8 @@ jobs:
+-+--++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-+--++         run: |
+-+--++           python scripts/check_repo.py
+-+--+++          echo "$(printf '=%.0s' {1..100})"
+-+--++           python scripts/repo_count.py
+-+--+++          echo "$(printf '=%.0s' {1..100})"
+-+--++           python scripts/diff.py
+-+--+++          echo "$(printf '=%.0s' {1..100})"
+-+--++```
+-+--++# localS
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# CurlS
+-+--++```diff
+-+--++diff --git a/HowTo.md b/HowTo.md
+-+--++index 27cd68d..415ce8c 100644
+-+--++--- a/HowTo.md
+-+--+++++ b/HowTo.md
+-+--++@@ -5,8 +5,7 @@
+-+--++ > Some Features Might Not Work On MacOS or Linux.
+-+--++ 
+-+--++ ### Installation
+-+--++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+-+--++-and download the file.
+-+--+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+-+--++ 
+-+--++ ---
+-+--++ Then drop the .py file somewhere accessible, like:
+-+--++```
+-+--++# RandG
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# Jsonify
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# FibF
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# RegexIt
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# Refs
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# RElog
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# requesttimeout.github.io
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# hosting
+-+--++```diff
+-+--++diff --git a/LICENSE.md b/LICENSE.md
+-+--++index d2fe92c..857a8ac 100644
+-+--++--- a/LICENSE.md
+-+--+++++ b/LICENSE.md
+-+--++@@ -1,6 +1,6 @@
+-+--++ # All Rights Reserved
+-+--++ 
+-+--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+--++ 
+-+--++ All rights reserved.
+-+--++```
+-+--++# docs
+-+--++```diff
+-+--++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-+--++index b19448e..642d169 100644
+-+--++--- a/How our APIs work/README.md	
+-+--+++++ b/How our APIs work/README.md	
+-+--++@@ -62,5 +62,5 @@ flowchart LR
+-+--++ ```
+-+--++ 
+-+--++ [^1]: These APIs use a serverless architecture.
+-+--++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-+--+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-+--++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+-+--++```
+-+-+ diff --git a/repos.md b/repos.md
+-+-+-new file mode 100644
+-+-+-index 0000000..32d2b60
+-+-+---- /dev/null
+-+-++index 32d2b60..cd59e87 100644
+-+-++--- a/repos.md
+-+-+ +++ b/repos.md
+-+-+-@@ -0,0 +1,187 @@
+-+-+-+# modID
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# .github
+-+-+-+```diff
+-+-+-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-+-+-+index c853676..ee71c7a 100644
+-+-+-+--- a/.github/workflows/action.yml
+-+-+-++++ b/.github/workflows/action.yml
+-+-+-+@@ -26,5 +26,8 @@ jobs:
+-+-+-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-+-+-+         run: |
+-+-+-+           python scripts/check_repo.py
+-+-+-++          echo "$(printf '=%.0s' {1..100})"
+-+-+-+           python scripts/repo_count.py
+-+-+-++          echo "$(printf '=%.0s' {1..100})"
+-+-+-+           python scripts/diff.py
+-+-+-++          echo "$(printf '=%.0s' {1..100})"
+-+-+-+```
+-+-+-+# localS
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# CurlS
+-+-+-+```diff
+-+-+-+diff --git a/HowTo.md b/HowTo.md
+-+-+-+index 27cd68d..415ce8c 100644
+-+-+-+--- a/HowTo.md
+-+-+-++++ b/HowTo.md
+-+-+-+@@ -5,8 +5,7 @@
+-+-+-+ > Some Features Might Not Work On MacOS or Linux.
+-+-+-+ 
+-+-+-+ ### Installation
+-+-+-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+-+-+-+-and download the file.
+-+-+-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+-+-+-+ 
+-+-+-+ ---
+-+-+-+ Then drop the .py file somewhere accessible, like:
+-+-+-+```
+-+-+-+# RandG
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# Jsonify
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# FibF
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# RegexIt
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# Refs
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# RElog
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# requesttimeout.github.io
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# hosting
+-+-+-+```diff
+-+-+-+diff --git a/LICENSE.md b/LICENSE.md
+-+-+-+index d2fe92c..857a8ac 100644
+-+-+-+--- a/LICENSE.md
+-+-+-++++ b/LICENSE.md
+-+-+-+@@ -1,6 +1,6 @@
+-+-+-+ # All Rights Reserved
+-+-+-+ 
+-+-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-+-+ 
+-+-+-+ All rights reserved.
+-+-+-+```
+-+-+-+# docs
+-+-+-+```diff
+-+-+-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-+-+-+index b19448e..642d169 100644
+-+-+-+--- a/How our APIs work/README.md	
+-+-+-++++ b/How our APIs work/README.md	
+-+-+-+@@ -62,5 +62,5 @@ flowchart LR
+-+-+-+ ```
+-+-++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+-+-++ ```
+-+-++ # .github
+-+-++ ```diff
+-+-++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-+-++-index c853676..ee71c7a 100644
+-+-++---- a/.github/workflows/action.yml
+-+-++-+++ b/.github/workflows/action.yml
+-+-++-@@ -26,5 +26,8 @@ jobs:
+-+-++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-+-++-         run: |
+-+-++-           python scripts/check_repo.py
+-+-++-+          echo "$(printf '=%.0s' {1..100})"
+-+-++-           python scripts/repo_count.py
+-+-++-+          echo "$(printf '=%.0s' {1..100})"
+-+-++-           python scripts/diff.py
+-+-++-+          echo "$(printf '=%.0s' {1..100})"
+-+-+++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+-+-+++index 1294a5e..fd47ea9 100644
+-+-+++--- a/scripts/repo_count.py
+-+-++++++ b/scripts/repo_count.py
+-+-+++@@ -7,7 +7,7 @@
+-+-+++     "Accept": "application/vnd.github+json",
+-+-+++     "X-GitHub-Api-Version": "2022-11-28",
+-+-+++ }
+-+-+++-public, public = 0, 0
+-+-++++public, private = 0, 0
+-+-+++ page = 1
+-+-+ + 
+-+-+-+ [^1]: These APIs use a serverless architecture.
+-+-+-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-+-+-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-+-+-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
+-+-+-+```
+-+-+++ while True:
+-+-++ ```
+-+-++ # localS
+-+-++ ```diff
+-+-++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+-+-++ ```
+-+-++ # docs
+-+-++ ```diff
+-+-++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-+-++-index b19448e..642d169 100644
+-+-++---- a/How our APIs work/README.md	
+-+-++-+++ b/How our APIs work/README.md	
+-+-++-@@ -62,5 +62,5 @@ flowchart LR
+-+-++- ```
+-++  diff --git a/repos.md b/repos.md
+-++--new file mode 100644
+-++--index 0000000..32d2b60
+-++----- /dev/null
+-++-+index 32d2b60..cd59e87 100644
+-++-+--- a/repos.md
+-+++-index 32d2b60..cd59e87 100644
+-++++index cd59e87..ce4ae9e 100644
+-+++ --- a/repos.md
+-++  +++ b/repos.md
+-++--@@ -0,0 +1,187 @@
+-++--+# modID
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-+++-@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+-+++- ```
+-+++- # .github
+-+++- ```diff
+-+++--diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-+++--index c853676..ee71c7a 100644
+-+++----- a/.github/workflows/action.yml
+-+++--+++ b/.github/workflows/action.yml
+-+++--@@ -26,5 +26,8 @@ jobs:
+-+++--           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-+++--         run: |
+-+++--           python scripts/check_repo.py
+-+++--+          echo "$(printf '=%.0s' {1..100})"
+-+++--           python scripts/repo_count.py
+-+++--+          echo "$(printf '=%.0s' {1..100})"
+-+++--           python scripts/diff.py
+-+++--+          echo "$(printf '=%.0s' {1..100})"
+-+++-+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+-+++-+index 1294a5e..fd47ea9 100644
+-+++-+--- a/scripts/repo_count.py
+-+++-++++ b/scripts/repo_count.py
+-+++-+@@ -7,7 +7,7 @@
+-+++-+     "Accept": "application/vnd.github+json",
+-+++-+     "X-GitHub-Api-Version": "2022-11-28",
+-+++-+ }
+-+++-+-public, public = 0, 0
+-+++-++public, private = 0, 0
+-+++-+ page = 1
+-++ -+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# .github
+-++--+```diff
+-++--+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-++--+index c853676..ee71c7a 100644
+-++--+--- a/.github/workflows/action.yml
+-++--++++ b/.github/workflows/action.yml
+-++--+@@ -26,5 +26,8 @@ jobs:
+-++--+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-++--+         run: |
+-++--+           python scripts/check_repo.py
+-++--++          echo "$(printf '=%.0s' {1..100})"
+-++--+           python scripts/repo_count.py
+-++--++          echo "$(printf '=%.0s' {1..100})"
+-++--+           python scripts/diff.py
+-++--++          echo "$(printf '=%.0s' {1..100})"
+-++--+```
+-++--+# localS
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-++--+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# CurlS
+-++--+```diff
+-++--+diff --git a/HowTo.md b/HowTo.md
+-++--+index 27cd68d..415ce8c 100644
+-++--+--- a/HowTo.md
+-++--++++ b/HowTo.md
+-++--+@@ -5,8 +5,7 @@
+-++--+ > Some Features Might Not Work On MacOS or Linux.
+-++--+ 
+-++--+ ### Installation
+-++--+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+-++--+-and download the file.
+-++--++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+-++--+ 
+-++--+ ---
+-++--+ Then drop the .py file somewhere accessible, like:
+-++--+```
+-++--+# RandG
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-++--+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# Jsonify
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-++--+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# FibF
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-++--+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# RegexIt
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-++--+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# Refs
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-++--+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# RElog
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-++--+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# requesttimeout.github.io
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-++--+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# hosting
+-++--+```diff
+-++--+diff --git a/LICENSE.md b/LICENSE.md
+-++--+index d2fe92c..857a8ac 100644
+-++--+--- a/LICENSE.md
+-++--++++ b/LICENSE.md
+-++--+@@ -1,6 +1,6 @@
+-++--+ # All Rights Reserved
+-++--+ 
+-++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++--+ 
+-++--+ All rights reserved.
+-++--+```
+-++--+# docs
+-++--+```diff
+-++--+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-++--+index b19448e..642d169 100644
+-++--+--- a/How our APIs work/README.md	
+-++--++++ b/How our APIs work/README.md	
+-++--+@@ -62,5 +62,5 @@ flowchart LR
+-++--+ ```
+-++-+@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+-++-+ ```
+-++-+ # .github
+-++-+ ```diff
+-++-+-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-++-+-index c853676..ee71c7a 100644
+-++-+---- a/.github/workflows/action.yml
+-++-+-+++ b/.github/workflows/action.yml
+-++-+-@@ -26,5 +26,8 @@ jobs:
+-++-+-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-++-+-         run: |
+-++-+-           python scripts/check_repo.py
+-++-+-+          echo "$(printf '=%.0s' {1..100})"
+-++-+-           python scripts/repo_count.py
+-++-+-+          echo "$(printf '=%.0s' {1..100})"
+-++-+-           python scripts/diff.py
+-++-+-+          echo "$(printf '=%.0s' {1..100})"
+-++-++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+-++-++index 1294a5e..fd47ea9 100644
+-++-++--- a/scripts/repo_count.py
+-++-+++++ b/scripts/repo_count.py
+-++-++@@ -7,7 +7,7 @@
+-++-++     "Accept": "application/vnd.github+json",
+-++-++     "X-GitHub-Api-Version": "2022-11-28",
+-++-++ }
+-++-++-public, public = 0, 0
+-++-+++public, private = 0, 0
+-++-++ page = 1
+-++- + 
+-++--+ [^1]: These APIs use a serverless architecture.
+-++--+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-++--++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-++--+ [^3]: These are not all possible response codes. This list may be expanded in the future.
+-++--+```
+-++-++ while True:
+-++-+ ```
+-++-+ # localS
+-++-+ ```diff
+-++-+@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+-++-+ ```
+-++-+ # docs
+-++-+ ```diff
+-++-+-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-++-+-index b19448e..642d169 100644
+-++-+---- a/How our APIs work/README.md	
+-++-+-+++ b/How our APIs work/README.md	
+-++-+-@@ -62,5 +62,5 @@ flowchart LR
+-++-+- ```
+-+++-+ while True:
+-+++- ```
+-+++- # localS
+-+++- ```diff
+-+++-@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+-+++- ```
+-++++@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
+-++++ @@ -1,6 +1,6 @@
+-++++  # All Rights Reserved
+-++++  
+-++++--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+ ++- 
+-+-++- [^1]: These APIs use a serverless architecture.
+-+-++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-+-++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-+-++- [^3]: These are not all possible response codes. This list may be expanded in the future.
+-+-+++diff --git a/repos.md b/repos.md
+-+-+++new file mode 100644
+-+-+++index 0000000..32d2b60
+-+-+++--- /dev/null
+-+-++++++ b/repos.md
+-+-+++@@ -0,0 +1,187 @@
+-+-++++# modID
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# .github
+-+-++++```diff
+-+-++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-+-++++index c853676..ee71c7a 100644
+-+-++++--- a/.github/workflows/action.yml
+-+-+++++++ b/.github/workflows/action.yml
+-+-++++@@ -26,5 +26,8 @@ jobs:
+-+-++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-+-++++         run: |
+-+-++++           python scripts/check_repo.py
+-+-+++++          echo "$(printf '=%.0s' {1..100})"
+-+-++++           python scripts/repo_count.py
+-+-+++++          echo "$(printf '=%.0s' {1..100})"
+-+-++++           python scripts/diff.py
+-+-+++++          echo "$(printf '=%.0s' {1..100})"
+-+-++++```
+-+-++++# localS
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# CurlS
+-+-++++```diff
+-+-++++diff --git a/HowTo.md b/HowTo.md
+-+-++++index 27cd68d..415ce8c 100644
+-+-++++--- a/HowTo.md
+-+-+++++++ b/HowTo.md
+-+-++++@@ -5,8 +5,7 @@
+-+-++++ > Some Features Might Not Work On MacOS or Linux.
+-+-++++ 
+-+-++++ ### Installation
+-+-++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+-+-++++-and download the file.
+-+-+++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+-+-++++ 
+-+-++++ ---
+-+-++++ Then drop the .py file somewhere accessible, like:
+-+-++++```
+-+-++++# RandG
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# Jsonify
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# FibF
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# RegexIt
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# Refs
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# RElog
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# requesttimeout.github.io
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# hosting
+-+-++++```diff
+-+-++++diff --git a/LICENSE.md b/LICENSE.md
+-+-++++index d2fe92c..857a8ac 100644
+-+-++++--- a/LICENSE.md
+-+-+++++++ b/LICENSE.md
+-+-++++@@ -1,6 +1,6 @@
+-+-++++ # All Rights Reserved
+-+-++++ 
+-+-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+-++++ 
+-+-++++ All rights reserved.
+-+-++++```
+-+-++++# docs
+-+-++++```diff
+-+-++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-+-++++index b19448e..642d169 100644
+-+-++++--- a/How our APIs work/README.md	
+-+-+++++++ b/How our APIs work/README.md	
+-+-++++@@ -62,5 +62,5 @@ flowchart LR
+-+-++++ ```
+-+-++++ 
+-+-++++ [^1]: These APIs use a serverless architecture.
+-+-++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-+-+++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-+-++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+-+-++++```
+-+-++ ```
+-++++- All rights reserved.
+-++++-```
+-++++-# hosting
+-++++-```diff
+-++++-diff --git a/LICENSE.md b/LICENSE.md
+-++++-index d2fe92c..857a8ac 100644
+-++++---- a/LICENSE.md
+-++++-+++ b/LICENSE.md
+-++++-@@ -1,6 +1,6 @@
+-++++- # All Rights Reserved
+-++ +- 
+-++-+- [^1]: These APIs use a serverless architecture.
+-++-+--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-++-+-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-++-+- [^3]: These are not all possible response codes. This list may be expanded in the future.
+-++-++diff --git a/repos.md b/repos.md
+-++-++new file mode 100644
+-++-++index 0000000..32d2b60
+-++-++--- /dev/null
+-++-+++++ b/repos.md
+-++-++@@ -0,0 +1,187 @@
+-++-+++# modID
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# .github
+-++-+++```diff
+-++-+++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-++-+++index c853676..ee71c7a 100644
+-++-+++--- a/.github/workflows/action.yml
+-++-++++++ b/.github/workflows/action.yml
+-++-+++@@ -26,5 +26,8 @@ jobs:
+-++-+++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-++-+++         run: |
+-++-+++           python scripts/check_repo.py
+-++-++++          echo "$(printf '=%.0s' {1..100})"
+-++-+++           python scripts/repo_count.py
+-++-++++          echo "$(printf '=%.0s' {1..100})"
+-++-+++           python scripts/diff.py
+-++-++++          echo "$(printf '=%.0s' {1..100})"
+-++-+++```
+-++-+++# localS
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# CurlS
+-++-+++```diff
+-++-+++diff --git a/HowTo.md b/HowTo.md
+-++-+++index 27cd68d..415ce8c 100644
+-++-+++--- a/HowTo.md
+-++-++++++ b/HowTo.md
+-++-+++@@ -5,8 +5,7 @@
+-++-+++ > Some Features Might Not Work On MacOS or Linux.
+-++-+++ 
+-++-+++ ### Installation
+-++-+++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+-++-+++-and download the file.
+-++-++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+-++-+++ 
+-++-+++ ---
+-++-+++ Then drop the .py file somewhere accessible, like:
+-++-+++```
+-++-+++# RandG
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# Jsonify
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# FibF
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# RegexIt
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# Refs
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# RElog
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# requesttimeout.github.io
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# hosting
+-++-+++```diff
+-++-+++diff --git a/LICENSE.md b/LICENSE.md
+-++-+++index d2fe92c..857a8ac 100644
+-++-+++--- a/LICENSE.md
+-++-++++++ b/LICENSE.md
+-++-+++@@ -1,6 +1,6 @@
+-++-+++ # All Rights Reserved
+-++-+++ 
+-++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++-+++ 
+-++-+++ All rights reserved.
+-++-+++```
+-++-+++# docs
+-++-+++```diff
+-++-+++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-++-+++index b19448e..642d169 100644
+-++-+++--- a/How our APIs work/README.md	
+-++-++++++ b/How our APIs work/README.md	
+-++-+++@@ -62,5 +62,5 @@ flowchart LR
+-++-+++ ```
+-++-+++ 
+-++-+++ [^1]: These APIs use a serverless architecture.
+-++-+++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-++-++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-++-+++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+-++-+++```
+-++-+ ```
+-++++ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++  
+-++++@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
+-+++  # docs
+-+++  ```diff
+-+++--diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-+++--index b19448e..642d169 100644
+-+++----- a/How our APIs work/README.md	
+-+++--+++ b/How our APIs work/README.md	
+-+++--@@ -62,5 +62,5 @@ flowchart LR
+-+++-- ```
+-+++-- 
+-+++-- [^1]: These APIs use a serverless architecture.
+-+++---[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-+++--+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-+++-- [^3]: These are not all possible response codes. This list may be expanded in the future.
+-+++-+diff --git a/repos.md b/repos.md
+-+++-+new file mode 100644
+-+++-+index 0000000..32d2b60
+-+++-+--- /dev/null
+-+++-++++ b/repos.md
+-+++-+@@ -0,0 +1,187 @@
+-+++-++# modID
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# .github
+-+++-++```diff
+-+++-++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-+++-++index c853676..ee71c7a 100644
+-+++-++--- a/.github/workflows/action.yml
+-+++-+++++ b/.github/workflows/action.yml
+-+++-++@@ -26,5 +26,8 @@ jobs:
+-+++-++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-+++-++         run: |
+-+++-++           python scripts/check_repo.py
+-+++-+++          echo "$(printf '=%.0s' {1..100})"
+-+++-++           python scripts/repo_count.py
+-+++-+++          echo "$(printf '=%.0s' {1..100})"
+-+++-++           python scripts/diff.py
+-+++-+++          echo "$(printf '=%.0s' {1..100})"
+-+++-++```
+-+++-++# localS
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# CurlS
+-+++-++```diff
+-+++-++diff --git a/HowTo.md b/HowTo.md
+-+++-++index 27cd68d..415ce8c 100644
+-+++-++--- a/HowTo.md
+-+++-+++++ b/HowTo.md
+-+++-++@@ -5,8 +5,7 @@
+-+++-++ > Some Features Might Not Work On MacOS or Linux.
+-+++-++ 
+-+++-++ ### Installation
+-+++-++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+-+++-++-and download the file.
+-+++-+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+-+++-++ 
+-+++-++ ---
+-+++-++ Then drop the .py file somewhere accessible, like:
+-+++-++```
+-+++-++# RandG
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# Jsonify
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# FibF
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# RegexIt
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# Refs
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# RElog
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# requesttimeout.github.io
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# hosting
+-+++-++```diff
+-+++-++diff --git a/LICENSE.md b/LICENSE.md
+-+++-++index d2fe92c..857a8ac 100644
+-+++-++--- a/LICENSE.md
+-+++-+++++ b/LICENSE.md
+-+++-++@@ -1,6 +1,6 @@
+-+++-++ # All Rights Reserved
+-+++-++ 
+-+++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-+++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++-++ 
+-+++-++ All rights reserved.
+-+++-++```
+-+++-++# docs
+-+++-++```diff
+-+++-++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-+++-++index b19448e..642d169 100644
+-+++-++--- a/How our APIs work/README.md	
+-+++-+++++ b/How our APIs work/README.md	
+-+++-++@@ -62,5 +62,5 @@ flowchart LR
+-+++-++ ```
+-+++-++ 
+-+++-++ [^1]: These APIs use a serverless architecture.
+-+++-++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-+++-+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-+++-++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+-+++-++```
+-++++ diff --git a/repos.md b/repos.md
+-++++-new file mode 100644
+-++++-index 0000000..32d2b60
+-++++---- /dev/null
+-+++++index 32d2b60..cd59e87 100644
+-+++++--- a/repos.md
+-++++ +++ b/repos.md
+-++++-@@ -0,0 +1,187 @@
+-++++-+# modID
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# .github
+-++++-+```diff
+-++++-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-++++-+index c853676..ee71c7a 100644
+-++++-+--- a/.github/workflows/action.yml
+-++++-++++ b/.github/workflows/action.yml
+-++++-+@@ -26,5 +26,8 @@ jobs:
+-++++-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-++++-+         run: |
+-++++-+           python scripts/check_repo.py
+-++++-++          echo "$(printf '=%.0s' {1..100})"
+-++++-+           python scripts/repo_count.py
+-++++-++          echo "$(printf '=%.0s' {1..100})"
+-++++-+           python scripts/diff.py
+-++++-++          echo "$(printf '=%.0s' {1..100})"
+-++++-+```
+-++++-+# localS
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# CurlS
+-++++-+```diff
+-++++-+diff --git a/HowTo.md b/HowTo.md
+-++++-+index 27cd68d..415ce8c 100644
+-++++-+--- a/HowTo.md
+-++++-++++ b/HowTo.md
+-++++-+@@ -5,8 +5,7 @@
+-++++-+ > Some Features Might Not Work On MacOS or Linux.
+-++++-+ 
+-++++-+ ### Installation
+-++++-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+-++++-+-and download the file.
+-++++-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+-++++-+ 
+-++++-+ ---
+-++++-+ Then drop the .py file somewhere accessible, like:
+-++++-+```
+-++++-+# RandG
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# Jsonify
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# FibF
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# RegexIt
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# Refs
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# RElog
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# requesttimeout.github.io
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# hosting
+-++++-+```diff
+-++++-+diff --git a/LICENSE.md b/LICENSE.md
+-++++-+index d2fe92c..857a8ac 100644
+-++++-+--- a/LICENSE.md
+-++++-++++ b/LICENSE.md
+-++++-+@@ -1,6 +1,6 @@
+-++++-+ # All Rights Reserved
+-++++-+ 
+-++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-++++-+ 
+-++++-+ All rights reserved.
+-++++-+```
+-++++-+# docs
+-++++-+```diff
+-++++-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-++++-+index b19448e..642d169 100644
+-++++-+--- a/How our APIs work/README.md	
+-++++-++++ b/How our APIs work/README.md	
+-++++-+@@ -62,5 +62,5 @@ flowchart LR
+-++++-+ ```
+-+++++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+-+++++ ```
+-+++++ # .github
+-+++++ ```diff
+-+++++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-+++++-index c853676..ee71c7a 100644
+-+++++---- a/.github/workflows/action.yml
+-+++++-+++ b/.github/workflows/action.yml
+-+++++-@@ -26,5 +26,8 @@ jobs:
+-+++++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-+++++-         run: |
+-+++++-           python scripts/check_repo.py
+-+++++-+          echo "$(printf '=%.0s' {1..100})"
+-+++++-           python scripts/repo_count.py
+-+++++-+          echo "$(printf '=%.0s' {1..100})"
+-+++++-           python scripts/diff.py
+-+++++-+          echo "$(printf '=%.0s' {1..100})"
+-++++++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+-++++++index 1294a5e..fd47ea9 100644
+-++++++--- a/scripts/repo_count.py
+-+++++++++ b/scripts/repo_count.py
+-++++++@@ -7,7 +7,7 @@
+-++++++     "Accept": "application/vnd.github+json",
+-++++++     "X-GitHub-Api-Version": "2022-11-28",
+-++++++ }
+-++++++-public, public = 0, 0
+-+++++++public, private = 0, 0
+-++++++ page = 1
+-++++ + 
+-++++-+ [^1]: These APIs use a serverless architecture.
+-++++-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-++++-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-++++-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
+-++++-+```
+-++++++ while True:
+-+++++ ```
+-+++++ # localS
+-+++++ ```diff
+-+++++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+-+++++ ```
+-+++++ # docs
+-+++++ ```diff
+-+++++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-+++++-index b19448e..642d169 100644
+-+++++---- a/How our APIs work/README.md	
+-+++++-+++ b/How our APIs work/README.md	
+-+++++-@@ -62,5 +62,5 @@ flowchart LR
+-+++++- ```
+-+++++- 
+-+++++- [^1]: These APIs use a serverless architecture.
+-+++++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-+++++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-+++++- [^3]: These are not all possible response codes. This list may be expanded in the future.
+-++++++diff --git a/repos.md b/repos.md
+-++++++new file mode 100644
+-++++++index 0000000..32d2b60
+-++++++--- /dev/null
+-+++++++++ b/repos.md
+-++++++@@ -0,0 +1,187 @@
+-+++++++# modID
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# .github
+-+++++++```diff
+-+++++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+-+++++++index c853676..ee71c7a 100644
+-+++++++--- a/.github/workflows/action.yml
+-++++++++++ b/.github/workflows/action.yml
+-+++++++@@ -26,5 +26,8 @@ jobs:
+-+++++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+-+++++++         run: |
+-+++++++           python scripts/check_repo.py
+-++++++++          echo "$(printf '=%.0s' {1..100})"
+-+++++++           python scripts/repo_count.py
+-++++++++          echo "$(printf '=%.0s' {1..100})"
+-+++++++           python scripts/diff.py
+-++++++++          echo "$(printf '=%.0s' {1..100})"
+-+++++++```
+-+++++++# localS
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# CurlS
+-+++++++```diff
+-+++++++diff --git a/HowTo.md b/HowTo.md
+-+++++++index 27cd68d..415ce8c 100644
+-+++++++--- a/HowTo.md
+-++++++++++ b/HowTo.md
+-+++++++@@ -5,8 +5,7 @@
+-+++++++ > Some Features Might Not Work On MacOS or Linux.
+-+++++++ 
+-+++++++ ### Installation
+-+++++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+-+++++++-and download the file.
+-++++++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+-+++++++ 
+-+++++++ ---
+-+++++++ Then drop the .py file somewhere accessible, like:
+-+++++++```
+-+++++++# RandG
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# Jsonify
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# FibF
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# RegexIt
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# Refs
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# RElog
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# requesttimeout.github.io
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# hosting
+-+++++++```diff
+-+++++++diff --git a/LICENSE.md b/LICENSE.md
+-+++++++index d2fe92c..857a8ac 100644
+-+++++++--- a/LICENSE.md
+-++++++++++ b/LICENSE.md
+-+++++++@@ -1,6 +1,6 @@
+-+++++++ # All Rights Reserved
+-+++++++ 
+-+++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+-++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+-+++++++ 
+-+++++++ All rights reserved.
+-+++++++```
+-+++++++# docs
+-+++++++```diff
+-+++++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+-+++++++index b19448e..642d169 100644
+-+++++++--- a/How our APIs work/README.md	
+-++++++++++ b/How our APIs work/README.md	
+-+++++++@@ -62,5 +62,5 @@ flowchart LR
+-+++++++ ```
+-+++++++ 
+-+++++++ [^1]: These APIs use a serverless architecture.
+-+++++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+-++++++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+-+++++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+-+++++++```
+-+++++ ```
+-+++  ```
+-+   ```
+++-- -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-- +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--  
+++--@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
+++-+@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
++++-@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
+++++@@ -160,468 +160,716 @@ index d2fe92c..857a8ac 100644
++    # docs
++    ```diff
++----diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++----index b19448e..642d169 100644
++------- a/How our APIs work/README.md	
++----+++ b/How our APIs work/README.md	
++----@@ -62,5 +62,5 @@ flowchart LR
++---- ```
++---- 
++---- [^1]: These APIs use a serverless architecture.
++-----[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++----+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++---- [^3]: These are not all possible response codes. This list may be expanded in the future.
++---+diff --git a/repos.md b/repos.md
++---+new file mode 100644
++---+index 0000000..32d2b60
++---+--- /dev/null
++---++++ b/repos.md
++---+@@ -0,0 +1,187 @@
++---++# modID
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# .github
++---++```diff
++---++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++---++index c853676..ee71c7a 100644
++---++--- a/.github/workflows/action.yml
++---+++++ b/.github/workflows/action.yml
++---++@@ -26,5 +26,8 @@ jobs:
++---++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++---++         run: |
++---++           python scripts/check_repo.py
++---+++          echo "$(printf '=%.0s' {1..100})"
++---++           python scripts/repo_count.py
++---+++          echo "$(printf '=%.0s' {1..100})"
++---++           python scripts/diff.py
++---+++          echo "$(printf '=%.0s' {1..100})"
++---++```
++---++# localS
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# CurlS
++---++```diff
++---++diff --git a/HowTo.md b/HowTo.md
++---++index 27cd68d..415ce8c 100644
++---++--- a/HowTo.md
++---+++++ b/HowTo.md
++---++@@ -5,8 +5,7 @@
++---++ > Some Features Might Not Work On MacOS or Linux.
++---++ 
++---++ ### Installation
++---++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++---++-and download the file.
++---+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++---++ 
++---++ ---
++---++ Then drop the .py file somewhere accessible, like:
++---++```
++---++# RandG
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# Jsonify
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# FibF
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# RegexIt
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# Refs
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# RElog
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# requesttimeout.github.io
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# hosting
++---++```diff
++---++diff --git a/LICENSE.md b/LICENSE.md
++---++index d2fe92c..857a8ac 100644
++---++--- a/LICENSE.md
++---+++++ b/LICENSE.md
++---++@@ -1,6 +1,6 @@
++---++ # All Rights Reserved
++---++ 
++---++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++---+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++---++ 
++---++ All rights reserved.
++---++```
++---++# docs
++---++```diff
++---++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++---++index b19448e..642d169 100644
++---++--- a/How our APIs work/README.md	
++---+++++ b/How our APIs work/README.md	
++---++@@ -62,5 +62,5 @@ flowchart LR
++---++ ```
++---++ 
++---++ [^1]: These APIs use a serverless architecture.
++---++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++---+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++---++ [^3]: These are not all possible response codes. This list may be expanded in the future.
++---++```
++--+ diff --git a/repos.md b/repos.md
++--+-new file mode 100644
++--+-index 0000000..32d2b60
++--+---- /dev/null
++--++index 32d2b60..cd59e87 100644
++--++--- a/repos.md
++--+ +++ b/repos.md
++--+-@@ -0,0 +1,187 @@
++--+-+# modID
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# .github
++--+-+```diff
++--+-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++--+-+index c853676..ee71c7a 100644
++--+-+--- a/.github/workflows/action.yml
++--+-++++ b/.github/workflows/action.yml
++--+-+@@ -26,5 +26,8 @@ jobs:
++--+-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++--+-+         run: |
++--+-+           python scripts/check_repo.py
++--+-++          echo "$(printf '=%.0s' {1..100})"
++--+-+           python scripts/repo_count.py
++--+-++          echo "$(printf '=%.0s' {1..100})"
++--+-+           python scripts/diff.py
++--+-++          echo "$(printf '=%.0s' {1..100})"
++--+-+```
++--+-+# localS
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# CurlS
++--+-+```diff
++--+-+diff --git a/HowTo.md b/HowTo.md
++--+-+index 27cd68d..415ce8c 100644
++--+-+--- a/HowTo.md
++--+-++++ b/HowTo.md
++--+-+@@ -5,8 +5,7 @@
++--+-+ > Some Features Might Not Work On MacOS or Linux.
++--+-+ 
++--+-+ ### Installation
++--+-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++--+-+-and download the file.
++--+-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++--+-+ 
++--+-+ ---
++--+-+ Then drop the .py file somewhere accessible, like:
++--+-+```
++--+-+# RandG
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# Jsonify
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# FibF
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# RegexIt
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# Refs
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# RElog
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# requesttimeout.github.io
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# hosting
++--+-+```diff
++--+-+diff --git a/LICENSE.md b/LICENSE.md
++--+-+index d2fe92c..857a8ac 100644
++--+-+--- a/LICENSE.md
++--+-++++ b/LICENSE.md
++--+-+@@ -1,6 +1,6 @@
++--+-+ # All Rights Reserved
++--+-+ 
++--+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--+-+ 
++--+-+ All rights reserved.
++--+-+```
++--+-+# docs
++--+-+```diff
++--+-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++--+-+index b19448e..642d169 100644
++--+-+--- a/How our APIs work/README.md	
++--+-++++ b/How our APIs work/README.md	
++--+-+@@ -62,5 +62,5 @@ flowchart LR
++--+-+ ```
++--++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
++--++ ```
++--++ # .github
++--++ ```diff
++--++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++--++-index c853676..ee71c7a 100644
++--++---- a/.github/workflows/action.yml
++--++-+++ b/.github/workflows/action.yml
++--++-@@ -26,5 +26,8 @@ jobs:
++--++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++--++-         run: |
++--++-           python scripts/check_repo.py
++--++-+          echo "$(printf '=%.0s' {1..100})"
++--++-           python scripts/repo_count.py
++--++-+          echo "$(printf '=%.0s' {1..100})"
++--++-           python scripts/diff.py
++--++-+          echo "$(printf '=%.0s' {1..100})"
++--+++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
++--+++index 1294a5e..fd47ea9 100644
++--+++--- a/scripts/repo_count.py
++--++++++ b/scripts/repo_count.py
++--+++@@ -7,7 +7,7 @@
++--+++     "Accept": "application/vnd.github+json",
++--+++     "X-GitHub-Api-Version": "2022-11-28",
++--+++ }
++--+++-public, public = 0, 0
++--++++public, private = 0, 0
++--+++ page = 1
++--+ + 
++--+-+ [^1]: These APIs use a serverless architecture.
++--+-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++--+-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++--+-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
++--+-+```
++--+++ while True:
++--++ ```
++--++ # localS
++--++ ```diff
++--++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
++--++ ```
++--++ # docs
++--++ ```diff
++--++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++--++-index b19448e..642d169 100644
++--++---- a/How our APIs work/README.md	
++--++-+++ b/How our APIs work/README.md	
++--++-@@ -62,5 +62,5 @@ flowchart LR
++--++- ```
++-+  diff --git a/repos.md b/repos.md
++-+--new file mode 100644
++-+--index 0000000..32d2b60
++-+----- /dev/null
++-+-+index 32d2b60..cd59e87 100644
++-+-+--- a/repos.md
++-++-index 32d2b60..cd59e87 100644
++-+++index cd59e87..ce4ae9e 100644
++-++ --- a/repos.md
++-+  +++ b/repos.md
++-+--@@ -0,0 +1,187 @@
++-+--+# modID
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-++-@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
++-++- ```
++-++- # .github
++-++- ```diff
++-++--diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++-++--index c853676..ee71c7a 100644
++-++----- a/.github/workflows/action.yml
++-++--+++ b/.github/workflows/action.yml
++-++--@@ -26,5 +26,8 @@ jobs:
++-++--           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++-++--         run: |
++-++--           python scripts/check_repo.py
++-++--+          echo "$(printf '=%.0s' {1..100})"
++-++--           python scripts/repo_count.py
++-++--+          echo "$(printf '=%.0s' {1..100})"
++-++--           python scripts/diff.py
++-++--+          echo "$(printf '=%.0s' {1..100})"
++-++-+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
++-++-+index 1294a5e..fd47ea9 100644
++-++-+--- a/scripts/repo_count.py
++-++-++++ b/scripts/repo_count.py
++-++-+@@ -7,7 +7,7 @@
++-++-+     "Accept": "application/vnd.github+json",
++-++-+     "X-GitHub-Api-Version": "2022-11-28",
++-++-+ }
++-++-+-public, public = 0, 0
++-++-++public, private = 0, 0
++-++-+ page = 1
++-+ -+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# .github
++-+--+```diff
++-+--+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++-+--+index c853676..ee71c7a 100644
++-+--+--- a/.github/workflows/action.yml
++-+--++++ b/.github/workflows/action.yml
++-+--+@@ -26,5 +26,8 @@ jobs:
++-+--+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++-+--+         run: |
++-+--+           python scripts/check_repo.py
++-+--++          echo "$(printf '=%.0s' {1..100})"
++-+--+           python scripts/repo_count.py
++-+--++          echo "$(printf '=%.0s' {1..100})"
++-+--+           python scripts/diff.py
++-+--++          echo "$(printf '=%.0s' {1..100})"
++-+--+```
++-+--+# localS
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-+--+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# CurlS
++-+--+```diff
++-+--+diff --git a/HowTo.md b/HowTo.md
++-+--+index 27cd68d..415ce8c 100644
++-+--+--- a/HowTo.md
++-+--++++ b/HowTo.md
++-+--+@@ -5,8 +5,7 @@
++-+--+ > Some Features Might Not Work On MacOS or Linux.
++-+--+ 
++-+--+ ### Installation
++-+--+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++-+--+-and download the file.
++-+--++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++-+--+ 
++-+--+ ---
++-+--+ Then drop the .py file somewhere accessible, like:
++-+--+```
++-+--+# RandG
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-+--+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# Jsonify
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-+--+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# FibF
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-+--+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# RegexIt
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-+--+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# Refs
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-+--+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# RElog
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-+--+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# requesttimeout.github.io
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-+--+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# hosting
++-+--+```diff
++-+--+diff --git a/LICENSE.md b/LICENSE.md
++-+--+index d2fe92c..857a8ac 100644
++-+--+--- a/LICENSE.md
++-+--++++ b/LICENSE.md
++-+--+@@ -1,6 +1,6 @@
++-+--+ # All Rights Reserved
++-+--+ 
++-+--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+--+ 
++-+--+ All rights reserved.
++-+--+```
++-+--+# docs
++-+--+```diff
++-+--+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++-+--+index b19448e..642d169 100644
++-+--+--- a/How our APIs work/README.md	
++-+--++++ b/How our APIs work/README.md	
++-+--+@@ -62,5 +62,5 @@ flowchart LR
++-+--+ ```
++-+-+@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
++-+-+ ```
++-+-+ # .github
++-+-+ ```diff
++-+-+-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++-+-+-index c853676..ee71c7a 100644
++-+-+---- a/.github/workflows/action.yml
++-+-+-+++ b/.github/workflows/action.yml
++-+-+-@@ -26,5 +26,8 @@ jobs:
++-+-+-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++-+-+-         run: |
++-+-+-           python scripts/check_repo.py
++-+-+-+          echo "$(printf '=%.0s' {1..100})"
++-+-+-           python scripts/repo_count.py
++-+-+-+          echo "$(printf '=%.0s' {1..100})"
++-+-+-           python scripts/diff.py
++-+-+-+          echo "$(printf '=%.0s' {1..100})"
++-+-++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
++-+-++index 1294a5e..fd47ea9 100644
++-+-++--- a/scripts/repo_count.py
++-+-+++++ b/scripts/repo_count.py
++-+-++@@ -7,7 +7,7 @@
++-+-++     "Accept": "application/vnd.github+json",
++-+-++     "X-GitHub-Api-Version": "2022-11-28",
++-+-++ }
++-+-++-public, public = 0, 0
++-+-+++public, private = 0, 0
++-+-++ page = 1
++-+- + 
++-+--+ [^1]: These APIs use a serverless architecture.
++-+--+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++-+--++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++-+--+ [^3]: These are not all possible response codes. This list may be expanded in the future.
++-+--+```
++-+-++ while True:
++-+-+ ```
++-+-+ # localS
++-+-+ ```diff
++-+-+@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
++-+-+ ```
++-+-+ # docs
++-+-+ ```diff
++-+-+-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++-+-+-index b19448e..642d169 100644
++-+-+---- a/How our APIs work/README.md	
++-+-+-+++ b/How our APIs work/README.md	
++-+-+-@@ -62,5 +62,5 @@ flowchart LR
++-+-+- ```
++-++-+ while True:
++-++- ```
++-++- # localS
++-++- ```diff
++-++-@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
++-++- ```
++-+++@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
++-+++ @@ -1,6 +1,6 @@
++-+++  # All Rights Reserved
++-+++  
++-+++--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++- ++- 
++--++- [^1]: These APIs use a serverless architecture.
++--++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++--++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++--++- [^3]: These are not all possible response codes. This list may be expanded in the future.
++--+++diff --git a/repos.md b/repos.md
++--+++new file mode 100644
++--+++index 0000000..32d2b60
++--+++--- /dev/null
++--++++++ b/repos.md
++--+++@@ -0,0 +1,187 @@
++--++++# modID
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# .github
++--++++```diff
++--++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++--++++index c853676..ee71c7a 100644
++--++++--- a/.github/workflows/action.yml
++--+++++++ b/.github/workflows/action.yml
++--++++@@ -26,5 +26,8 @@ jobs:
++--++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++--++++         run: |
++--++++           python scripts/check_repo.py
++--+++++          echo "$(printf '=%.0s' {1..100})"
++--++++           python scripts/repo_count.py
++--+++++          echo "$(printf '=%.0s' {1..100})"
++--++++           python scripts/diff.py
++--+++++          echo "$(printf '=%.0s' {1..100})"
++--++++```
++--++++# localS
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# CurlS
++--++++```diff
++--++++diff --git a/HowTo.md b/HowTo.md
++--++++index 27cd68d..415ce8c 100644
++--++++--- a/HowTo.md
++--+++++++ b/HowTo.md
++--++++@@ -5,8 +5,7 @@
++--++++ > Some Features Might Not Work On MacOS or Linux.
++--++++ 
++--++++ ### Installation
++--++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++--++++-and download the file.
++--+++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++--++++ 
++--++++ ---
++--++++ Then drop the .py file somewhere accessible, like:
++--++++```
++--++++# RandG
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# Jsonify
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# FibF
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# RegexIt
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# Refs
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# RElog
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# requesttimeout.github.io
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# hosting
++--++++```diff
++--++++diff --git a/LICENSE.md b/LICENSE.md
++--++++index d2fe92c..857a8ac 100644
++--++++--- a/LICENSE.md
++--+++++++ b/LICENSE.md
++--++++@@ -1,6 +1,6 @@
++--++++ # All Rights Reserved
++--++++ 
++--++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++--+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++--++++ 
++--++++ All rights reserved.
++--++++```
++--++++# docs
++--++++```diff
++--++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++--++++index b19448e..642d169 100644
++--++++--- a/How our APIs work/README.md	
++--+++++++ b/How our APIs work/README.md	
++--++++@@ -62,5 +62,5 @@ flowchart LR
++--++++ ```
++--++++ 
++--++++ [^1]: These APIs use a serverless architecture.
++--++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++--+++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++--++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
++--++++```
++--++ ```
++-+++- All rights reserved.
++-+++-```
++-+++-# hosting
++-+++-```diff
++-+++-diff --git a/LICENSE.md b/LICENSE.md
++-+++-index d2fe92c..857a8ac 100644
++-+++---- a/LICENSE.md
++-+++-+++ b/LICENSE.md
++-+++-@@ -1,6 +1,6 @@
++-+++- # All Rights Reserved
++-+ +- 
++-+-+- [^1]: These APIs use a serverless architecture.
++-+-+--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++-+-+-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++-+-+- [^3]: These are not all possible response codes. This list may be expanded in the future.
++-+-++diff --git a/repos.md b/repos.md
++-+-++new file mode 100644
++-+-++index 0000000..32d2b60
++-+-++--- /dev/null
++-+-+++++ b/repos.md
++-+-++@@ -0,0 +1,187 @@
++-+-+++# modID
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# .github
++-+-+++```diff
++-+-+++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++-+-+++index c853676..ee71c7a 100644
++-+-+++--- a/.github/workflows/action.yml
++-+-++++++ b/.github/workflows/action.yml
++-+-+++@@ -26,5 +26,8 @@ jobs:
++-+-+++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++-+-+++         run: |
++-+-+++           python scripts/check_repo.py
++-+-++++          echo "$(printf '=%.0s' {1..100})"
++-+-+++           python scripts/repo_count.py
++-+-++++          echo "$(printf '=%.0s' {1..100})"
++-+-+++           python scripts/diff.py
++-+-++++          echo "$(printf '=%.0s' {1..100})"
++-+-+++```
++-+-+++# localS
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# CurlS
++-+-+++```diff
++-+-+++diff --git a/HowTo.md b/HowTo.md
++-+-+++index 27cd68d..415ce8c 100644
++-+-+++--- a/HowTo.md
++-+-++++++ b/HowTo.md
++-+-+++@@ -5,8 +5,7 @@
++-+-+++ > Some Features Might Not Work On MacOS or Linux.
++-+-+++ 
++-+-+++ ### Installation
++-+-+++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++-+-+++-and download the file.
++-+-++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++-+-+++ 
++-+-+++ ---
++-+-+++ Then drop the .py file somewhere accessible, like:
++-+-+++```
++-+-+++# RandG
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# Jsonify
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# FibF
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# RegexIt
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# Refs
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# RElog
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# requesttimeout.github.io
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# hosting
++-+-+++```diff
++-+-+++diff --git a/LICENSE.md b/LICENSE.md
++-+-+++index d2fe92c..857a8ac 100644
++-+-+++--- a/LICENSE.md
++-+-++++++ b/LICENSE.md
++-+-+++@@ -1,6 +1,6 @@
++-+-+++ # All Rights Reserved
++-+-+++ 
++-+-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+-+++ 
++-+-+++ All rights reserved.
++-+-+++```
++-+-+++# docs
++-+-+++```diff
++-+-+++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++-+-+++index b19448e..642d169 100644
++-+-+++--- a/How our APIs work/README.md	
++-+-++++++ b/How our APIs work/README.md	
++-+-+++@@ -62,5 +62,5 @@ flowchart LR
++-+-+++ ```
++-+-+++ 
++-+-+++ [^1]: These APIs use a serverless architecture.
++-+-+++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++-+-++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++-+-+++ [^3]: These are not all possible response codes. This list may be expanded in the future.
++-+-+++```
++-+-+ ```
++-+++ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++  
++-+++@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
++-++  # docs
++-++  ```diff
++-++--diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++-++--index b19448e..642d169 100644
++-++----- a/How our APIs work/README.md	
++-++--+++ b/How our APIs work/README.md	
++-++--@@ -62,5 +62,5 @@ flowchart LR
++-++-- ```
+++   diff --git a/repos.md b/repos.md
+++---new file mode 100644
+++---index 0000000..32d2b60
+++------ /dev/null
+++--+index 32d2b60..cd59e87 100644
+++--+--- a/repos.md
+++-+-index 32d2b60..cd59e87 100644
+++-++index cd59e87..ce4ae9e 100644
+++-+ --- a/repos.md
++++--index 32d2b60..cd59e87 100644
++++-+index cd59e87..ce4ae9e 100644
+++++-index cd59e87..ce4ae9e 100644
++++++index ce4ae9e..0462e4b 100644
++++  --- a/repos.md
+++   +++ b/repos.md
+++---@@ -0,0 +1,187 @@
+++---+# modID
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
+++-+-@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+++-+- ```
+++-+- # .github
+++-+- ```diff
+++-+--diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++-+--index c853676..ee71c7a 100644
+++-+----- a/.github/workflows/action.yml
+++-+--+++ b/.github/workflows/action.yml
+++-+--@@ -26,5 +26,8 @@ jobs:
+++-+--           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++-+--         run: |
+++-+--           python scripts/check_repo.py
+++-+--+          echo "$(printf '=%.0s' {1..100})"
+++-+--           python scripts/repo_count.py
+++-+--+          echo "$(printf '=%.0s' {1..100})"
+++-+--           python scripts/diff.py
+++-+--+          echo "$(printf '=%.0s' {1..100})"
+++-+-+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+++-+-+index 1294a5e..fd47ea9 100644
+++-+-+--- a/scripts/repo_count.py
+++-+-++++ b/scripts/repo_count.py
+++-+-+@@ -7,7 +7,7 @@
+++-+-+     "Accept": "application/vnd.github+json",
+++-+-+     "X-GitHub-Api-Version": "2022-11-28",
+++-+-+ }
+++-+-+-public, public = 0, 0
+++-+-++public, private = 0, 0
+++-+-+ page = 1
+++- -+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# .github
+++---+```diff
+++---+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++---+index c853676..ee71c7a 100644
+++---+--- a/.github/workflows/action.yml
+++---++++ b/.github/workflows/action.yml
+++---+@@ -26,5 +26,8 @@ jobs:
+++---+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++---+         run: |
+++---+           python scripts/check_repo.py
+++---++          echo "$(printf '=%.0s' {1..100})"
+++---+           python scripts/repo_count.py
+++---++          echo "$(printf '=%.0s' {1..100})"
+++---+           python scripts/diff.py
+++---++          echo "$(printf '=%.0s' {1..100})"
+++---+```
+++---+# localS
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
+++---+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# CurlS
+++---+```diff
+++---+diff --git a/HowTo.md b/HowTo.md
+++---+index 27cd68d..415ce8c 100644
+++---+--- a/HowTo.md
+++---++++ b/HowTo.md
+++---+@@ -5,8 +5,7 @@
+++---+ > Some Features Might Not Work On MacOS or Linux.
+++---+ 
+++---+ ### Installation
+++---+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+++---+-and download the file.
+++---++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+++---+ 
+++---+ ---
+++---+ Then drop the .py file somewhere accessible, like:
+++---+```
+++---+# RandG
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
++++--@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
++++-- ```
++++-- # .github
++++-- ```diff
++++---diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++++---index c853676..ee71c7a 100644
++++------ a/.github/workflows/action.yml
++++---+++ b/.github/workflows/action.yml
++++---@@ -26,5 +26,8 @@ jobs:
++++---           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++++---         run: |
++++---           python scripts/check_repo.py
++++---+          echo "$(printf '=%.0s' {1..100})"
++++---           python scripts/repo_count.py
++++---+          echo "$(printf '=%.0s' {1..100})"
++++---           python scripts/diff.py
++++---+          echo "$(printf '=%.0s' {1..100})"
++++--+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
++++--+index 1294a5e..fd47ea9 100644
++++--+--- a/scripts/repo_count.py
++++--++++ b/scripts/repo_count.py
++++--+@@ -7,7 +7,7 @@
++++--+     "Accept": "application/vnd.github+json",
++++--+     "X-GitHub-Api-Version": "2022-11-28",
++++--+ }
++++--+-public, public = 0, 0
++++--++public, private = 0, 0
++++--+ page = 1
+++ --+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# Jsonify
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
+++---+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# FibF
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
+++---+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# RegexIt
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
+++---+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# Refs
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
+++---+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# RElog
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
+++---+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# requesttimeout.github.io
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
+++---+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# hosting
+++---+```diff
+++---+diff --git a/LICENSE.md b/LICENSE.md
+++---+index d2fe92c..857a8ac 100644
+++---+--- a/LICENSE.md
+++---++++ b/LICENSE.md
+++---+@@ -1,6 +1,6 @@
+++---+ # All Rights Reserved
+++---+ 
+++---+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++---++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++---+ 
+++---+ All rights reserved.
+++---+```
+++---+# docs
+++---+```diff
+++---+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++---+index b19448e..642d169 100644
+++---+--- a/How our APIs work/README.md	
+++---++++ b/How our APIs work/README.md	
+++---+@@ -62,5 +62,5 @@ flowchart LR
+++---+ ```
+++--+@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+++--+ ```
+++--+ # .github
+++--+ ```diff
+++--+-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++--+-index c853676..ee71c7a 100644
+++--+---- a/.github/workflows/action.yml
+++--+-+++ b/.github/workflows/action.yml
+++--+-@@ -26,5 +26,8 @@ jobs:
+++--+-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++--+-         run: |
+++--+-           python scripts/check_repo.py
+++--+-+          echo "$(printf '=%.0s' {1..100})"
+++--+-           python scripts/repo_count.py
+++--+-+          echo "$(printf '=%.0s' {1..100})"
+++--+-           python scripts/diff.py
+++--+-+          echo "$(printf '=%.0s' {1..100})"
+++--++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+++--++index 1294a5e..fd47ea9 100644
+++--++--- a/scripts/repo_count.py
+++--+++++ b/scripts/repo_count.py
+++--++@@ -7,7 +7,7 @@
+++--++     "Accept": "application/vnd.github+json",
+++--++     "X-GitHub-Api-Version": "2022-11-28",
+++--++ }
+++--++-public, public = 0, 0
+++--+++public, private = 0, 0
+++--++ page = 1
+++-- + 
+++---+ [^1]: These APIs use a serverless architecture.
+++---+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++---++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++---+ [^3]: These are not all possible response codes. This list may be expanded in the future.
+++---+```
+++--++ while True:
+++--+ ```
+++--+ # localS
+++--+ ```diff
+++--+@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+++--+ ```
+++--+ # docs
+++--+ ```diff
+++--+-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++--+-index b19448e..642d169 100644
+++--+---- a/How our APIs work/README.md	
+++--+-+++ b/How our APIs work/README.md	
+++--+-@@ -62,5 +62,5 @@ flowchart LR
+++--+- ```
+++-+-+ while True:
+++-+- ```
+++-+- # localS
+++-+- ```diff
+++-+-@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+++-+- ```
+++-++@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
+++-++ @@ -1,6 +1,6 @@
+++-++  # All Rights Reserved
+++-++  
+++-++--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++- 
+++-++- All rights reserved.
+++-++-```
+++-++-# hosting
+++-++-```diff
+++-++-diff --git a/LICENSE.md b/LICENSE.md
+++-++-index d2fe92c..857a8ac 100644
+++-++---- a/LICENSE.md
+++-++-+++ b/LICENSE.md
+++-++-@@ -1,6 +1,6 @@
+++-++- # All Rights Reserved
+++- +- 
+++--+- [^1]: These APIs use a serverless architecture.
+++--+--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++--+-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++--+- [^3]: These are not all possible response codes. This list may be expanded in the future.
+++--++diff --git a/repos.md b/repos.md
+++--++new file mode 100644
+++--++index 0000000..32d2b60
+++--++--- /dev/null
+++--+++++ b/repos.md
+++--++@@ -0,0 +1,187 @@
+++--+++# modID
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# .github
+++--+++```diff
+++--+++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++--+++index c853676..ee71c7a 100644
+++--+++--- a/.github/workflows/action.yml
+++--++++++ b/.github/workflows/action.yml
+++--+++@@ -26,5 +26,8 @@ jobs:
+++--+++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++--+++         run: |
+++--+++           python scripts/check_repo.py
+++--++++          echo "$(printf '=%.0s' {1..100})"
+++--+++           python scripts/repo_count.py
+++--++++          echo "$(printf '=%.0s' {1..100})"
+++--+++           python scripts/diff.py
+++--++++          echo "$(printf '=%.0s' {1..100})"
+++--+++```
+++--+++# localS
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# CurlS
+++--+++```diff
+++--+++diff --git a/HowTo.md b/HowTo.md
+++--+++index 27cd68d..415ce8c 100644
+++--+++--- a/HowTo.md
+++--++++++ b/HowTo.md
+++--+++@@ -5,8 +5,7 @@
+++--+++ > Some Features Might Not Work On MacOS or Linux.
+++--+++ 
+++--+++ ### Installation
+++--+++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+++--+++-and download the file.
+++--++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+++--+++ 
+++--+++ ---
+++--+++ Then drop the .py file somewhere accessible, like:
+++--+++```
+++--+++# RandG
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# Jsonify
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# FibF
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# RegexIt
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# Refs
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# RElog
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# requesttimeout.github.io
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# hosting
+++--+++```diff
+++--+++diff --git a/LICENSE.md b/LICENSE.md
+++--+++index d2fe92c..857a8ac 100644
+++--+++--- a/LICENSE.md
+++--++++++ b/LICENSE.md
+++--+++@@ -1,6 +1,6 @@
+++--+++ # All Rights Reserved
+++--+++ 
+++--+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++--++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++--+++ 
+++--+++ All rights reserved.
+++--+++```
+++--+++# docs
+++--+++```diff
+++--+++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++--+++index b19448e..642d169 100644
+++--+++--- a/How our APIs work/README.md	
+++--++++++ b/How our APIs work/README.md	
+++--+++@@ -62,5 +62,5 @@ flowchart LR
+++--+++ ```
+++--+++ 
+++--+++ [^1]: These APIs use a serverless architecture.
+++--+++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++--++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++--+++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+++--+++```
+++--+ ```
+++-++ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++  
+++-++@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
+++-+  # docs
+++-+  ```diff
+++-+--diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++-+--index b19448e..642d169 100644
+++-+----- a/How our APIs work/README.md	
+++-+--+++ b/How our APIs work/README.md	
+++-+--@@ -62,5 +62,5 @@ flowchart LR
+++-+-- ```
++++--+ while True:
++++-- ```
++++-- # localS
++++-- ```diff
++++--@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
++++-- ```
++++-+@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
++++-+ @@ -1,6 +1,6 @@
++++-+  # All Rights Reserved
++++-+  
++++-+--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+- 
++++-+- All rights reserved.
++++-+-```
++++-+-# hosting
++++-+-```diff
++++-+-diff --git a/LICENSE.md b/LICENSE.md
++++-+-index d2fe92c..857a8ac 100644
++++-+---- a/LICENSE.md
++++-+-+++ b/LICENSE.md
++++-+-@@ -1,6 +1,6 @@
++++-+- # All Rights Reserved
++++-+- 
++++-+ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+  
++++-+@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
+++++-@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
+++++- @@ -1,6 +1,6 @@
+++++-  # All Rights Reserved
+++++-  
+++++---Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++ ++-- 
++-++-- [^1]: These APIs use a serverless architecture.
++-++---[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++-++--+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++-++-- [^3]: These are not all possible response codes. This list may be expanded in the future.
++-++-+diff --git a/repos.md b/repos.md
++-++-+new file mode 100644
++-++-+index 0000000..32d2b60
++-++-+--- /dev/null
++-++-++++ b/repos.md
++-++-+@@ -0,0 +1,187 @@
++-++-++# modID
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# .github
++-++-++```diff
++-++-++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++-++-++index c853676..ee71c7a 100644
++-++-++--- a/.github/workflows/action.yml
++-++-+++++ b/.github/workflows/action.yml
++-++-++@@ -26,5 +26,8 @@ jobs:
++-++-++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++-++-++         run: |
++-++-++           python scripts/check_repo.py
++-++-+++          echo "$(printf '=%.0s' {1..100})"
++-++-++           python scripts/repo_count.py
++-++-+++          echo "$(printf '=%.0s' {1..100})"
++-++-++           python scripts/diff.py
++-++-+++          echo "$(printf '=%.0s' {1..100})"
++-++-++```
++-++-++# localS
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# CurlS
++-++-++```diff
++-++-++diff --git a/HowTo.md b/HowTo.md
++-++-++index 27cd68d..415ce8c 100644
++-++-++--- a/HowTo.md
++-++-+++++ b/HowTo.md
++-++-++@@ -5,8 +5,7 @@
++-++-++ > Some Features Might Not Work On MacOS or Linux.
++-++-++ 
++-++-++ ### Installation
++-++-++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++-++-++-and download the file.
++-++-+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++-++-++ 
++-++-++ ---
++-++-++ Then drop the .py file somewhere accessible, like:
++-++-++```
++-++-++# RandG
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# Jsonify
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# FibF
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# RegexIt
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# Refs
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# RElog
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# requesttimeout.github.io
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# hosting
++-++-++```diff
++-++-++diff --git a/LICENSE.md b/LICENSE.md
++-++-++index d2fe92c..857a8ac 100644
++-++-++--- a/LICENSE.md
++-++-+++++ b/LICENSE.md
++-++-++@@ -1,6 +1,6 @@
++-++-++ # All Rights Reserved
++-++-++ 
++-++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++-++ 
++-++-++ All rights reserved.
++-++-++```
++-++-++# docs
++-++-++```diff
++-++-++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++-++-++index b19448e..642d169 100644
++-++-++--- a/How our APIs work/README.md	
++-++-+++++ b/How our APIs work/README.md	
++-++-++@@ -62,5 +62,5 @@ flowchart LR
++-++-++ ```
++-++-++ 
++-++-++ [^1]: These APIs use a serverless architecture.
++-++-++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++-++-+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++-++-++ [^3]: These are not all possible response codes. This list may be expanded in the future.
++-++-++```
++-+++ diff --git a/repos.md b/repos.md
++-+++-new file mode 100644
++-+++-index 0000000..32d2b60
++-+++---- /dev/null
++-++++index 32d2b60..cd59e87 100644
++-++++--- a/repos.md
++-+++ +++ b/repos.md
++-+++-@@ -0,0 +1,187 @@
++-+++-+# modID
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# .github
++-+++-+```diff
++-+++-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++-+++-+index c853676..ee71c7a 100644
++-+++-+--- a/.github/workflows/action.yml
++-+++-++++ b/.github/workflows/action.yml
++-+++-+@@ -26,5 +26,8 @@ jobs:
++-+++-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++-+++-+         run: |
++-+++-+           python scripts/check_repo.py
++-+++-++          echo "$(printf '=%.0s' {1..100})"
++-+++-+           python scripts/repo_count.py
++-+++-++          echo "$(printf '=%.0s' {1..100})"
++-+++-+           python scripts/diff.py
++-+++-++          echo "$(printf '=%.0s' {1..100})"
++-+++-+```
++-+++-+# localS
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# CurlS
++-+++-+```diff
++-+++-+diff --git a/HowTo.md b/HowTo.md
++-+++-+index 27cd68d..415ce8c 100644
++-+++-+--- a/HowTo.md
++-+++-++++ b/HowTo.md
++-+++-+@@ -5,8 +5,7 @@
++-+++-+ > Some Features Might Not Work On MacOS or Linux.
++-+++-+ 
++-+++-+ ### Installation
++-+++-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++-+++-+-and download the file.
++-+++-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++-+++-+ 
++-+++-+ ---
++-+++-+ Then drop the .py file somewhere accessible, like:
++-+++-+```
++-+++-+# RandG
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# Jsonify
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# FibF
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# RegexIt
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# Refs
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# RElog
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# requesttimeout.github.io
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# hosting
++-+++-+```diff
++-+++-+diff --git a/LICENSE.md b/LICENSE.md
++-+++-+index d2fe92c..857a8ac 100644
++-+++-+--- a/LICENSE.md
++-+++-++++ b/LICENSE.md
++-+++-+@@ -1,6 +1,6 @@
++-+++-+ # All Rights Reserved
++-+++-+ 
++-+++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-+++-+ 
++-+++-+ All rights reserved.
++-+++-+```
++-+++-+# docs
++-+++-+```diff
++-+++-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++-+++-+index b19448e..642d169 100644
++-+++-+--- a/How our APIs work/README.md	
++-+++-++++ b/How our APIs work/README.md	
++-+++-+@@ -62,5 +62,5 @@ flowchart LR
++-+++-+ ```
++-++++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
++-++++ ```
++-++++ # .github
++-++++ ```diff
++-++++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++-++++-index c853676..ee71c7a 100644
++-++++---- a/.github/workflows/action.yml
++-++++-+++ b/.github/workflows/action.yml
++-++++-@@ -26,5 +26,8 @@ jobs:
++-++++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++-++++-         run: |
++-++++-           python scripts/check_repo.py
++-++++-+          echo "$(printf '=%.0s' {1..100})"
++-++++-           python scripts/repo_count.py
++-++++-+          echo "$(printf '=%.0s' {1..100})"
++-++++-           python scripts/diff.py
++-++++-+          echo "$(printf '=%.0s' {1..100})"
++-+++++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
++-+++++index 1294a5e..fd47ea9 100644
++-+++++--- a/scripts/repo_count.py
++-++++++++ b/scripts/repo_count.py
++-+++++@@ -7,7 +7,7 @@
++-+++++     "Accept": "application/vnd.github+json",
++-+++++     "X-GitHub-Api-Version": "2022-11-28",
++-+++++ }
++-+++++-public, public = 0, 0
++-++++++public, private = 0, 0
++-+++++ page = 1
++-+++ + 
++-+++-+ [^1]: These APIs use a serverless architecture.
++-+++-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++-+++-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++-+++-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
++-+++-+```
++-+++++ while True:
++-++++ ```
++-++++ # localS
++-++++ ```diff
++-++++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
++-++++ ```
++-++++ # docs
++-++++ ```diff
++-++++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++-++++-index b19448e..642d169 100644
++-++++---- a/How our APIs work/README.md	
++-++++-+++ b/How our APIs work/README.md	
++-++++-@@ -62,5 +62,5 @@ flowchart LR
++-++++- ```
++-++++- 
++-++++- [^1]: These APIs use a serverless architecture.
++-++++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++-++++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++-++++- [^3]: These are not all possible response codes. This list may be expanded in the future.
++-+++++diff --git a/repos.md b/repos.md
++-+++++new file mode 100644
++-+++++index 0000000..32d2b60
++-+++++--- /dev/null
++-++++++++ b/repos.md
++-+++++@@ -0,0 +1,187 @@
++-++++++# modID
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# .github
++-++++++```diff
++-++++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++-++++++index c853676..ee71c7a 100644
++-++++++--- a/.github/workflows/action.yml
++-+++++++++ b/.github/workflows/action.yml
++-++++++@@ -26,5 +26,8 @@ jobs:
++-++++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++-++++++         run: |
++-++++++           python scripts/check_repo.py
++-+++++++          echo "$(printf '=%.0s' {1..100})"
++-++++++           python scripts/repo_count.py
++-+++++++          echo "$(printf '=%.0s' {1..100})"
++-++++++           python scripts/diff.py
++-+++++++          echo "$(printf '=%.0s' {1..100})"
++-++++++```
++-++++++# localS
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# CurlS
++-++++++```diff
++-++++++diff --git a/HowTo.md b/HowTo.md
++-++++++index 27cd68d..415ce8c 100644
++-++++++--- a/HowTo.md
++-+++++++++ b/HowTo.md
++-++++++@@ -5,8 +5,7 @@
++-++++++ > Some Features Might Not Work On MacOS or Linux.
++-++++++ 
++-++++++ ### Installation
++-++++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++-++++++-and download the file.
++-+++++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++-++++++ 
++-++++++ ---
++-++++++ Then drop the .py file somewhere accessible, like:
++-++++++```
++-++++++# RandG
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# Jsonify
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# FibF
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# RegexIt
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# Refs
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# RElog
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# requesttimeout.github.io
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# hosting
++-++++++```diff
++-++++++diff --git a/LICENSE.md b/LICENSE.md
++-++++++index d2fe92c..857a8ac 100644
++-++++++--- a/LICENSE.md
++-+++++++++ b/LICENSE.md
++-++++++@@ -1,6 +1,6 @@
++-++++++ # All Rights Reserved
++-++++++ 
++-++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++-+++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++-++++++ 
++-++++++ All rights reserved.
++-++++++```
++-++++++# docs
++-++++++```diff
++-++++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++-++++++index b19448e..642d169 100644
++-++++++--- a/How our APIs work/README.md	
++-+++++++++ b/How our APIs work/README.md	
++-++++++@@ -62,5 +62,5 @@ flowchart LR
++-++++++ ```
++-++++++ 
++-++++++ [^1]: These APIs use a serverless architecture.
++-++++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++-+++++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++-++++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
++-++++++```
++-++++ ```
++-++  ```
+++++-- All rights reserved.
+++++--```
+++++--# hosting
+++++--```diff
+++++--diff --git a/LICENSE.md b/LICENSE.md
+++++--index d2fe92c..857a8ac 100644
+++++----- a/LICENSE.md
+++++--+++ b/LICENSE.md
+++++--@@ -1,6 +1,6 @@
+++++-- # All Rights Reserved
+++ +-- 
+++-+-- [^1]: These APIs use a serverless architecture.
+++-+---[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++-+--+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++-+-- [^3]: These are not all possible response codes. This list may be expanded in the future.
+++-+-+diff --git a/repos.md b/repos.md
+++-+-+new file mode 100644
+++-+-+index 0000000..32d2b60
+++-+-+--- /dev/null
+++-+-++++ b/repos.md
+++-+-+@@ -0,0 +1,187 @@
+++-+-++# modID
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# .github
+++-+-++```diff
+++-+-++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++-+-++index c853676..ee71c7a 100644
+++-+-++--- a/.github/workflows/action.yml
+++-+-+++++ b/.github/workflows/action.yml
+++-+-++@@ -26,5 +26,8 @@ jobs:
+++-+-++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++-+-++         run: |
+++-+-++           python scripts/check_repo.py
+++-+-+++          echo "$(printf '=%.0s' {1..100})"
+++-+-++           python scripts/repo_count.py
+++-+-+++          echo "$(printf '=%.0s' {1..100})"
+++-+-++           python scripts/diff.py
+++-+-+++          echo "$(printf '=%.0s' {1..100})"
+++-+-++```
+++-+-++# localS
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# CurlS
+++-+-++```diff
+++-+-++diff --git a/HowTo.md b/HowTo.md
+++-+-++index 27cd68d..415ce8c 100644
+++-+-++--- a/HowTo.md
+++-+-+++++ b/HowTo.md
+++-+-++@@ -5,8 +5,7 @@
+++-+-++ > Some Features Might Not Work On MacOS or Linux.
+++-+-++ 
+++-+-++ ### Installation
+++-+-++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+++-+-++-and download the file.
+++-+-+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+++-+-++ 
+++-+-++ ---
+++-+-++ Then drop the .py file somewhere accessible, like:
+++-+-++```
+++-+-++# RandG
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# Jsonify
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# FibF
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# RegexIt
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# Refs
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# RElog
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# requesttimeout.github.io
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# hosting
+++-+-++```diff
+++-+-++diff --git a/LICENSE.md b/LICENSE.md
+++-+-++index d2fe92c..857a8ac 100644
+++-+-++--- a/LICENSE.md
+++-+-+++++ b/LICENSE.md
+++-+-++@@ -1,6 +1,6 @@
+++-+-++ # All Rights Reserved
+++-+-++ 
+++-+-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-+-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+-++ 
+++-+-++ All rights reserved.
+++-+-++```
+++-+-++# docs
+++-+-++```diff
+++-+-++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++-+-++index b19448e..642d169 100644
+++-+-++--- a/How our APIs work/README.md	
+++-+-+++++ b/How our APIs work/README.md	
+++-+-++@@ -62,5 +62,5 @@ flowchart LR
+++-+-++ ```
+++-+-++ 
+++-+-++ [^1]: These APIs use a serverless architecture.
+++-+-++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++-+-+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++-+-++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+++-+-++```
+++-++ diff --git a/repos.md b/repos.md
+++-++-new file mode 100644
+++-++-index 0000000..32d2b60
+++-++---- /dev/null
+++-+++index 32d2b60..cd59e87 100644
+++-+++--- a/repos.md
+++-++ +++ b/repos.md
+++-++-@@ -0,0 +1,187 @@
+++-++-+# modID
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# .github
+++-++-+```diff
+++-++-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++-++-+index c853676..ee71c7a 100644
+++-++-+--- a/.github/workflows/action.yml
+++-++-++++ b/.github/workflows/action.yml
+++-++-+@@ -26,5 +26,8 @@ jobs:
+++-++-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++-++-+         run: |
+++-++-+           python scripts/check_repo.py
+++-++-++          echo "$(printf '=%.0s' {1..100})"
+++-++-+           python scripts/repo_count.py
+++-++-++          echo "$(printf '=%.0s' {1..100})"
+++-++-+           python scripts/diff.py
+++-++-++          echo "$(printf '=%.0s' {1..100})"
+++-++-+```
+++-++-+# localS
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# CurlS
+++-++-+```diff
+++-++-+diff --git a/HowTo.md b/HowTo.md
+++-++-+index 27cd68d..415ce8c 100644
+++-++-+--- a/HowTo.md
+++-++-++++ b/HowTo.md
+++-++-+@@ -5,8 +5,7 @@
+++-++-+ > Some Features Might Not Work On MacOS or Linux.
+++-++-+ 
+++-++-+ ### Installation
+++-++-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+++-++-+-and download the file.
+++-++-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+++-++-+ 
+++-++-+ ---
+++-++-+ Then drop the .py file somewhere accessible, like:
+++-++-+```
+++-++-+# RandG
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# Jsonify
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# FibF
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# RegexIt
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# Refs
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# RElog
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# requesttimeout.github.io
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# hosting
+++-++-+```diff
+++-++-+diff --git a/LICENSE.md b/LICENSE.md
+++-++-+index d2fe92c..857a8ac 100644
+++-++-+--- a/LICENSE.md
+++-++-++++ b/LICENSE.md
+++-++-+@@ -1,6 +1,6 @@
+++-++-+ # All Rights Reserved
+++-++-+ 
+++-++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-++-+ 
+++-++-+ All rights reserved.
+++-++-+```
+++-++-+# docs
+++-++-+```diff
+++-++-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++-++-+index b19448e..642d169 100644
+++-++-+--- a/How our APIs work/README.md	
+++-++-++++ b/How our APIs work/README.md	
+++-++-+@@ -62,5 +62,5 @@ flowchart LR
+++-++-+ ```
+++-+++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+++-+++ ```
+++-+++ # .github
+++-+++ ```diff
+++-+++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++-+++-index c853676..ee71c7a 100644
+++-+++---- a/.github/workflows/action.yml
+++-+++-+++ b/.github/workflows/action.yml
+++-+++-@@ -26,5 +26,8 @@ jobs:
+++-+++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++-+++-         run: |
+++-+++-           python scripts/check_repo.py
+++-+++-+          echo "$(printf '=%.0s' {1..100})"
+++-+++-           python scripts/repo_count.py
+++-+++-+          echo "$(printf '=%.0s' {1..100})"
+++-+++-           python scripts/diff.py
+++-+++-+          echo "$(printf '=%.0s' {1..100})"
+++-++++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+++-++++index 1294a5e..fd47ea9 100644
+++-++++--- a/scripts/repo_count.py
+++-+++++++ b/scripts/repo_count.py
+++-++++@@ -7,7 +7,7 @@
+++-++++     "Accept": "application/vnd.github+json",
+++-++++     "X-GitHub-Api-Version": "2022-11-28",
+++-++++ }
+++-++++-public, public = 0, 0
+++-+++++public, private = 0, 0
+++-++++ page = 1
+++-++ + 
+++-++-+ [^1]: These APIs use a serverless architecture.
+++-++-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++-++-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++-++-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
+++-++-+```
+++-++++ while True:
+++-+++ ```
+++-+++ # localS
+++-+++ ```diff
+++-+++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+++-+++ ```
+++-+++ # docs
+++-+++ ```diff
+++-+++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++-+++-index b19448e..642d169 100644
+++-+++---- a/How our APIs work/README.md	
+++-+++-+++ b/How our APIs work/README.md	
+++-+++-@@ -62,5 +62,5 @@ flowchart LR
+++-+++- ```
+++-+++- 
+++-+++- [^1]: These APIs use a serverless architecture.
+++-+++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++-+++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++-+++- [^3]: These are not all possible response codes. This list may be expanded in the future.
+++-++++diff --git a/repos.md b/repos.md
+++-++++new file mode 100644
+++-++++index 0000000..32d2b60
+++-++++--- /dev/null
+++-+++++++ b/repos.md
+++-++++@@ -0,0 +1,187 @@
+++-+++++# modID
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# .github
+++-+++++```diff
+++-+++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++-+++++index c853676..ee71c7a 100644
+++-+++++--- a/.github/workflows/action.yml
+++-++++++++ b/.github/workflows/action.yml
+++-+++++@@ -26,5 +26,8 @@ jobs:
+++-+++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++-+++++         run: |
+++-+++++           python scripts/check_repo.py
+++-++++++          echo "$(printf '=%.0s' {1..100})"
+++-+++++           python scripts/repo_count.py
+++-++++++          echo "$(printf '=%.0s' {1..100})"
+++-+++++           python scripts/diff.py
+++-++++++          echo "$(printf '=%.0s' {1..100})"
+++-+++++```
+++-+++++# localS
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# CurlS
+++-+++++```diff
+++-+++++diff --git a/HowTo.md b/HowTo.md
+++-+++++index 27cd68d..415ce8c 100644
+++-+++++--- a/HowTo.md
+++-++++++++ b/HowTo.md
+++-+++++@@ -5,8 +5,7 @@
+++-+++++ > Some Features Might Not Work On MacOS or Linux.
+++-+++++ 
+++-+++++ ### Installation
+++-+++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+++-+++++-and download the file.
+++-++++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+++-+++++ 
+++-+++++ ---
+++-+++++ Then drop the .py file somewhere accessible, like:
+++-+++++```
+++-+++++# RandG
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# Jsonify
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# FibF
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# RegexIt
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# Refs
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# RElog
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# requesttimeout.github.io
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# hosting
+++-+++++```diff
+++-+++++diff --git a/LICENSE.md b/LICENSE.md
+++-+++++index d2fe92c..857a8ac 100644
+++-+++++--- a/LICENSE.md
+++-++++++++ b/LICENSE.md
+++-+++++@@ -1,6 +1,6 @@
+++-+++++ # All Rights Reserved
+++-+++++ 
+++-+++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++-++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++-+++++ 
+++-+++++ All rights reserved.
+++-+++++```
+++-+++++# docs
+++-+++++```diff
+++-+++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++-+++++index b19448e..642d169 100644
+++-+++++--- a/How our APIs work/README.md	
+++-++++++++ b/How our APIs work/README.md	
+++-+++++@@ -62,5 +62,5 @@ flowchart LR
+++-+++++ ```
+++-+++++ 
+++-+++++ [^1]: These APIs use a serverless architecture.
+++-+++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++-++++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++-+++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+++-+++++```
+++-+++ ```
+++-+  ```
+++++- -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++- +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-  
+++++-@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
++++++@@ -160,249 +160,468 @@ index d2fe92c..857a8ac 100644
++++   # docs
++++   ```diff
++++---diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++++---index b19448e..642d169 100644
++++------ a/How our APIs work/README.md	
++++---+++ b/How our APIs work/README.md	
++++---@@ -62,5 +62,5 @@ flowchart LR
++++--- ```
++++--- 
++++--- [^1]: These APIs use a serverless architecture.
++++----[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++++---+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++++--- [^3]: These are not all possible response codes. This list may be expanded in the future.
++++--+diff --git a/repos.md b/repos.md
++++--+new file mode 100644
++++--+index 0000000..32d2b60
++++--+--- /dev/null
++++--++++ b/repos.md
++++--+@@ -0,0 +1,187 @@
++++--++# modID
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# .github
++++--++```diff
++++--++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++++--++index c853676..ee71c7a 100644
++++--++--- a/.github/workflows/action.yml
++++--+++++ b/.github/workflows/action.yml
++++--++@@ -26,5 +26,8 @@ jobs:
++++--++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++++--++         run: |
++++--++           python scripts/check_repo.py
++++--+++          echo "$(printf '=%.0s' {1..100})"
++++--++           python scripts/repo_count.py
++++--+++          echo "$(printf '=%.0s' {1..100})"
++++--++           python scripts/diff.py
++++--+++          echo "$(printf '=%.0s' {1..100})"
++++--++```
++++--++# localS
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# CurlS
++++--++```diff
++++--++diff --git a/HowTo.md b/HowTo.md
++++--++index 27cd68d..415ce8c 100644
++++--++--- a/HowTo.md
++++--+++++ b/HowTo.md
++++--++@@ -5,8 +5,7 @@
++++--++ > Some Features Might Not Work On MacOS or Linux.
++++--++ 
++++--++ ### Installation
++++--++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++++--++-and download the file.
++++--+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++++--++ 
++++--++ ---
++++--++ Then drop the .py file somewhere accessible, like:
++++--++```
++++--++# RandG
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# Jsonify
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# FibF
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# RegexIt
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# Refs
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# RElog
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# requesttimeout.github.io
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# hosting
++++--++```diff
++++--++diff --git a/LICENSE.md b/LICENSE.md
++++--++index d2fe92c..857a8ac 100644
++++--++--- a/LICENSE.md
++++--+++++ b/LICENSE.md
++++--++@@ -1,6 +1,6 @@
++++--++ # All Rights Reserved
++++--++ 
++++--++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++--+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++--++ 
++++--++ All rights reserved.
++++--++```
++++--++# docs
++++--++```diff
++++--++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++++--++index b19448e..642d169 100644
++++--++--- a/How our APIs work/README.md	
++++--+++++ b/How our APIs work/README.md	
++++--++@@ -62,5 +62,5 @@ flowchart LR
++++--++ ```
++++--++ 
++++--++ [^1]: These APIs use a serverless architecture.
++++--++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++++--+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++++--++ [^3]: These are not all possible response codes. This list may be expanded in the future.
++++--++```
++++-+ diff --git a/repos.md b/repos.md
++++-+-new file mode 100644
++++-+-index 0000000..32d2b60
++++-+---- /dev/null
++++-++index 32d2b60..cd59e87 100644
++++-++--- a/repos.md
++++-+ +++ b/repos.md
++++-+-@@ -0,0 +1,187 @@
++++-+-+# modID
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# .github
++++-+-+```diff
++++-+-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++++-+-+index c853676..ee71c7a 100644
++++-+-+--- a/.github/workflows/action.yml
++++-+-++++ b/.github/workflows/action.yml
++++-+-+@@ -26,5 +26,8 @@ jobs:
++++-+-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++++-+-+         run: |
++++-+-+           python scripts/check_repo.py
++++-+-++          echo "$(printf '=%.0s' {1..100})"
++++-+-+           python scripts/repo_count.py
++++-+-++          echo "$(printf '=%.0s' {1..100})"
++++-+-+           python scripts/diff.py
++++-+-++          echo "$(printf '=%.0s' {1..100})"
++++-+-+```
++++-+-+# localS
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# CurlS
++++-+-+```diff
++++-+-+diff --git a/HowTo.md b/HowTo.md
++++-+-+index 27cd68d..415ce8c 100644
++++-+-+--- a/HowTo.md
++++-+-++++ b/HowTo.md
++++-+-+@@ -5,8 +5,7 @@
++++-+-+ > Some Features Might Not Work On MacOS or Linux.
++++-+-+ 
++++-+-+ ### Installation
++++-+-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++++-+-+-and download the file.
++++-+-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++++-+-+ 
++++-+-+ ---
++++-+-+ Then drop the .py file somewhere accessible, like:
++++-+-+```
++++-+-+# RandG
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# Jsonify
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# FibF
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# RegexIt
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# Refs
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# RElog
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# requesttimeout.github.io
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# hosting
++++-+-+```diff
++++-+-+diff --git a/LICENSE.md b/LICENSE.md
++++-+-+index d2fe92c..857a8ac 100644
++++-+-+--- a/LICENSE.md
++++-+-++++ b/LICENSE.md
++++-+-+@@ -1,6 +1,6 @@
++++-+-+ # All Rights Reserved
++++-+-+ 
++++-+-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-+-+ 
++++-+-+ All rights reserved.
++++-+-+```
++++-+-+# docs
++++-+-+```diff
++++-+-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++++-+-+index b19448e..642d169 100644
++++-+-+--- a/How our APIs work/README.md	
++++-+-++++ b/How our APIs work/README.md	
++++-+-+@@ -62,5 +62,5 @@ flowchart LR
++++-+-+ ```
++++-++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
++++-++ ```
++++-++ # .github
++++-++ ```diff
++++-++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++++-++-index c853676..ee71c7a 100644
++++-++---- a/.github/workflows/action.yml
++++-++-+++ b/.github/workflows/action.yml
++++-++-@@ -26,5 +26,8 @@ jobs:
++++-++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++++-++-         run: |
++++-++-           python scripts/check_repo.py
++++-++-+          echo "$(printf '=%.0s' {1..100})"
++++-++-           python scripts/repo_count.py
++++-++-+          echo "$(printf '=%.0s' {1..100})"
++++-++-           python scripts/diff.py
++++-++-+          echo "$(printf '=%.0s' {1..100})"
++++-+++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
++++-+++index 1294a5e..fd47ea9 100644
++++-+++--- a/scripts/repo_count.py
++++-++++++ b/scripts/repo_count.py
++++-+++@@ -7,7 +7,7 @@
++++-+++     "Accept": "application/vnd.github+json",
++++-+++     "X-GitHub-Api-Version": "2022-11-28",
++++-+++ }
++++-+++-public, public = 0, 0
++++-++++public, private = 0, 0
++++-+++ page = 1
++++-+ + 
++++-+-+ [^1]: These APIs use a serverless architecture.
++++-+-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++++-+-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++++-+-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
++++-+-+```
++++-+++ while True:
++++-++ ```
++++-++ # localS
++++-++ ```diff
++++-++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
++++-++ ```
++++-++ # docs
++++-++ ```diff
++++-++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++++-++-index b19448e..642d169 100644
++++-++---- a/How our APIs work/README.md	
++++-++-+++ b/How our APIs work/README.md	
++++-++-@@ -62,5 +62,5 @@ flowchart LR
++++-++- ```
+++++  diff --git a/repos.md b/repos.md
+++++--new file mode 100644
+++++--index 0000000..32d2b60
+++++----- /dev/null
+++++-+index 32d2b60..cd59e87 100644
+++++-+--- a/repos.md
++++++-index 32d2b60..cd59e87 100644
+++++++index cd59e87..ce4ae9e 100644
++++++ --- a/repos.md
+++++  +++ b/repos.md
+++++--@@ -0,0 +1,187 @@
+++++--+# modID
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
++++++-@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
++++++- ```
++++++- # .github
++++++- ```diff
++++++--diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++++++--index c853676..ee71c7a 100644
++++++----- a/.github/workflows/action.yml
++++++--+++ b/.github/workflows/action.yml
++++++--@@ -26,5 +26,8 @@ jobs:
++++++--           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++++++--         run: |
++++++--           python scripts/check_repo.py
++++++--+          echo "$(printf '=%.0s' {1..100})"
++++++--           python scripts/repo_count.py
++++++--+          echo "$(printf '=%.0s' {1..100})"
++++++--           python scripts/diff.py
++++++--+          echo "$(printf '=%.0s' {1..100})"
++++++-+diff --git a/scripts/repo_count.py b/scripts/repo_count.py
++++++-+index 1294a5e..fd47ea9 100644
++++++-+--- a/scripts/repo_count.py
++++++-++++ b/scripts/repo_count.py
++++++-+@@ -7,7 +7,7 @@
++++++-+     "Accept": "application/vnd.github+json",
++++++-+     "X-GitHub-Api-Version": "2022-11-28",
++++++-+ }
++++++-+-public, public = 0, 0
++++++-++public, private = 0, 0
++++++-+ page = 1
+++++ -+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# .github
+++++--+```diff
+++++--+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++++--+index c853676..ee71c7a 100644
+++++--+--- a/.github/workflows/action.yml
+++++--++++ b/.github/workflows/action.yml
+++++--+@@ -26,5 +26,8 @@ jobs:
+++++--+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++++--+         run: |
+++++--+           python scripts/check_repo.py
+++++--++          echo "$(printf '=%.0s' {1..100})"
+++++--+           python scripts/repo_count.py
+++++--++          echo "$(printf '=%.0s' {1..100})"
+++++--+           python scripts/diff.py
+++++--++          echo "$(printf '=%.0s' {1..100})"
+++++--+```
+++++--+# localS
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
+++++--+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# CurlS
+++++--+```diff
+++++--+diff --git a/HowTo.md b/HowTo.md
+++++--+index 27cd68d..415ce8c 100644
+++++--+--- a/HowTo.md
+++++--++++ b/HowTo.md
+++++--+@@ -5,8 +5,7 @@
+++++--+ > Some Features Might Not Work On MacOS or Linux.
+++++--+ 
+++++--+ ### Installation
+++++--+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+++++--+-and download the file.
+++++--++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+++++--+ 
+++++--+ ---
+++++--+ Then drop the .py file somewhere accessible, like:
+++++--+```
+++++--+# RandG
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
+++++--+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# Jsonify
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
+++++--+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# FibF
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
+++++--+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# RegexIt
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
+++++--+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# Refs
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
+++++--+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# RElog
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
+++++--+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# requesttimeout.github.io
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
+++++--+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# hosting
+++++--+```diff
+++++--+diff --git a/LICENSE.md b/LICENSE.md
+++++--+index d2fe92c..857a8ac 100644
+++++--+--- a/LICENSE.md
+++++--++++ b/LICENSE.md
+++++--+@@ -1,6 +1,6 @@
+++++--+ # All Rights Reserved
+++++--+ 
+++++--+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++--++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++--+ 
+++++--+ All rights reserved.
+++++--+```
+++++--+# docs
+++++--+```diff
+++++--+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++++--+index b19448e..642d169 100644
+++++--+--- a/How our APIs work/README.md	
+++++--++++ b/How our APIs work/README.md	
+++++--+@@ -62,5 +62,5 @@ flowchart LR
+++++--+ ```
+++++-+@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
+++++-+ ```
+++++-+ # .github
+++++-+ ```diff
+++++-+-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++++-+-index c853676..ee71c7a 100644
+++++-+---- a/.github/workflows/action.yml
+++++-+-+++ b/.github/workflows/action.yml
+++++-+-@@ -26,5 +26,8 @@ jobs:
+++++-+-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++++-+-         run: |
+++++-+-           python scripts/check_repo.py
+++++-+-+          echo "$(printf '=%.0s' {1..100})"
+++++-+-           python scripts/repo_count.py
+++++-+-+          echo "$(printf '=%.0s' {1..100})"
+++++-+-           python scripts/diff.py
+++++-+-+          echo "$(printf '=%.0s' {1..100})"
+++++-++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+++++-++index 1294a5e..fd47ea9 100644
+++++-++--- a/scripts/repo_count.py
+++++-+++++ b/scripts/repo_count.py
+++++-++@@ -7,7 +7,7 @@
+++++-++     "Accept": "application/vnd.github+json",
+++++-++     "X-GitHub-Api-Version": "2022-11-28",
+++++-++ }
+++++-++-public, public = 0, 0
+++++-+++public, private = 0, 0
+++++-++ page = 1
+++++- + 
+++++--+ [^1]: These APIs use a serverless architecture.
+++++--+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++++--++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++++--+ [^3]: These are not all possible response codes. This list may be expanded in the future.
+++++--+```
+++++-++ while True:
+++++-+ ```
+++++-+ # localS
+++++-+ ```diff
+++++-+@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
+++++-+ ```
+++++-+ # docs
+++++-+ ```diff
+++++-+-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++++-+-index b19448e..642d169 100644
+++++-+---- a/How our APIs work/README.md	
+++++-+-+++ b/How our APIs work/README.md	
+++++-+-@@ -62,5 +62,5 @@ flowchart LR
+++++-+- ```
++++++-+ while True:
++++++- ```
++++++- # localS
++++++- ```diff
++++++-@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
++++++- ```
+++++++@@ -152,20 +152,6 @@ index d2fe92c..857a8ac 100644
+++++++ @@ -1,6 +1,6 @@
+++++++  # All Rights Reserved
+++++++  
+++++++--Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-+Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++ ++- 
++++-++- [^1]: These APIs use a serverless architecture.
++++-++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++++-++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++++-++- [^3]: These are not all possible response codes. This list may be expanded in the future.
++++-+++diff --git a/repos.md b/repos.md
++++-+++new file mode 100644
++++-+++index 0000000..32d2b60
++++-+++--- /dev/null
++++-++++++ b/repos.md
++++-+++@@ -0,0 +1,187 @@
++++-++++# modID
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# .github
++++-++++```diff
++++-++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++++-++++index c853676..ee71c7a 100644
++++-++++--- a/.github/workflows/action.yml
++++-+++++++ b/.github/workflows/action.yml
++++-++++@@ -26,5 +26,8 @@ jobs:
++++-++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++++-++++         run: |
++++-++++           python scripts/check_repo.py
++++-+++++          echo "$(printf '=%.0s' {1..100})"
++++-++++           python scripts/repo_count.py
++++-+++++          echo "$(printf '=%.0s' {1..100})"
++++-++++           python scripts/diff.py
++++-+++++          echo "$(printf '=%.0s' {1..100})"
++++-++++```
++++-++++# localS
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# CurlS
++++-++++```diff
++++-++++diff --git a/HowTo.md b/HowTo.md
++++-++++index 27cd68d..415ce8c 100644
++++-++++--- a/HowTo.md
++++-+++++++ b/HowTo.md
++++-++++@@ -5,8 +5,7 @@
++++-++++ > Some Features Might Not Work On MacOS or Linux.
++++-++++ 
++++-++++ ### Installation
++++-++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++++-++++-and download the file.
++++-+++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++++-++++ 
++++-++++ ---
++++-++++ Then drop the .py file somewhere accessible, like:
++++-++++```
++++-++++# RandG
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# Jsonify
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# FibF
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# RegexIt
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# Refs
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# RElog
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# requesttimeout.github.io
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# hosting
++++-++++```diff
++++-++++diff --git a/LICENSE.md b/LICENSE.md
++++-++++index d2fe92c..857a8ac 100644
++++-++++--- a/LICENSE.md
++++-+++++++ b/LICENSE.md
++++-++++@@ -1,6 +1,6 @@
++++-++++ # All Rights Reserved
++++-++++ 
++++-++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++-+++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++-++++ 
++++-++++ All rights reserved.
++++-++++```
++++-++++# docs
++++-++++```diff
++++-++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++++-++++index b19448e..642d169 100644
++++-++++--- a/How our APIs work/README.md	
++++-+++++++ b/How our APIs work/README.md	
++++-++++@@ -62,5 +62,5 @@ flowchart LR
++++-++++ ```
++++-++++ 
++++-++++ [^1]: These APIs use a serverless architecture.
++++-++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++++-+++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++++-++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
++++-++++```
++++-++ ```
+++++++- All rights reserved.
+++++++-```
+++++++-# hosting
+++++++-```diff
+++++++-diff --git a/LICENSE.md b/LICENSE.md
+++++++-index d2fe92c..857a8ac 100644
+++++++---- a/LICENSE.md
+++++++-+++ b/LICENSE.md
+++++++-@@ -1,6 +1,6 @@
+++++++- # All Rights Reserved
+++++ +- 
+++++-+- [^1]: These APIs use a serverless architecture.
+++++-+--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++++-+-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++++-+- [^3]: These are not all possible response codes. This list may be expanded in the future.
+++++-++diff --git a/repos.md b/repos.md
+++++-++new file mode 100644
+++++-++index 0000000..32d2b60
+++++-++--- /dev/null
+++++-+++++ b/repos.md
+++++-++@@ -0,0 +1,187 @@
+++++-+++# modID
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# .github
+++++-+++```diff
+++++-+++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++++-+++index c853676..ee71c7a 100644
+++++-+++--- a/.github/workflows/action.yml
+++++-++++++ b/.github/workflows/action.yml
+++++-+++@@ -26,5 +26,8 @@ jobs:
+++++-+++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++++-+++         run: |
+++++-+++           python scripts/check_repo.py
+++++-++++          echo "$(printf '=%.0s' {1..100})"
+++++-+++           python scripts/repo_count.py
+++++-++++          echo "$(printf '=%.0s' {1..100})"
+++++-+++           python scripts/diff.py
+++++-++++          echo "$(printf '=%.0s' {1..100})"
+++++-+++```
+++++-+++# localS
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# CurlS
+++++-+++```diff
+++++-+++diff --git a/HowTo.md b/HowTo.md
+++++-+++index 27cd68d..415ce8c 100644
+++++-+++--- a/HowTo.md
+++++-++++++ b/HowTo.md
+++++-+++@@ -5,8 +5,7 @@
+++++-+++ > Some Features Might Not Work On MacOS or Linux.
+++++-+++ 
+++++-+++ ### Installation
+++++-+++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+++++-+++-and download the file.
+++++-++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+++++-+++ 
+++++-+++ ---
+++++-+++ Then drop the .py file somewhere accessible, like:
+++++-+++```
+++++-+++# RandG
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# Jsonify
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# FibF
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# RegexIt
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# Refs
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# RElog
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# requesttimeout.github.io
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# hosting
+++++-+++```diff
+++++-+++diff --git a/LICENSE.md b/LICENSE.md
+++++-+++index d2fe92c..857a8ac 100644
+++++-+++--- a/LICENSE.md
+++++-++++++ b/LICENSE.md
+++++-+++@@ -1,6 +1,6 @@
+++++-+++ # All Rights Reserved
+++++-+++ 
+++++-+++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++-++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++-+++ 
+++++-+++ All rights reserved.
+++++-+++```
+++++-+++# docs
+++++-+++```diff
+++++-+++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++++-+++index b19448e..642d169 100644
+++++-+++--- a/How our APIs work/README.md	
+++++-++++++ b/How our APIs work/README.md	
+++++-+++@@ -62,5 +62,5 @@ flowchart LR
+++++-+++ ```
+++++-+++ 
+++++-+++ [^1]: These APIs use a serverless architecture.
+++++-+++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++++-++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++++-+++ [^3]: These are not all possible response codes. This list may be expanded in the future.
+++++-+++```
+++++-+ ```
+++++++ -Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++ +Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++  
+++++++@@ -174,196 +160,249 @@ index d2fe92c..857a8ac 100644
++++++  # docs
++++++  ```diff
++++++--diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++++++--index b19448e..642d169 100644
++++++----- a/How our APIs work/README.md	
++++++--+++ b/How our APIs work/README.md	
++++++--@@ -62,5 +62,5 @@ flowchart LR
++++++-- ```
++++++-- 
++++++-- [^1]: These APIs use a serverless architecture.
++++++---[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++++++--+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++++++-- [^3]: These are not all possible response codes. This list may be expanded in the future.
++++++-+diff --git a/repos.md b/repos.md
++++++-+new file mode 100644
++++++-+index 0000000..32d2b60
++++++-+--- /dev/null
++++++-++++ b/repos.md
++++++-+@@ -0,0 +1,187 @@
++++++-++# modID
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# .github
++++++-++```diff
++++++-++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++++++-++index c853676..ee71c7a 100644
++++++-++--- a/.github/workflows/action.yml
++++++-+++++ b/.github/workflows/action.yml
++++++-++@@ -26,5 +26,8 @@ jobs:
++++++-++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++++++-++         run: |
++++++-++           python scripts/check_repo.py
++++++-+++          echo "$(printf '=%.0s' {1..100})"
++++++-++           python scripts/repo_count.py
++++++-+++          echo "$(printf '=%.0s' {1..100})"
++++++-++           python scripts/diff.py
++++++-+++          echo "$(printf '=%.0s' {1..100})"
++++++-++```
++++++-++# localS
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# CurlS
++++++-++```diff
++++++-++diff --git a/HowTo.md b/HowTo.md
++++++-++index 27cd68d..415ce8c 100644
++++++-++--- a/HowTo.md
++++++-+++++ b/HowTo.md
++++++-++@@ -5,8 +5,7 @@
++++++-++ > Some Features Might Not Work On MacOS or Linux.
++++++-++ 
++++++-++ ### Installation
++++++-++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++++++-++-and download the file.
++++++-+++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++++++-++ 
++++++-++ ---
++++++-++ Then drop the .py file somewhere accessible, like:
++++++-++```
++++++-++# RandG
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# Jsonify
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# FibF
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# RegexIt
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# Refs
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# RElog
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# requesttimeout.github.io
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# hosting
++++++-++```diff
++++++-++diff --git a/LICENSE.md b/LICENSE.md
++++++-++index d2fe92c..857a8ac 100644
++++++-++--- a/LICENSE.md
++++++-+++++ b/LICENSE.md
++++++-++@@ -1,6 +1,6 @@
++++++-++ # All Rights Reserved
++++++-++ 
++++++-++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
++++++-+++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++-++ 
++++++-++ All rights reserved.
++++++-++```
++++++-++# docs
++++++-++```diff
++++++-++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++++++-++index b19448e..642d169 100644
++++++-++--- a/How our APIs work/README.md	
++++++-+++++ b/How our APIs work/README.md	
++++++-++@@ -62,5 +62,5 @@ flowchart LR
++++++-++ ```
++++++-++ 
++++++-++ [^1]: These APIs use a serverless architecture.
++++++-++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++++++-+++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++++++-++ [^3]: These are not all possible response codes. This list may be expanded in the future.
++++++-++```
+++++++ diff --git a/repos.md b/repos.md
+++++++-new file mode 100644
+++++++-index 0000000..32d2b60
+++++++---- /dev/null
++++++++index 32d2b60..cd59e87 100644
++++++++--- a/repos.md
+++++++ +++ b/repos.md
+++++++-@@ -0,0 +1,187 @@
+++++++-+# modID
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# .github
+++++++-+```diff
+++++++-+diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
+++++++-+index c853676..ee71c7a 100644
+++++++-+--- a/.github/workflows/action.yml
+++++++-++++ b/.github/workflows/action.yml
+++++++-+@@ -26,5 +26,8 @@ jobs:
+++++++-+           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
+++++++-+         run: |
+++++++-+           python scripts/check_repo.py
+++++++-++          echo "$(printf '=%.0s' {1..100})"
+++++++-+           python scripts/repo_count.py
+++++++-++          echo "$(printf '=%.0s' {1..100})"
+++++++-+           python scripts/diff.py
+++++++-++          echo "$(printf '=%.0s' {1..100})"
+++++++-+```
+++++++-+# localS
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# CurlS
+++++++-+```diff
+++++++-+diff --git a/HowTo.md b/HowTo.md
+++++++-+index 27cd68d..415ce8c 100644
+++++++-+--- a/HowTo.md
+++++++-++++ b/HowTo.md
+++++++-+@@ -5,8 +5,7 @@
+++++++-+ > Some Features Might Not Work On MacOS or Linux.
+++++++-+ 
+++++++-+ ### Installation
+++++++-+-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
+++++++-+-and download the file.
+++++++-++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
+++++++-+ 
+++++++-+ ---
+++++++-+ Then drop the .py file somewhere accessible, like:
+++++++-+```
+++++++-+# RandG
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# Jsonify
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# FibF
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# RegexIt
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# Refs
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# RElog
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# requesttimeout.github.io
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# hosting
+++++++-+```diff
+++++++-+diff --git a/LICENSE.md b/LICENSE.md
+++++++-+index d2fe92c..857a8ac 100644
+++++++-+--- a/LICENSE.md
+++++++-++++ b/LICENSE.md
+++++++-+@@ -1,6 +1,6 @@
+++++++-+ # All Rights Reserved
+++++++-+ 
+++++++-+-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++-++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
+++++++-+ 
+++++++-+ All rights reserved.
+++++++-+```
+++++++-+# docs
+++++++-+```diff
+++++++-+diff --git a/How our APIs work/README.md b/How our APIs work/README.md
+++++++-+index b19448e..642d169 100644
+++++++-+--- a/How our APIs work/README.md	
+++++++-++++ b/How our APIs work/README.md	
+++++++-+@@ -62,5 +62,5 @@ flowchart LR
+++++++-+ ```
++++++++@@ -14,19 +14,19 @@ index d2fe92c..857a8ac 100644
++++++++ ```
++++++++ # .github
++++++++ ```diff
++++++++-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++++++++-index c853676..ee71c7a 100644
++++++++---- a/.github/workflows/action.yml
++++++++-+++ b/.github/workflows/action.yml
++++++++-@@ -26,5 +26,8 @@ jobs:
++++++++-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++++++++-         run: |
++++++++-           python scripts/check_repo.py
++++++++-+          echo "$(printf '=%.0s' {1..100})"
++++++++-           python scripts/repo_count.py
++++++++-+          echo "$(printf '=%.0s' {1..100})"
++++++++-           python scripts/diff.py
++++++++-+          echo "$(printf '=%.0s' {1..100})"
+++++++++diff --git a/scripts/repo_count.py b/scripts/repo_count.py
+++++++++index 1294a5e..fd47ea9 100644
+++++++++--- a/scripts/repo_count.py
++++++++++++ b/scripts/repo_count.py
+++++++++@@ -7,7 +7,7 @@
+++++++++     "Accept": "application/vnd.github+json",
+++++++++     "X-GitHub-Api-Version": "2022-11-28",
+++++++++ }
+++++++++-public, public = 0, 0
++++++++++public, private = 0, 0
+++++++++ page = 1
+++++++ + 
+++++++-+ [^1]: These APIs use a serverless architecture.
+++++++-+-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++++++-++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
+++++++-+ [^3]: These are not all possible response codes. This list may be expanded in the future.
+++++++-+```
+++++++++ while True:
++++++++ ```
++++++++ # localS
++++++++ ```diff
++++++++@@ -173,15 +173,197 @@ index d2fe92c..857a8ac 100644
++++++++ ```
++++++++ # docs
++++++++ ```diff
++++++++-diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++++++++-index b19448e..642d169 100644
++++++++---- a/How our APIs work/README.md	
++++++++-+++ b/How our APIs work/README.md	
++++++++-@@ -62,5 +62,5 @@ flowchart LR
++++++++- ```
++++++++- 
++++++++- [^1]: These APIs use a serverless architecture.
++++++++--[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
++++++++-+[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++++++++- [^3]: These are not all possible response codes. This list may be expanded in the future.
+++++++++diff --git a/repos.md b/repos.md
+++++++++new file mode 100644
+++++++++index 0000000..32d2b60
+++++++++--- /dev/null
++++++++++++ b/repos.md
+++++++++@@ -0,0 +1,187 @@
++++++++++# modID
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# .github
++++++++++```diff
++++++++++diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
++++++++++index c853676..ee71c7a 100644
++++++++++--- a/.github/workflows/action.yml
+++++++++++++ b/.github/workflows/action.yml
++++++++++@@ -26,5 +26,8 @@ jobs:
++++++++++           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
++++++++++         run: |
++++++++++           python scripts/check_repo.py
+++++++++++          echo "$(printf '=%.0s' {1..100})"
++++++++++           python scripts/repo_count.py
+++++++++++          echo "$(printf '=%.0s' {1..100})"
++++++++++           python scripts/diff.py
+++++++++++          echo "$(printf '=%.0s' {1..100})"
++++++++++```
++++++++++# localS
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# CurlS
++++++++++```diff
++++++++++diff --git a/HowTo.md b/HowTo.md
++++++++++index 27cd68d..415ce8c 100644
++++++++++--- a/HowTo.md
+++++++++++++ b/HowTo.md
++++++++++@@ -5,8 +5,7 @@
++++++++++ > Some Features Might Not Work On MacOS or Linux.
++++++++++ 
++++++++++ ### Installation
++++++++++-Click here to [download CurlS.py](https://raw.githubusercontent.com/RequestTimeout/CurlS/main/src/CurlS.py), OR go to /RequestTimeout/CurlS/src/CurlS.py
++++++++++-and download the file.
+++++++++++Go to /RequestTimeout/CurlS/src/CurlS.py and download the file.
++++++++++ 
++++++++++ ---
++++++++++ Then drop the .py file somewhere accessible, like:
++++++++++```
++++++++++# RandG
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# Jsonify
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# FibF
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# RegexIt
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# Refs
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# RElog
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# requesttimeout.github.io
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# hosting
++++++++++```diff
++++++++++diff --git a/LICENSE.md b/LICENSE.md
++++++++++index d2fe92c..857a8ac 100644
++++++++++--- a/LICENSE.md
+++++++++++++ b/LICENSE.md
++++++++++@@ -1,6 +1,6 @@
++++++++++ # All Rights Reserved
++++++++++ 
++++++++++-Copyright (c) 2026 [Request Timeout](https://github.com/RequestTimeout)
+++++++++++Copyright (c) YEAR [Request Timeout](https://github.com/RequestTimeout)
++++++++++ 
++++++++++ All rights reserved.
++++++++++```
++++++++++# docs
++++++++++```diff
++++++++++diff --git a/How our APIs work/README.md b/How our APIs work/README.md
++++++++++index b19448e..642d169 100644
++++++++++--- a/How our APIs work/README.md	
+++++++++++++ b/How our APIs work/README.md	
++++++++++@@ -62,5 +62,5 @@ flowchart LR
++++++++++ ```
++++++++++ 
++++++++++ [^1]: These APIs use a serverless architecture.
++++++++++-[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates the and returns the response.
+++++++++++[^2]: Incoming requests are routed to the API code hosted by Cloudflare, which generates and returns the response.
++++++++++ [^3]: These are not all possible response codes. This list may be expanded in the future.
++++++++++```
++++++++ ```
++++++  ```
++++   ```
++    ```
     ```
    ```
-  ```
+- ```
+ ```
 ```
