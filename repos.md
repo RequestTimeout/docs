@@ -17,18 +17,27 @@ index d2fe92c..857a8ac 100644
 ```
 # .github
 ```diff
-diff --git a/.github/workflows/action.yml b/.github/workflows/action.yml
-index a9c4840..a6e4e12 100644
---- a/.github/workflows/action.yml
-+++ b/.github/workflows/action.yml
-@@ -25,7 +25,6 @@ jobs:
-         env:
-           ADMIN_PAT: ${{ secrets.ADMIN_PAT }}
-         run: |
--          echo "$(printf '=%.0s' {1..100})"
-           python scripts/check_repo.py
-           echo "$(printf '=%.0s' {1..100})"
-           python scripts/repo_count.py
+diff --git a/scripts/diff.py b/scripts/diff.py
+index 0354589..335cb9b 100644
+--- a/scripts/diff.py
++++ b/scripts/diff.py
+@@ -35,6 +35,8 @@
+         name = repo["name"]
+         branch = repo["default_branch"]
+ 
++        if name in ["docs"]:
++            continue
+         print(f"Fetching diff for repo: {name}...")
+         diff_response = requests.get(
+             f"https://api.github.com/repos/RequestTimeout/{name}/commits/{branch}",
+@@ -52,8 +54,6 @@
+         if not diff:
+             continue
+ 
+-        if name in ["docs"]:
+-            continue
+         print(f"Adding repo {name} to output...")
+         output += f"# {name}\n```diff\n{diff}\n```\n"
 ```
 # localS
 ```diff
