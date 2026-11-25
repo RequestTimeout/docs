@@ -154,21 +154,3 @@ index d2fe92c..857a8ac 100644
  
  All rights reserved.
 ```
-# requesttimeout.github.io
-```diff
-diff --git a/services/index.html b/services/index.html
-index 9a7f5e6..212a2c8 100644
---- a/services/index.html
-+++ b/services/index.html
-@@ -8,10 +8,6 @@
-     name="description"
-     content="RequestTimeout Services — developer services, APIs, and useful things made by RequestTimeout."
- >
--  <link rel="icon" href="/assets/images/icon%2032x32.svg" sizes="32x32">
--  <link rel="icon" href="/assets/images/icon%20512x512.svg" sizes="512x512">
--  <link rel="apple-touch-icon" href="/assets/images/icon%20512x512.svg">
--
-   <style>
-     :root {
-       --bg: #0b0d11;
-```
